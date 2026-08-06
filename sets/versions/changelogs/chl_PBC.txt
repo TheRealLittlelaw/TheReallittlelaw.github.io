@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Perilous Myr
+type: Artifact Creature — Myr => Artifact Creature — Phyrexian Myr
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

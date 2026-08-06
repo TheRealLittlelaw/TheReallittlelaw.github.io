@@ -2414,7 +2414,7 @@
 			"name": "Perilous Myr",
 			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Myr",
+			"type": "Artifact Creature — Phyrexian Myr",
 			"collector_number": "329",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png"

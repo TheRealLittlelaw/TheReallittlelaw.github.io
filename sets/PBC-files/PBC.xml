@@ -4111,7 +4111,7 @@ Alliance — Whenever another creature you control enters, this creature gets +1
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Myr</type>
+				<type>Artifact Creature — Phyrexian Myr</type>
 				<maintype>Creature</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
