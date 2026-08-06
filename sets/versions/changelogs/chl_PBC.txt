@@ -1,4 +1,15 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Parasitic Aetherborn
+rules_text: Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i] [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i] => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

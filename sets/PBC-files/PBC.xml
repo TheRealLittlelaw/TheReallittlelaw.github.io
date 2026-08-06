@@ -5416,7 +5416,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Parasitic Aetherborn</name>
-			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.) (Any amount of damage this deals to a creature is enough to destroy it.)
+			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/318.png" num="111">PBC</set>
 			<prop>

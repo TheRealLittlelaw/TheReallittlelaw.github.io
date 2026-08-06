@@ -6693,7 +6693,7 @@
             "number": 111,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i] [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]",
+            "rules_text": "Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]",
             "flavor_text": "[i]Every stolen breath buys another day. Every day deepens the hunger.[/i]",
             "pt": "3/3",
             "special_text": "",
