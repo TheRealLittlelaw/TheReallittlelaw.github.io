@@ -6334,7 +6334,7 @@
             "color_identity": "WB",
             "cost": "{WB}",
             "rules_text": "Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]\nEnchanted creature has lifelink. [i](Damage dealt by that creature also causes its controller to gain that much life.)[/i]",
-            "flavor_text": "[i]FT[/i]",
+            "flavor_text": "[i]All for one.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
