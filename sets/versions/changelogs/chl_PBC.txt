@@ -1,4 +1,32 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Lumberjack's Axe added.
+Growth Spiral added.
+Magmatic Violator added.
+Marketplace Brawl added.
+Leonin Revivalist added.
+Discern added.
+Revolutionary Throng added.
+Kernon's Consecration added.
+Dawnhoof Behemoth added.
+
+Defiant Strike removed.
+Reality Gyre removed.
+Ogre Siege Breaker removed.
+Ancient Wurm removed.
+Tajuru Rootweaver removed.
+Industrialize removed.
+Borderland Marauder removed.
+Vigilant Baloth removed.
+Voice of Karametra removed.
+
+Axgard Battle-Skald
+
+Cadalon Outfitter
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
