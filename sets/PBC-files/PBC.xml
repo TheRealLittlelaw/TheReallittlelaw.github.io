@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Pauper Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-06</releasedate>
+			<releasedate>2026-08-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2005,7 +2005,7 @@ Chandra&apos;s Inferno deals 2 damage to each creature. If this spell was kicked
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Primal Resurgance</name>
+			<name>Primal Resurgence</name>
 			<text>Enchant land (Target a land as you cast this. This card enters attached to that land.)
 Enchanted land has &quot;{T}: Add {G}{G}.&quot;</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/118.png" num="204">PBC</set>

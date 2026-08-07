@@ -1181,7 +1181,7 @@
 			}
 		},
 		{
-			"name": "Primal Resurgance",
+			"name": "Primal Resurgence",
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
@@ -3721,7 +3721,7 @@
 	1 Excavation Engine
 	1 Into the Woods
 	1 Thalia's Skill
-	1 Primal Resurgance
+	1 Primal Resurgence
 	1 Exeunt
 	1 Left on the Wayside
 	1 Terraformer's Globe

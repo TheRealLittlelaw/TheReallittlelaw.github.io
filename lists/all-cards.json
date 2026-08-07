@@ -2715,7 +2715,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Primal Resurgance",
+            "card_name": "Primal Resurgence",
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment \u2013 Aura",
@@ -7559,7 +7559,7 @@
             "shape": "normal",
             "set": "PBC",
             "loyalty": "",
-            "artist": "Timespiraled",
+            "artist": "Dominic Barrios",
             "alias": "",
             "position": "328",
             "rotated": false,

@@ -2486,7 +2486,7 @@
             "notes": ""
         },
         {
-            "card_name": "Primal Resurgance",
+            "card_name": "Primal Resurgence",
             "color": "G",
             "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
@@ -6910,7 +6910,7 @@
             "shape": "normal",
             "set": "PBC",
             "loyalty": "",
-            "artist": "Timespiraled",
+            "artist": "Dominic Barrios",
             "alias": "",
             "position": "328",
             "rotated": false,
@@ -7568,5 +7568,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

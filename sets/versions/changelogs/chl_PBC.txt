@@ -1,4 +1,14 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Primal Resurgence added.
+
+Primal Resurgance removed.
+
+Thievery
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
