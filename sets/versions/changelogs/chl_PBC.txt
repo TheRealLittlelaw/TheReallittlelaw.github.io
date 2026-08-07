@@ -1,4 +1,12 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Reply to the Call added.
+
+Dynacharge removed.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Lumberjack's Axe added.

@@ -1121,7 +1121,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Rending Raptor</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/66.png" num="165">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/66.png" num="164">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1397,7 @@ Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals
 		<card>
 			<name>Kessig Flamebreather</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/82.png" num="155">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/82.png" num="154">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2042,7 +2042,7 @@ Enchanted land has &quot;{T}: Add {G}{G}.&quot;</text>
 			<text>Choose one —
 • Destroy target artifact.
 • Add {R}{R}{R}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/120.png" num="156">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/120.png" num="155">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2214,7 +2214,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Igneous Visions</name>
 			<text>Exile the top card of your library. You may play that card this turn.
 Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/130.png" num="152">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/130.png" num="151">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2316,7 +2316,7 @@ Draw a card.</text>
 			<name>Pensive Caldera</name>
 			<text>When this creature enters, you may discard a card. If you do, draw a card.
 {T}: Add {R}. Spend this mana only to cast artifact, instant, or sorcery spells.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/136.png" num="164">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/136.png" num="163">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2369,7 +2369,7 @@ When this creature enters, draw a card. This creature deals 2 damage to each opp
 			<name>Heretic Hunters</name>
 			<text>This spell costs {1} less to cast for each instant and/or sorcery card in your graveyard.
 When this creature enters, you may discard your hand. If you do, draw a card and this creature deals 2 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/139.png" num="151">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/139.png" num="150">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2717,7 +2717,7 @@ You may cast Sliver spells as though they had flash.</text>
 			<name>Fling</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Fling deals damage equal to the sacrificed creature&apos;s power to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/160.png" num="148">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/160.png" num="147">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2973,7 +2973,7 @@ The owner of target nonland permanent puts it into their library second from the
 		<card>
 			<name>Goblin Tomb Raider</name>
 			<text>As long as you control an artifact, this creature gets +1/+0 and has haste. (It can attack and {T} this turn.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/175.png" num="150">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/175.png" num="149">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3074,7 +3074,7 @@ Whenever you cast a spell that targets this creature, draw a card.</text>
 		<card>
 			<name>Impact Tremors</name>
 			<text>Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/181.png" num="153">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/181.png" num="152">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3091,7 +3091,7 @@ Whenever you cast a spell that targets this creature, draw a card.</text>
 			<name>Firebolt</name>
 			<text>Firebolt deals 2 damage to any target.
 Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/182.png" num="146">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/182.png" num="145">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3108,7 +3108,7 @@ Flashback {4}{R} (You may cast this card from your graveyard for its flashback c
 			<name>Fireblast</name>
 			<text>You may sacrifice two Mountains rather than pay this spell&apos;s mana cost.
 Fireblast deals 4 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/183.png" num="145">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/183.png" num="144">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3122,10 +3122,10 @@ Fireblast deals 4 damage to any target.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Dynacharge</name>
-			<text>Target creature you control gets +2/+0 until end of turn.
-Overload {2}{R} (You may cast this spell for its overload cost. If you do, change &quot;target&quot; in its text to &quot;each.&quot;)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/184.png" num="142">PBC</set>
+			<name>Reply to the Call</name>
+			<text>Target creature you control gets +1/+0 and gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)
+Draw a card.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/184.png" num="165">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3142,7 +3142,7 @@ Overload {2}{R} (You may cast this spell for its overload cost. If you do, chang
 			<name>Famished Foragers</name>
 			<text>When this creature enters, if an opponent lost life this turn, add {R}{R}{R}.
 {2}{R}, Discard a card: Draw a card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/185.png" num="143">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/185.png" num="142">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3245,7 +3245,7 @@ Overload {2}{R} (You may cast this spell for its overload cost. If you do, chang
 			<name>Fanatical Firebrand</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 {T}, Sacrifice this creature: It deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/191.png" num="144">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/191.png" num="143">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3916,7 +3916,7 @@ Flashback {4}{B} (You may cast this card from your graveyard for its flashback c
 			<name>Frenzied Goblin</name>
 			<text>Whenever this creature attacks, 
 you may pay {R}. If you do, target creature can&apos;t block this turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/230.png" num="149">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/230.png" num="148">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3935,7 +3935,7 @@ you may pay {R}. If you do, target creature can&apos;t block this turn.</text>
 			<text>Haste (This creature can attack and {T} as
 soon as it comes under your control.)
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/231.png" num="163">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/231.png" num="162">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3954,7 +3954,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<text>Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
 Haste (This creature can attack and {T} as soon as it comes under your control.)
 When this creature enters, if it was kicked, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/232.png" num="154">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/232.png" num="153">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4186,7 +4186,7 @@ Draw two cards.</text>
 		<card>
 			<name>Makeshift Munitions</name>
 			<text>{1}, Sacrifice an artifact or creature: This enchantment deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png" num="160">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png" num="159">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4409,7 +4409,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Fireslinger</name>
 			<text>{T}: This creature deals 1 damage to any target and 1 damage to you.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/259.png" num="147">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/259.png" num="146">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4443,7 +4443,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Lightning Strike</name>
 			<text>Lightning Strike deals 3 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png" num="158">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png" num="157">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4876,7 +4876,7 @@ When this creature enters, destroy up to one target artifact or enchantment.</te
 			<text>Equipped creature gets +1/+0 and has trample. (This creature can deal excess combat damage to the player it&apos;s attacking.)
 {2}{R}, Sacrifice this Equipment: It deals 3 damage to any target.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/286.png" num="157">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/286.png" num="156">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4913,7 +4913,7 @@ At the beginning of each combat, you may have this creature deal 3 damage to tar
 When this Equipment enters, attach it to target creature you control.
 Equipped creature gets +2/+0.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png" num="161">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png" num="160">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5301,7 +5301,7 @@ Equip—Sacrifice a creature. (Sacrifice a creature: Attach to target creature y
 			<name>Molten Monstrosity</name>
 			<text>This spell costs {X} less to cast, where X is the greatest power among creatures you control.
 Trample (That creature can deal excess combat damage to the player it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/311.png" num="162">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/311.png" num="161">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5504,7 +5504,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Magmatic Cache</name>
 			<text>As an additional cost to cast this spell, sacrifice a land and discard a card.
 Draw three cards.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/323.png" num="159">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/323.png" num="158">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
