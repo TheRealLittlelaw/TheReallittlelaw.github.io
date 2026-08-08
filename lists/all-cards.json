@@ -6472,7 +6472,7 @@
             "color_identity": "BG",
             "cost": "{1}{BG}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or pay {3}.",
-            "flavor_text": "[i]\u201cDaemogoths are among the oldest and most cunning fiends known to mages. Do not heed their promises.\u201d\n\u2014 Valentin, Witherbloom Dean [/i]",
+            "flavor_text": "[i]\u201cDaemogoths are among the oldest and most cunning fiends known to mages. Do not heed their promises.\u201d\n\u2014Valentin, Witherbloom Dean [/i]",
             "pt": "5/4",
             "special_text": "",
             "shape": "normal",

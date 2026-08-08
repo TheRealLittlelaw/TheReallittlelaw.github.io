@@ -1,4 +1,12 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Ravenous Daemogoth
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
