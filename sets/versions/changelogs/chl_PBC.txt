@@ -1,4 +1,21 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Skyclave Infiltrator
+pt: 1/1 => 1/3
+
+Parasitism
+rules_text: Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]
+Enchanted creature has lifelink. [i](Damage dealt by that creature also causes its controller to gain that much life.)[/i] => Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]
+Enchanted creature has lifelink. [i](Damage dealt by that creature also causes its controller to gain that much life.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Ravenous Daemogoth
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Mind Control added.

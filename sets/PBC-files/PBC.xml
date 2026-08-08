@@ -1853,7 +1853,7 @@ Draw three cards.</text>
 				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4682,7 +4682,8 @@ Enchanted creature gets +2/-2.</text>
 		<card>
 			<name>Parasitism</name>
 			<text>Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)
-Enchanted creature has lifelink. (Damage dealt by that creature also causes its controller to gain that much life.)</text>
+Enchanted creature has lifelink. (Damage dealt by that creature also causes its controller to gain that much life.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png" num="282">PBC</set>
 			<prop>
 				<layout>normal</layout>
