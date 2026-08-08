@@ -1,4 +1,12 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Mind Control added.
+
+Hydro-Channeler removed.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Reply to the Call added.

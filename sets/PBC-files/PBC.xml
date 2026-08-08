@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>P. Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-07</releasedate>
+			<releasedate>2026-08-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2871,7 +2871,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>Impulse</name>
 			<text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/169.png" num="70">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/169.png" num="69">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5128,22 +5128,21 @@ Equip {3}. This ability costs {1} less to activate for each other Equipment you 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Hydro-Channeler</name>
-			<text>{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
-{1}, {T}: : Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png" num="69">PBC</set>
+			<name>Mind Control</name>
+			<text>Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)
+You control enchanted creature.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png" num="70">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — MerfolkWizard</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Windstorm Drake</name>

@@ -928,12 +928,12 @@
         "position": "300"
     },
     {
-        "card_name": "Hydro-Channeler",
+        "card_name": "Impulse",
         "number": 69,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "301"
+        "position": "169"
     },
     {
         "card_name": "Pestilent Scavenger",
@@ -968,12 +968,12 @@
         "position": "134"
     },
     {
-        "card_name": "Impulse",
+        "card_name": "Mind Control",
         "number": 70,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "169"
+        "position": "301"
     },
     {
         "card_name": "Phyrexian Ghoul",

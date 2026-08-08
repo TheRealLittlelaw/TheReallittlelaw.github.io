@@ -1695,7 +1695,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/169.png"
 			}
@@ -3011,11 +3011,11 @@
 			}
 		},
 		{
-			"name": "Hydro-Channeler",
+			"name": "Mind Control",
 			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — MerfolkWizard",
-			"collector_number": "69",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png"
 			}
@@ -3904,7 +3904,7 @@
 	1 Novice Knight
 	1 Thunder Lasso
 	1 Plate Armor
-	1 Hydro-Channeler
+	1 Mind Control
 	1 Windstorm Drake
 	1 Bewildering Blizzard
 	1 Marauding Blight-Priest
