@@ -2024,7 +2024,7 @@
 			"name": "Territorial Hammerskull",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Rhino Soldier",
+			"type": "Creature — Dinosaur",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/202.png"

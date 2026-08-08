@@ -1,4 +1,19 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Essence Scatter
+
+Territorial Hammerskull
+type: Creature — Rhino Soldier => Creature — Dinosaur
+
+Deranged Assistant
+
+Relic Shortsword
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

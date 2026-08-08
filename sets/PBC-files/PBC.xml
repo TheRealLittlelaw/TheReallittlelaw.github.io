@@ -3438,7 +3438,7 @@ each artifact and/or enchantment you control.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Rhino Soldier</type>
+				<type>Creature — Dinosaur</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
