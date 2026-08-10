@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>P. Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-08</releasedate>
+			<releasedate>2026-08-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -102,7 +102,7 @@
 		<card>
 			<name>Orzhov Signet</name>
 			<text>{1}, {T}: Add {W}{B}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png" num="328">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png" num="329">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@
 		<card>
 			<name>Rakdos Signet</name>
 			<text>{1}, {T}: Add {B}{R}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png" num="330">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png" num="331">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -132,7 +132,7 @@
 		<card>
 			<name>Selesnya Signet</name>
 			<text>{1}, {T}: Add {G}{W}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png" num="332">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png" num="333">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -147,7 +147,7 @@
 		<card>
 			<name>Simic Signet</name>
 			<text>{1}, {T}: Add {G}{U}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/9.png" num="334">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/9.png" num="335">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -987,7 +987,7 @@ Flashback {2}{R}{W} (You may cast this card from your graveyard for its flashbac
 			<name>Smiting Helix</name>
 			<text>Smiting Helix deals 3 damage to any target and you gain 3 life.
 Flashback {R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/58.png" num="120">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/58.png" num="121">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1089,7 +1089,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Memnite</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="324">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="325">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1155,7 +1155,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Reassembling Skeleton</name>
 			<text>{1}{B}: Return this card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/68.png" num="115">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/68.png" num="116">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1191,7 +1191,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 			<text>When this creature enters, 
 destroy target nonland permanent 
 an opponent controls.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png" num="325">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png" num="326">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1742,7 +1742,7 @@ Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
 			<name>Ornithopter of Paradise</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 {T}: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png" num="327">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png" num="328">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2146,7 +2146,7 @@ When this creature enters, you may mill three cards. (Put the top three cards of
 			<name>Sacrifical Lamb</name>
 			<text>When this creature dies, draw a card.
 {T}: Sacrifice this creature.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/126.png" num="116">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/126.png" num="117">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2156,6 +2156,7 @@ When this creature enters, you may mill three cards. (Put the top three cards of
 				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2197,7 +2198,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Twilight Ambush</name>
 			<text>Destroy target creature with power or toughness 2 or less.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/129.png" num="125">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/129.png" num="126">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2701,7 +2702,7 @@ You may cast Sliver spells as though they had flash.</text>
 		<card>
 			<name>Universal Automaton</name>
 			<text>Changeling (This card is every creature type.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/159.png" num="338">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/159.png" num="339">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2923,7 +2924,7 @@ When this creature enters, draw a card.</text>
 		<card>
 			<name>Supernatural Stamina</name>
 			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/172.png" num="121">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/172.png" num="122">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3311,7 +3312,7 @@ Draw a card.</text>
 			<name>Unearth</name>
 			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/195.png" num="126">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/195.png" num="127">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3345,7 +3346,7 @@ Draw two cards.</text>
 			<name>Sengir Epicure</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 When this creature enters, each opponent loses 3 life and you gain 3 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/197.png" num="118">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/197.png" num="119">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3794,7 +3795,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 			<name>Sanguine Syphoner</name>
 			<text>Whenever this creature attacks, each opponent loses 1 life and you gain
 1 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/223.png" num="117">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/223.png" num="118">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4107,7 +4108,7 @@ Alliance — Whenever another creature you control enters, this creature gets +1
 		<card>
 			<name>Perilous Myr</name>
 			<text>When this creature dies, it deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png" num="329">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png" num="330">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4154,7 +4155,7 @@ Basic landcycling {1} ({1}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Myr Enforcer</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/244.png" num="326">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/244.png" num="327">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4372,16 +4373,16 @@ When this creature enters, untap up to five lands.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Vampire Lacerator</name>
-			<text>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/257.png" num="127">PBC</set>
+			<name>Ravenous Chupacabra</name>
+			<text>When this creature enters, destroy target creature an opponent controls.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/257.png" num="115">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Vampire Warrior</type>
+				<type>Creature — Beast Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>2/2</pt>
@@ -4992,7 +4993,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Three Tree Mascot</name>
 			<text>Changeling (This card is every creature type.)
 {1}: Add one mana of any color. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/293.png" num="337">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/293.png" num="338">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5008,7 +5009,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>Shambling Suit</name>
 			<text>Shambling Suit&apos;s power is equal
 to the number of artifacts and/or enchantments you control.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png" num="333">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png" num="334">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5198,11 +5199,11 @@ get +1/+0.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Triskadekaphobia</name>
+			<name>Triskaidekaphobia</name>
 			<text>At the beginning of your upkeep, choose one —
 • Each player with exactly 13 life loses the game, then each player gains 1 life.
 • Each player with exactly 13 life loses the game, then each player loses 1 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png" num="124">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png" num="125">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5236,7 +5237,7 @@ Equip {1}</text>
 			<name>Slagwurm Armor</name>
 			<text>Equipped creature gets +0/+6.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/307.png" num="335">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/307.png" num="336">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5404,7 +5405,7 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
 			<text>Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png" num="331">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png" num="332">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5453,14 +5454,14 @@ This creature can block up to seven additional creatures each combat.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Vesuvan Arms</name>
-			<text>Equipped creature has menace and can block an additional creature each combat. (That creature can&apos;t be blocked except by two or more creatures.)
-Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/320.png" num="339">PBC</set>
+			<name>Mana Potion</name>
+			<text>When Mana Potion enters, scry 1, then draw a card. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
+{2}, {T}, Sacrifice Mana Potion: Add two mana of any one color.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/320.png" num="324">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact — Equipment</type>
+				<type>Artifact</type>
 				<maintype>Artifact</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -5589,7 +5590,7 @@ The first ability of an artifact you activate each turn costs {1} less.</text>
 		<card>
 			<name>Thievery</name>
 			<text>Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/328.png" num="123">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/328.png" num="124">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5624,7 +5625,7 @@ When this creature dies, draw a card.</text>
 		<card>
 			<name>Springleaf Drum</name>
 			<text>{T}, Tap an untapped creature you control: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png" num="336">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png" num="337">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5686,7 +5687,7 @@ When this creature dies, draw a card.</text>
 			<name>Skeletal Mycoid</name>
 			<text>When this creature dies, each opponent loses 2 life and you gain 2 life.
 {6}{B}, Exile this card from your graveyard: Each opponent loses 3 life and you gain 3 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png" num="119">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png" num="120">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5791,7 +5792,7 @@ Flying (This creature can&apos;t be blocked except by creatures with flying or r
 		<card>
 			<name>Syphon Sliver</name>
 			<text>Sliver creatures you control have lifelink. (Damage dealt by them also causes you to gain that much life.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/340.png" num="122">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/340.png" num="123">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

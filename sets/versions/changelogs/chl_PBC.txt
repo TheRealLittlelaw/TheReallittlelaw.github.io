@@ -1,4 +1,19 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Ravenous Chupacabra added.
+Triskaidekaphobia added.
+Mana Potion added.
+
+Vampire Lacerator removed.
+Triskadekaphobia removed.
+Vesuvan Arms removed.
+
+Sacrifical Lamb
+pt:  => 1/1
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

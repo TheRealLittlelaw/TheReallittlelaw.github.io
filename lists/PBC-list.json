@@ -1056,12 +1056,12 @@
         "position": "218"
     },
     {
-        "card_name": "Reassembling Skeleton",
+        "card_name": "Ravenous Chupacabra",
         "number": 115,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "68"
+        "position": "257"
     },
     {
         "card_name": "Magmatic Cache",
@@ -1096,12 +1096,12 @@
         "position": "255"
     },
     {
-        "card_name": "Sacrifical Lamb",
+        "card_name": "Reassembling Skeleton",
         "number": 116,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "126"
+        "position": "68"
     },
     {
         "card_name": "Makeshift Munitions",
@@ -1136,12 +1136,12 @@
         "position": "200"
     },
     {
-        "card_name": "Sanguine Syphoner",
+        "card_name": "Sacrifical Lamb",
         "number": 117,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "223"
+        "position": "126"
     },
     {
         "card_name": "Mirran Banesplitter",
@@ -1176,12 +1176,12 @@
         "position": "41"
     },
     {
-        "card_name": "Sengir Epicure",
+        "card_name": "Sanguine Syphoner",
         "number": 118,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "197"
+        "position": "223"
     },
     {
         "card_name": "Molten Monstrosity",
@@ -1216,12 +1216,12 @@
         "position": "345"
     },
     {
-        "card_name": "Skeletal Mycoid",
+        "card_name": "Sengir Epicure",
         "number": 119,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "334"
+        "position": "197"
     },
     {
         "card_name": "Monastery Swiftspear",
@@ -1256,12 +1256,12 @@
         "position": "254"
     },
     {
-        "card_name": "Smiting Helix",
+        "card_name": "Skeletal Mycoid",
         "number": 120,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "58"
+        "position": "334"
     },
     {
         "card_name": "Pensive Caldera",
@@ -1296,12 +1296,12 @@
         "position": "339"
     },
     {
-        "card_name": "Supernatural Stamina",
+        "card_name": "Smiting Helix",
         "number": 121,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "172"
+        "position": "58"
     },
     {
         "card_name": "Rending Raptor",
@@ -1336,12 +1336,12 @@
         "position": "329"
     },
     {
-        "card_name": "Syphon Sliver",
+        "card_name": "Supernatural Stamina",
         "number": 122,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "340"
+        "position": "172"
     },
     {
         "card_name": "Reply to the Call",
@@ -1376,12 +1376,12 @@
         "position": "121"
     },
     {
-        "card_name": "Thievery",
+        "card_name": "Syphon Sliver",
         "number": 123,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "328"
+        "position": "340"
     },
     {
         "card_name": "Revolutionary Throng",
@@ -1416,12 +1416,12 @@
         "position": "245"
     },
     {
-        "card_name": "Triskadekaphobia",
+        "card_name": "Thievery",
         "number": 124,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "305"
+        "position": "328"
     },
     {
         "card_name": "Rolling Thunder",
@@ -1456,12 +1456,12 @@
         "position": "337"
     },
     {
-        "card_name": "Twilight Ambush",
+        "card_name": "Triskaidekaphobia",
         "number": 125,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "129"
+        "position": "305"
     },
     {
         "card_name": "Seismic Monstrosaur",
@@ -1496,12 +1496,12 @@
         "position": "76"
     },
     {
-        "card_name": "Unearth",
+        "card_name": "Twilight Ambush",
         "number": 126,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "195"
+        "position": "129"
     },
     {
         "card_name": "Set Ablaze",
@@ -1536,12 +1536,12 @@
         "position": "71"
     },
     {
-        "card_name": "Vampire Lacerator",
+        "card_name": "Unearth",
         "number": 127,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "257"
+        "position": "195"
     },
     {
         "card_name": "Shivan Dragon",
@@ -2625,8 +2625,16 @@
         "position": "5"
     },
     {
-        "card_name": "Memnite",
+        "card_name": "Mana Potion",
         "number": 324,
+        "shape": "normal",
+        "set": "PBC",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Memnite",
+        "number": 325,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2634,7 +2642,7 @@
     },
     {
         "card_name": "Meteor Golem",
-        "number": 325,
+        "number": 326,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2642,7 +2650,7 @@
     },
     {
         "card_name": "Myr Enforcer",
-        "number": 326,
+        "number": 327,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2650,7 +2658,7 @@
     },
     {
         "card_name": "Ornithopter of Paradise",
-        "number": 327,
+        "number": 328,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2658,7 +2666,7 @@
     },
     {
         "card_name": "Orzhov Signet",
-        "number": 328,
+        "number": 329,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2666,7 +2674,7 @@
     },
     {
         "card_name": "Perilous Myr",
-        "number": 329,
+        "number": 330,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2674,7 +2682,7 @@
     },
     {
         "card_name": "Rakdos Signet",
-        "number": 330,
+        "number": 331,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2682,7 +2690,7 @@
     },
     {
         "card_name": "Relic Shortsword",
-        "number": 331,
+        "number": 332,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2690,7 +2698,7 @@
     },
     {
         "card_name": "Selesnya Signet",
-        "number": 332,
+        "number": 333,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2698,7 +2706,7 @@
     },
     {
         "card_name": "Shambling Suit",
-        "number": 333,
+        "number": 334,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2706,7 +2714,7 @@
     },
     {
         "card_name": "Simic Signet",
-        "number": 334,
+        "number": 335,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2714,7 +2722,7 @@
     },
     {
         "card_name": "Slagwurm Armor",
-        "number": 335,
+        "number": 336,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2722,7 +2730,7 @@
     },
     {
         "card_name": "Springleaf Drum",
-        "number": 336,
+        "number": 337,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2730,7 +2738,7 @@
     },
     {
         "card_name": "Three Tree Mascot",
-        "number": 337,
+        "number": 338,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2738,19 +2746,11 @@
     },
     {
         "card_name": "Universal Automaton",
-        "number": 338,
-        "shape": "normal",
-        "set": "PBC",
-        "rotated": false,
-        "position": "159"
-    },
-    {
-        "card_name": "Vesuvan Arms",
         "number": 339,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "320"
+        "position": "159"
     },
     {
         "card_name": "Viridian Longbow",

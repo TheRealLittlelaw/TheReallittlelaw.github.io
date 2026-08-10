@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "328",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "330",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "332",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "334",
+			"collector_number": "335",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/9.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/58.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton Warrior",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/68.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "327",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Sheep",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/126.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/129.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "338",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/159.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/172.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/195.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Vampire Noble",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/197.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/223.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Phyrexian Myr",
-			"collector_number": "329",
+			"collector_number": "330",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "326",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/244.png"
 			}
@@ -2571,11 +2571,11 @@
 			}
 		},
 		{
-			"name": "Vampire Lacerator",
+			"name": "Ravenous Chupacabra",
 			"rarity": "special",
-			"mana_cost": "{B}",
-			"type": "Creature — Vampire Warrior",
-			"collector_number": "127",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/257.png"
 			}
@@ -2935,7 +2935,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "337",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/293.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "333",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png"
 			}
@@ -3051,11 +3051,11 @@
 			}
 		},
 		{
-			"name": "Triskadekaphobia",
+			"name": "Triskaidekaphobia",
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png"
 			}
@@ -3075,7 +3075,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "335",
+			"collector_number": "336",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/307.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "331",
+			"collector_number": "332",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png"
 			}
@@ -3201,11 +3201,11 @@
 			}
 		},
 		{
-			"name": "Vesuvan Arms",
+			"name": "Mana Potion",
 			"rarity": "special",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
-			"collector_number": "339",
+			"type": "Artifact",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/320.png"
 			}
@@ -3285,7 +3285,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/328.png"
 			}
@@ -3305,7 +3305,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "336",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Fungus Skeleton",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png"
 			}
@@ -3405,7 +3405,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Sliver",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/340.png"
 			}
@@ -3860,7 +3860,7 @@
 	1 Serum Visionary
 	1 Peregrine Drake
 	1 Condescend
-	1 Vampire Lacerator
+	1 Ravenous Chupacabra
 	1 Chitin Gravestalker
 	1 Fireslinger
 	1 Screamreach Goblin
@@ -3908,7 +3908,7 @@
 	1 Windstorm Drake
 	1 Bewildering Blizzard
 	1 Marauding Blight-Priest
-	1 Triskadekaphobia
+	1 Triskaidekaphobia
 	1 Blade of Greatoak
 	1 Slagwurm Armor
 	1 Death Pits Trophy
@@ -3923,7 +3923,7 @@
 	1 Relic Shortsword
 	1 Parasitic Aetherborn
 	1 Octohelix Krasis
-	1 Vesuvan Arms
+	1 Mana Potion
 	1 Goliath Tamer
 	1 Undying Bond
 	1 Magmatic Cache
