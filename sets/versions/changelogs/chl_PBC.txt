@@ -1,4 +1,272 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Eager Scavenger added.
+
+Morgue Theft removed.
+
+Frenzied Goblin
+
+Monastery Swiftspear
+
+Keldon Overseer
+
+Llanowar Elves
+
+Malamet Brawler
+
+Beast-Kin Ranger
+
+Llanowar Visionary
+
+Go Forth
+
+Guardian's Embrace
+
+Ram Through
+
+Winding Way
+
+Perilous Myr
+
+Deadly Percision
+
+Ash Barrens
+
+Myr Enforcer
+
+Thoughtcast
+
+Makeshift Munitions
+
+Murder
+
+Heliod's Pilgrim
+
+Coalition Honor Guard
+
+Petrify
+
+Deranged Assistant
+
+Zephyr Winder
+
+Cruel Witness
+
+Serum Visionary
+
+Peregrine Drake
+
+Condescend
+
+Ravenous Chupacabra
+
+Chitin Gravestalker
+
+Fireslinger
+
+Screamreach Goblin
+
+Lightning Strike
+
+Sieze Opportunity
+
+Rolling Thunder
+
+Displace
+
+Heron of Hope
+
+Secluded Steppe
+
+Lonely Sandbar
+
+Barren Moor
+
+Forgotten Cave
+
+Tranquil Thicket
+
+Thorn of Lys Alana
+
+Torpid Colossus
+
+Scorching Blood
+
+Stripped of Standing
+
+Parasitism
+
+Bond of Honour
+
+Kindred Leadership
+
+Reliquary Lich
+
+Political Opportunist
+
+Outland Alchemist
+
+Ravenous Daemogoth
+
+Cicatrice Hellion
+
+Changeling Wayfinder
+
+Changeling Outcast
+
+Chomping Changeling
+
+Lightning Spear
+
+Grisly Offering
+
+Mirran Banesplitter
+
+Golem-Skin Gauntlets
+
+Viridian Longbow
+
+Explorer's Scope
+
+Cliffhaven Kitesail
+
+Three Tree Mascot
+
+Shambling Suit
+
+Audacity
+
+Kernon's Consecration
+
+Cinderheart Giant
+
+Novice Knight
+
+Thunder Lasso
+
+Plate Armor
+
+Mind Control
+
+Windstorm Drake
+
+Bewildering Blizzard
+
+Marauding Blight-Priest
+
+Triskaidekaphobia
+
+Blade of Greatoak
+
+Slagwurm Armor
+
+Death Pits Trophy
+
+Demonmail Hauberk
+
+Ironclad Slayer
+
+Molten Monstrosity
+
+Atashvar Bowguard
+
+Ambush Viper
+
+Dredge the Graves
+
+Go Blank
+
+Set Ablaze
+
+Relic Shortsword
+
+Parasitic Aetherborn
+
+Octohelix Krasis
+
+Mana Potion
+
+Goliath Tamer
+
+Undying Bond
+
+Magmatic Cache
+
+Filial Piety
+
+Loresprout
+
+Unleash the Dragon
+
+Cadalon Outfitter
+
+Thievery
+
+Spy Thopter
+
+Springleaf Drum
+
+Cultivate
+
+Escape Tunnel
+
+Midnight Tilling
+
+Skeletal Mycoid
+
+Dedicated Bushwacker
+
+Tenth District Veteran
+
+Tidehollow Gargoyle
+
+Bonescythe Sliver
+
+Slippery Sliver
+
+Syphon Sliver
+
+Venom Sliver
+
+Glorious Anthem
+
+Fountainport Elder
+
+Webweaver Changeling
+
+Sabotage
+
+Rumor Gatherer
+
+Starnheim Courser
+
+Herald of the Legion
+
+Attercop
+
+Boughside Wanderers
+
+Dawnhoof Behemoth
+
+Gitrog's Spawn
+
+Sahra's Brute
+
+Primordeal Pachyderm
+
+Goldnight Commander
+
+Clone
+
+Wanderer of the Wilds
+
+Giant's Boulder
+
+Mezzio Thespian
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Ravenous Chupacabra added.

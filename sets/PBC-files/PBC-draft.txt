@@ -775,7 +775,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/77.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/119.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/194.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/222.png"
 			}
@@ -2291,23 +2291,13 @@
 			}
 		},
 		{
-			"name": "Morgue Theft",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "107",
-			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/229.png"
-			}
-		},
-		{
 			"name": "Frenzied Goblin",
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Berserker",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/230.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/229.png"
 			}
 		},
 		{
@@ -2317,7 +2307,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/231.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/230.png"
 			}
 		},
 		{
@@ -2327,7 +2317,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/232.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/231.png"
 			}
 		},
 		{
@@ -2337,7 +2327,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/233.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/232.png"
 			}
 		},
 		{
@@ -2347,7 +2337,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/234.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/233.png"
 			}
 		},
 		{
@@ -2357,7 +2347,7 @@
 			"type": "Creature — Elf Ranger",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/235.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/234.png"
 			}
 		},
 		{
@@ -2367,7 +2357,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/236.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/235.png"
 			}
 		},
 		{
@@ -2377,7 +2367,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/237.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/236.png"
 			}
 		},
 		{
@@ -2387,7 +2377,7 @@
 			"type": "Instant",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/238.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/237.png"
 			}
 		},
 		{
@@ -2397,7 +2387,7 @@
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/239.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/238.png"
 			}
 		},
 		{
@@ -2407,7 +2397,7 @@
 			"type": "Sorcery",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/239.png"
 			}
 		},
 		{
@@ -2417,7 +2407,7 @@
 			"type": "Artifact Creature — Phyrexian Myr",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png"
 			}
 		},
 		{
@@ -2427,7 +2417,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/242.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/241.png"
 			}
 		},
 		{
@@ -2437,7 +2427,7 @@
 			"type": "Land",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/242.png"
 			}
 		},
 		{
@@ -2447,7 +2437,7 @@
 			"type": "Artifact Creature — Myr",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/244.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png"
 			}
 		},
 		{
@@ -2457,7 +2447,7 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/245.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/244.png"
 			}
 		},
 		{
@@ -2467,7 +2457,7 @@
 			"type": "Enchantment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/245.png"
 			}
 		},
 		{
@@ -2477,7 +2467,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/247.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png"
 			}
 		},
 		{
@@ -2487,7 +2477,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/248.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/247.png"
 			}
 		},
 		{
@@ -2497,7 +2487,7 @@
 			"type": "Creature — Human Flagbearer",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/249.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/248.png"
 			}
 		},
 		{
@@ -2507,7 +2497,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/250.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/249.png"
 			}
 		},
 		{
@@ -2517,7 +2507,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/251.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/250.png"
 			}
 		},
 		{
@@ -2527,7 +2517,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/252.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/251.png"
 			}
 		},
 		{
@@ -2537,7 +2527,7 @@
 			"type": "Creature — Bird Horror",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/253.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/252.png"
 			}
 		},
 		{
@@ -2547,7 +2537,7 @@
 			"type": "Creature — Vedalken Wizard",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/254.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/253.png"
 			}
 		},
 		{
@@ -2557,7 +2547,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/255.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/254.png"
 			}
 		},
 		{
@@ -2567,7 +2557,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/256.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/255.png"
 			}
 		},
 		{
@@ -2577,7 +2567,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/257.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/256.png"
 			}
 		},
 		{
@@ -2587,7 +2577,7 @@
 			"type": "Creature — Insect Warrior",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/258.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/257.png"
 			}
 		},
 		{
@@ -2597,7 +2587,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/259.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/258.png"
 			}
 		},
 		{
@@ -2607,7 +2597,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/260.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/259.png"
 			}
 		},
 		{
@@ -2617,7 +2607,7 @@
 			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/260.png"
 			}
 		},
 		{
@@ -2627,7 +2617,7 @@
 			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/262.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Sorcery",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/263.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/262.png"
 			}
 		},
 		{
@@ -2647,7 +2637,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/264.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/263.png"
 			}
 		},
 		{
@@ -2657,7 +2647,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/265.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/264.png"
 			}
 		},
 		{
@@ -2667,7 +2657,7 @@
 			"type": "Land",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/266.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/265.png"
 			}
 		},
 		{
@@ -2677,7 +2667,7 @@
 			"type": "Land",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/267.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/266.png"
 			}
 		},
 		{
@@ -2687,7 +2677,7 @@
 			"type": "Land",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/268.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/267.png"
 			}
 		},
 		{
@@ -2697,7 +2687,7 @@
 			"type": "Land",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/269.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/268.png"
 			}
 		},
 		{
@@ -2707,7 +2697,7 @@
 			"type": "Land",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/270.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/269.png"
 			}
 		},
 		{
@@ -2717,7 +2707,7 @@
 			"type": "Creature — Elf Archer",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/271.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/270.png"
 			}
 		},
 		{
@@ -2727,7 +2717,7 @@
 			"type": "Creature — Turtle",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/272.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/271.png"
 			}
 		},
 		{
@@ -2737,7 +2727,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/273.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/272.png"
 			}
 		},
 		{
@@ -2747,7 +2737,7 @@
 			"type": "Instant",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/274.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/273.png"
 			}
 		},
 		{
@@ -2757,7 +2747,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/274.png"
 			}
 		},
 		{
@@ -2767,7 +2757,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/276.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png"
 			}
 		},
 		{
@@ -2777,7 +2767,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/277.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/276.png"
 			}
 		},
 		{
@@ -2787,7 +2777,7 @@
 			"type": "Creature — Skeleton Wizard",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/278.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/277.png"
 			}
 		},
 		{
@@ -2797,7 +2787,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/279.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/278.png"
 			}
 		},
 		{
@@ -2807,7 +2797,7 @@
 			"type": "Creature",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/280.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/279.png"
 			}
 		},
 		{
@@ -2817,7 +2807,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/281.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/280.png"
 			}
 		},
 		{
@@ -2827,7 +2817,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/282.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/281.png"
 			}
 		},
 		{
@@ -2837,7 +2827,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/283.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/282.png"
 			}
 		},
 		{
@@ -2847,7 +2837,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/284.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/283.png"
 			}
 		},
 		{
@@ -2857,7 +2847,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/285.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/284.png"
 			}
 		},
 		{
@@ -2867,7 +2857,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/286.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/285.png"
 			}
 		},
 		{
@@ -2877,7 +2867,7 @@
 			"type": "Creature — Human",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/287.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/286.png"
 			}
 		},
 		{
@@ -2887,7 +2877,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/287.png"
 			}
 		},
 		{
@@ -2897,7 +2887,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/289.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png"
 			}
 		},
 		{
@@ -2907,7 +2897,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/290.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/289.png"
 			}
 		},
 		{
@@ -2917,7 +2907,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/291.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/290.png"
 			}
 		},
 		{
@@ -2927,7 +2917,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/292.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/291.png"
 			}
 		},
 		{
@@ -2937,7 +2927,7 @@
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/293.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/292.png"
 			}
 		},
 		{
@@ -2947,7 +2937,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/293.png"
 			}
 		},
 		{
@@ -2957,7 +2947,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/295.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png"
 			}
 		},
 		{
@@ -2967,7 +2957,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/296.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/295.png"
 			}
 		},
 		{
@@ -2977,7 +2967,7 @@
 			"type": "Creature — Giant Berserker",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/297.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/296.png"
 			}
 		},
 		{
@@ -2987,7 +2977,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/298.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/297.png"
 			}
 		},
 		{
@@ -2997,7 +2987,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/299.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/298.png"
 			}
 		},
 		{
@@ -3007,7 +2997,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/300.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/299.png"
 			}
 		},
 		{
@@ -3017,7 +3007,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/300.png"
 			}
 		},
 		{
@@ -3027,7 +3017,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/302.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png"
 			}
 		},
 		{
@@ -3037,7 +3027,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/302.png"
 			}
 		},
 		{
@@ -3045,9 +3035,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Cleric",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png"
 			}
 		},
 		{
@@ -3057,7 +3047,7 @@
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png"
 			}
 		},
 		{
@@ -3067,7 +3057,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/306.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png"
 			}
 		},
 		{
@@ -3077,7 +3067,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/307.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/306.png"
 			}
 		},
 		{
@@ -3087,7 +3077,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/308.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/307.png"
 			}
 		},
 		{
@@ -3097,7 +3087,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/309.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/308.png"
 			}
 		},
 		{
@@ -3107,7 +3097,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/310.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/309.png"
 			}
 		},
 		{
@@ -3117,7 +3107,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/311.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/310.png"
 			}
 		},
 		{
@@ -3127,7 +3117,7 @@
 			"type": "Creature — Human Archer",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/312.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/311.png"
 			}
 		},
 		{
@@ -3137,7 +3127,7 @@
 			"type": "Creature — Snake",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/313.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/312.png"
 			}
 		},
 		{
@@ -3147,7 +3137,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/313.png"
 			}
 		},
 		{
@@ -3155,9 +3145,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/315.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png"
 			}
 		},
 		{
@@ -3167,7 +3157,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/316.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/315.png"
 			}
 		},
 		{
@@ -3177,7 +3167,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/316.png"
 			}
 		},
 		{
@@ -3187,7 +3177,7 @@
 			"type": "Creature — Aetherborn Vampire",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/318.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png"
 			}
 		},
 		{
@@ -3197,7 +3187,7 @@
 			"type": "Creature — Plant Octopus Hydra",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/318.png"
 			}
 		},
 		{
@@ -3207,7 +3197,7 @@
 			"type": "Artifact",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/320.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png"
 			}
 		},
 		{
@@ -3217,7 +3207,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/321.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/320.png"
 			}
 		},
 		{
@@ -3227,7 +3217,7 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/322.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/321.png"
 			}
 		},
 		{
@@ -3237,7 +3227,7 @@
 			"type": "Sorcery",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/323.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/322.png"
 			}
 		},
 		{
@@ -3247,7 +3237,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/324.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/323.png"
 			}
 		},
 		{
@@ -3257,7 +3247,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/325.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/324.png"
 			}
 		},
 		{
@@ -3267,7 +3257,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/326.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/325.png"
 			}
 		},
 		{
@@ -3277,7 +3267,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/327.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/326.png"
 			}
 		},
 		{
@@ -3287,7 +3277,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/328.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/327.png"
 			}
 		},
 		{
@@ -3297,7 +3287,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/329.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/328.png"
 			}
 		},
 		{
@@ -3307,7 +3297,7 @@
 			"type": "Artifact",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/329.png"
 			}
 		},
 		{
@@ -3317,7 +3307,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/331.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png"
 			}
 		},
 		{
@@ -3327,7 +3317,7 @@
 			"type": "Land",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/332.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/331.png"
 			}
 		},
 		{
@@ -3337,7 +3327,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/333.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/332.png"
 			}
 		},
 		{
@@ -3347,7 +3337,7 @@
 			"type": "Creature — Fungus Skeleton",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/333.png"
 			}
 		},
 		{
@@ -3357,7 +3347,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/335.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png"
 			}
 		},
 		{
@@ -3367,7 +3357,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/336.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/335.png"
 			}
 		},
 		{
@@ -3377,7 +3367,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/337.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/336.png"
 			}
 		},
 		{
@@ -3387,7 +3377,7 @@
 			"type": "Creature — Sliver",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/338.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/337.png"
 			}
 		},
 		{
@@ -3397,7 +3387,7 @@
 			"type": "Creature — Sliver",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/339.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/338.png"
 			}
 		},
 		{
@@ -3407,7 +3397,7 @@
 			"type": "Creature — Sliver",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/340.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/339.png"
 			}
 		},
 		{
@@ -3417,7 +3407,7 @@
 			"type": "Creature — Sliver",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/341.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/340.png"
 			}
 		},
 		{
@@ -3427,7 +3417,7 @@
 			"type": "Enchantment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/342.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/341.png"
 			}
 		},
 		{
@@ -3437,7 +3427,7 @@
 			"type": "Creature — Frog Wizard",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/343.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/342.png"
 			}
 		},
 		{
@@ -3447,7 +3437,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/344.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/343.png"
 			}
 		},
 		{
@@ -3457,7 +3447,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/345.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/344.png"
 			}
 		},
 		{
@@ -3467,7 +3457,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/346.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/345.png"
 			}
 		},
 		{
@@ -3477,7 +3467,7 @@
 			"type": "Creature — Pegasus",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/347.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/346.png"
 			}
 		},
 		{
@@ -3487,7 +3477,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/348.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/347.png"
 			}
 		},
 		{
@@ -3497,7 +3487,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/349.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/348.png"
 			}
 		},
 		{
@@ -3507,7 +3497,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/350.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/349.png"
 			}
 		},
 		{
@@ -3517,7 +3507,7 @@
 			"type": "Creature — Ox",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/351.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/350.png"
 			}
 		},
 		{
@@ -3527,7 +3517,7 @@
 			"type": "Creature — Frog",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/352.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/351.png"
 			}
 		},
 		{
@@ -3537,7 +3527,7 @@
 			"type": "Creature — Ogre Warrior",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/353.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/352.png"
 			}
 		},
 		{
@@ -3547,7 +3537,7 @@
 			"type": "Creature — Elephant Avatar",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/354.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/353.png"
 			}
 		},
 		{
@@ -3557,7 +3547,7 @@
 			"type": "Creature — Human Cleric Soldier",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/355.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/354.png"
 			}
 		},
 		{
@@ -3567,7 +3557,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/356.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/355.png"
 			}
 		},
 		{
@@ -3577,7 +3567,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/357.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/356.png"
 			}
 		},
 		{
@@ -3587,7 +3577,7 @@
 			"type": "Artifact",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/358.png"
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/357.png"
 			}
 		},
 		{
@@ -3596,6 +3586,16 @@
 			"mana_cost": "{3}",
 			"type": "Creature — Human Actor",
 			"collector_number": "2",
+			"image_uris": {
+				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/358.png"
+			}
+		},
+		{
+			"name": "Eager Scavenger",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hyena",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/359.png"
 			}
@@ -3832,7 +3832,6 @@
 	1 Dross Hunter
 	1 Defile
 	1 Chainer's Edict
-	1 Morgue Theft
 	1 Frenzied Goblin
 	1 Monastery Swiftspear
 	1 Keldon Overseer
@@ -3963,3 +3962,4 @@
 	1 Wanderer of the Wilds
 	1 Giant's Boulder
 	1 Mezzio Thespian
+	1 Eager Scavenger
