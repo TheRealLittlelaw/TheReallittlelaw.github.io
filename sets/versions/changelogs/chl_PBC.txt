@@ -1,4 +1,111 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Repulsor Mage added.
+Seeker of Mysteries added.
+Suncolored Dreamer added.
+Groundswell added.
+Tyranny of Trax added.
+Untested Recruit added.
+Warsong's Envoy added.
+Mournwraith added.
+Valiant Changeling added.
+Squad Rallier added.
+Make Your Move added.
+Existential Paradox added.
+Searing Sands added.
+Peacock of Good Omens added.
+Symbol of Tranquility added.
+Claim of the Deep added.
+Brinechurn added.
+Slumberzoa added.
+Intangibility added.
+Shifting Terrain added.
+Relearn History added.
+Mantle of Tides added.
+Frozen in Ice added.
+Phantasmal Dreadmaw added.
+Witching Well added.
+Beseech the Waves added.
+Spiraling Agony added.
+Protean Twins added.
+Forbidden Knowledge added.
+Morgue Theft added.
+Maven of Fear added.
+Bokor's Recuitment added.
+Thunderscorn added.
+Tip the Scales added.
+Homingbird added.
+Reckoner Shinobi added.
+Etched Familiar added.
+Lava Dart added.
+Impassioned Craze added.
+Bloodthirsty Jaws added.
+Forgeborn Juggernaut added.
+Sizzling Changeling added.
+Magmakin Artillerist added.
+Costly Victory added.
+Serpent of the Shabnam Sea added.
+Courageous Goblin added.
+Tormentor's Helm added.
+Thunderwolf added.
+Voice of the Roil added.
+Watch the Wildlife added.
+Restless Wanderer added.
+G04 Axe of the Crann added.
+G05 Airship Crash added.
+Rosethorn Halberd added.
+Duskwood Vanguard added.
+Strange Discovery added.
+Blissful Lull added.
+Bloodleaf Warcry added.
+Benthic Sheepo added.
+Sighted-Caste Knight added.
+Final Payment added.
+Adorned Champion added.
+Assailed Farmer added.
+Fracture Psyche added.
+Nimble Elemental added.
+Kaleidomorph added.
+Fire Covenant added.
+Skull Prophet added.
+Gruul War Chant added.
+Harrier Corps added.
+Gift of Orzhova added.
+Harl's Hornblower added.
+Knight of the Orchards added.
+Cunning Plan added.
+Mesmage added.
+Glinthide Hero added.
+Scions of War added.
+Innocence Lost added.
+Gangly Stomper added.
+Mishra's Siegebreaker added.
+Ruin Guardian added.
+Transcendent Effigy added.
+Giant Hewn Toad added.
+Containment Construct added.
+Civic Concord added.
+Sepulchral Quarter added.
+Sunlit District added.
+Verdant Commons added.
+Veiled Ruins added.
+Restless Port added.
+Ancient Enclave added.
+Rugged Village added.
+Forsaken Garden added.
+Brazen Hideout added.
+
+Repulsion Mage removed.
+Windstorm Drake removed.
+Octohelix Krasis removed.
+Midnight Tilling removed.
+
+Outland Alchemist
+type: Creature => Creature — Human Rogue
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Eager Scavenger added.
