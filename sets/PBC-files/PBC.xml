@@ -744,7 +744,7 @@ Flash (You may cast this spell any time you could cast an instant.)</text>
 		</card>
 		<card>
 			<name>Ketramose&apos;s Ferryman</name>
-			<text>Discard a card: Tap this creature. It gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.) (Damage and effects that say &quot;destroy&quot; don&apos;t destroy this creature.)</text>
+			<text>Discard a card: Tap this creature. It gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/44.png" num="343">PBC</set>
 			<prop>
 				<layout>normal</layout>

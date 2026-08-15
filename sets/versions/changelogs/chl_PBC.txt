@@ -1,4 +1,13 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Ketramose's Ferryman
+rules_text: Discard a card: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say “destroy” don't destroy it.)[/i] [i](Damage and effects that say “destroy” don't destroy this creature.)[/i] => Discard a card: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say “destroy” don't destroy it.)[/i]
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

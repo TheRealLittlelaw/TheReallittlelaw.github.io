@@ -1020,7 +1020,7 @@
             "number": 343,
             "color_identity": "WB",
             "cost": "{WB}{WB}",
-            "rules_text": "Discard a card: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say \u201cdestroy\u201d don't destroy it.)[/i] [i](Damage and effects that say \u201cdestroy\u201d don't destroy this creature.)[/i]",
+            "rules_text": "Discard a card: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say \u201cdestroy\u201d don't destroy it.)[/i]",
             "flavor_text": "[i]\u201cAll things return in time. So teaches the youngest of the gods.\u201d[/i]",
             "pt": "3/1",
             "special_text": "",
