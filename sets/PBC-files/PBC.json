@@ -8002,7 +8002,7 @@
             "shape": "normal",
             "set": "PBC",
             "loyalty": "",
-            "artist": "",
+            "artist": "John Avon",
             "alias": "",
             "position": "380",
             "rotated": false,
@@ -9458,5 +9458,5 @@
             "notes": ""
         }
     ],
-    "version": 16
+    "version": 17
 }
