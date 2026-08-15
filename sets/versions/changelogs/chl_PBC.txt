@@ -1,4 +1,62 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Boisterous Battle-Skald added.
+Prophetic Prism added.
+Moment of Eternity added.
+Lofty Denial added.
+Vithian Specter added.
+Axgard Cavalry added.
+Axe of the Crann added.
+Airship Crash added.
+
+Axgard Battle-Skald removed.
+Ichor Wellspring removed.
+Parasitism removed.
+Bewildering Blizzard removed.
+Etched Familiar removed.
+Costly Victory removed.
+G04 Axe of the Crann removed.
+G05 Airship Crash removed.
+
+Repulsor Mage
+
+Kessig Flamebreather
+type: Creature => Creature — Human Shaman
+
+Cicatrice Hellion
+cost: {3}{RG} => {4}{RG}
+pt: 4/2 => 5/4
+
+Seeker of Mysteries
+type: Creature — Drake => Creature — Human Wizard
+
+Tenth District Veteran
+
+Warsong's Envoy
+pt:  => 3/2
+
+Sizzling Changeling
+pt:  => 3/2
+
+Duskwood Vanguard
+
+Kaleidomorph
+type: Creature => Creature — Shapeshifter
+
+Knight of the Orchards
+
+Glinthide Hero
+cost: {GU} => {1}{GU}{GU}
+
+Gangly Stomper
+type: Creature => Creature — Shapeshifter
+
+Ruin Guardian
+rules_text: As long as you control another artifact, Ruin Guardian gets +1/+1. => As long as you control another artifact, this creature gets +1/+1.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Repulsor Mage added.

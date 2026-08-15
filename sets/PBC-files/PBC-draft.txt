@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "400",
+			"collector_number": "399",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "407",
+			"collector_number": "406",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
-			"collector_number": "353",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/33.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/40.png"
 			}
@@ -571,11 +571,11 @@
 			}
 		},
 		{
-			"name": "Axgard Battle-Skald",
+			"name": "Boisterous Battle-Skald",
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Dwarf Warrior Bard",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/58.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Elemental Berserker",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "402",
+			"collector_number": "401",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{G}{G}{G}",
 			"type": "Creature — Elemental Giant",
-			"collector_number": "230",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/65.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton Warrior",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/68.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "403",
+			"collector_number": "402",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/72.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/74.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/77.png"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/81.png"
 			}
@@ -824,7 +824,7 @@
 			"name": "Kessig Flamebreather",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"type": "Creature — Human Shaman",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/82.png"
@@ -935,7 +935,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/93.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/95.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "406",
+			"collector_number": "405",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/112.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/119.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Rat Rogue",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/122.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/124.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Sheep",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/127.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/129.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/133.png"
 			}
@@ -1515,7 +1515,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Sliver",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/151.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Sliver",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/152.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Sliver",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/154.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Insect",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/158.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "229",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/162.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "224",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/166.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/169.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/170.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/172.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/174.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/187.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/189.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/193.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/195.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/196.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Vampire Noble",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/197.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Phyrexian Zombie",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/198.png"
 			}
@@ -2051,11 +2051,11 @@
 			}
 		},
 		{
-			"name": "Ichor Wellspring",
+			"name": "Prophetic Prism",
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "399",
+			"collector_number": "408",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/205.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}",
 			"type": "Sorcery",
-			"collector_number": "354",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/213.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/217.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/220.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/221.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Orc Warrior",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/222.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/223.png"
 			}
@@ -2255,7 +2255,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Phyrexian Horror",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/225.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Ranger",
-			"collector_number": "223",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/234.png"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Phyrexian Myr",
-			"collector_number": "408",
+			"collector_number": "407",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "405",
+			"collector_number": "404",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png"
 			}
@@ -2465,7 +2465,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/250.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Bird Horror",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/252.png"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/255.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/256.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/263.png"
 			}
@@ -2741,11 +2741,11 @@
 			}
 		},
 		{
-			"name": "Parasitism",
+			"name": "Moment of Eternity",
 			"rarity": "special",
 			"mana_cost": "{W/B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "356",
+			"type": "Instant",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/274.png"
 			}
@@ -2795,7 +2795,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "355",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/279.png"
 			}
@@ -2813,7 +2813,7 @@
 		{
 			"name": "Cicatrice Hellion",
 			"rarity": "special",
-			"mana_cost": "{3}{R/G}",
+			"mana_cost": "{4}{R/G}",
 			"type": "Creature — Hellion",
 			"collector_number": "323",
 			"image_uris": {
@@ -2845,7 +2845,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "231",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/284.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/294.png"
 			}
@@ -2965,7 +2965,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Giant Berserker",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/296.png"
 			}
@@ -3014,18 +3014,18 @@
 			"name": "Seeker of Mysteries",
 			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Creature — Drake",
+			"type": "Creature — Human Wizard",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/301.png"
 			}
 		},
 		{
-			"name": "Bewildering Blizzard",
+			"name": "Lofty Denial",
 			"rarity": "special",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/302.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Cleric",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png"
 			}
@@ -3125,7 +3125,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Snake",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/312.png"
 			}
@@ -3145,7 +3145,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Aetherborn Vampire",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/317.png"
 			}
@@ -3195,7 +3195,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "401",
+			"collector_number": "400",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png"
 			}
@@ -3235,7 +3235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "236",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/323.png"
 			}
@@ -3265,7 +3265,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/326.png"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/327.png"
 			}
@@ -3305,7 +3305,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/330.png"
 			}
@@ -3335,7 +3335,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Fungus Skeleton",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/333.png"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "234",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/334.png"
 			}
@@ -3395,7 +3395,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Sliver",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/339.png"
 			}
@@ -3485,7 +3485,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/348.png"
 			}
@@ -3495,7 +3495,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "228",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/349.png"
 			}
@@ -3505,7 +3505,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Ox",
-			"collector_number": "233",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/350.png"
 			}
@@ -3555,7 +3555,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/355.png"
 			}
@@ -3715,7 +3715,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/371.png"
 			}
@@ -3725,7 +3725,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Fish Elemental",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/372.png"
 			}
@@ -3745,7 +3745,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/374.png"
 			}
@@ -3785,7 +3785,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/378.png"
 			}
@@ -3825,7 +3825,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/382.png"
 			}
@@ -3835,7 +3835,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/383.png"
 			}
@@ -3845,7 +3845,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/384.png"
 			}
@@ -3855,7 +3855,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/385.png"
 			}
@@ -3865,7 +3865,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/386.png"
 			}
@@ -3885,7 +3885,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Elemental",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/388.png"
 			}
@@ -3895,7 +3895,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/389.png"
 			}
@@ -3905,7 +3905,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Bird Construct",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/390.png"
 			}
@@ -3915,17 +3915,17 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Human Ninja",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/391.png"
 			}
 		},
 		{
-			"name": "Etched Familiar",
+			"name": "Vithian Specter",
 			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Phyrexian Fox",
-			"collector_number": "125",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/392.png"
 			}
@@ -3955,7 +3955,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/395.png"
 			}
@@ -3991,11 +3991,11 @@
 			}
 		},
 		{
-			"name": "Costly Victory",
+			"name": "Axgard Cavalry",
 			"rarity": "special",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "175",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Berserker",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/399.png"
 			}
@@ -4071,21 +4071,21 @@
 			}
 		},
 		{
-			"name": "G04 Axe of the Crann",
+			"name": "Axe of the Crann",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "237",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/407.png"
 			}
 		},
 		{
-			"name": "G05 Airship Crash",
+			"name": "Airship Crash",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "238",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/408.png"
 			}
@@ -4105,7 +4105,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "235",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/410.png"
 			}
@@ -4125,7 +4125,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "226",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/412.png"
 			}
@@ -4135,7 +4135,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "227",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/413.png"
 			}
@@ -4145,7 +4145,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Sheep Hippo",
-			"collector_number": "225",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/414.png"
 			}
@@ -4214,7 +4214,7 @@
 			"name": "Kaleidomorph",
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
-			"type": "Creature",
+			"type": "Creature — Shapeshifter",
 			"collector_number": "290",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/421.png"
@@ -4313,7 +4313,7 @@
 		{
 			"name": "Glinthide Hero",
 			"rarity": "special",
-			"mana_cost": "{G/U}",
+			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "336",
 			"image_uris": {
@@ -4344,7 +4344,7 @@
 			"name": "Gangly Stomper",
 			"rarity": "special",
 			"mana_cost": "{2}{R/G}",
-			"type": "Creature",
+			"type": "Creature — Shapeshifter",
 			"collector_number": "334",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/434.png"
@@ -4355,7 +4355,7 @@
 			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "404",
+			"collector_number": "403",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/435.png"
 			}
@@ -4560,7 +4560,7 @@
 	1 Castigate
 	1 Pillory of the Sleepless
 	1 Pursue the Past
-	1 Axgard Battle-Skald
+	1 Boisterous Battle-Skald
 	1 Smiting Helix
 	1 Skyknight Legionnaire
 	1 Satyr Enchanter
@@ -4708,7 +4708,7 @@
 	1 Territorial Hammerskull
 	1 Inspiring Overseer
 	1 Drown in Sorrow
-	1 Ichor Wellspring
+	1 Prophetic Prism
 	1 Standard Bearer
 	1 Lone Missionary
 	1 Thraben Charm
@@ -4777,7 +4777,7 @@
 	1 Torpid Colossus
 	1 Scorching Blood
 	1 Stripped of Standing
-	1 Parasitism
+	1 Moment of Eternity
 	1 Bond of Honour
 	1 Kindred Leadership
 	1 Reliquary Lich
@@ -4805,7 +4805,7 @@
 	1 Plate Armor
 	1 Mind Control
 	1 Seeker of Mysteries
-	1 Bewildering Blizzard
+	1 Lofty Denial
 	1 Marauding Blight-Priest
 	1 Triskaidekaphobia
 	1 Blade of Greatoak
@@ -4895,14 +4895,14 @@
 	1 Tip the Scales
 	1 Homingbird
 	1 Reckoner Shinobi
-	1 Etched Familiar
+	1 Vithian Specter
 	1 Lava Dart
 	1 Impassioned Craze
 	1 Bloodthirsty Jaws
 	1 Forgeborn Juggernaut
 	1 Sizzling Changeling
 	1 Magmakin Artillerist
-	1 Costly Victory
+	1 Axgard Cavalry
 	1 Serpent of the Shabnam Sea
 	1 Courageous Goblin
 	1 Tormentor's Helm
@@ -4910,8 +4910,8 @@
 	1 Voice of the Roil
 	1 Watch the Wildlife
 	1 Restless Wanderer
-	1 G04 Axe of the Crann
-	1 G05 Airship Crash
+	1 Axe of the Crann
+	1 Airship Crash
 	1 Rosethorn Halberd
 	1 Duskwood Vanguard
 	1 Strange Discovery
