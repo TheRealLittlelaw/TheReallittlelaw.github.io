@@ -6700,8 +6700,7 @@ Whenever this creature attacks, you may sacrifice another creature or artifact. 
 		<card>
 			<name>Vithian Specter</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
-Whenever this creature deals combat damage to a player, if they have two or more cards in hand, that player discards
-a card. Otherwise, that player loses 2 life.</text>
+Whenever this creature deals combat damage to a player, they discard a card if they have two or more cards in hand. Otherwise, that player loses 2 life.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/392.png" num="163">PBC</set>
 			<prop>
 				<layout>normal</layout>
