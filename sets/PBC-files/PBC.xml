@@ -57,7 +57,7 @@
 		<card>
 			<name>Golgari Signet</name>
 			<text>{1}, {T}: Add {B}{G}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/3.png" num="397">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/3.png" num="396">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -72,7 +72,7 @@
 		<card>
 			<name>Gruul Signet</name>
 			<text>{1}, {T}: Add {R}{G}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/4.png" num="398">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/4.png" num="397">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -87,7 +87,7 @@
 		<card>
 			<name>Izzet Signet</name>
 			<text>{1}, {T}: Add {U}{R}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/5.png" num="399">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/5.png" num="398">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -102,7 +102,7 @@
 		<card>
 			<name>Orzhov Signet</name>
 			<text>{1}, {T}: Add {W}{B}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png" num="406">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png" num="405">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@
 		<card>
 			<name>Rakdos Signet</name>
 			<text>{1}, {T}: Add {B}{R}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png" num="409">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png" num="408">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -132,7 +132,7 @@
 		<card>
 			<name>Selesnya Signet</name>
 			<text>{1}, {T}: Add {G}{W}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png" num="412">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png" num="411">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1090,7 +1090,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Memnite</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="401">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="400">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1192,7 +1192,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 			<text>When this creature enters, 
 destroy target nonland permanent 
 an opponent controls.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png" num="402">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png" num="401">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1743,7 +1743,7 @@ Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
 			<name>Ornithopter of Paradise</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 {T}: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png" num="405">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png" num="404">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3488,7 +3488,7 @@ When this creature enters, you gain 1 life and draw a card.</text>
 			<name>Prophetic Prism</name>
 			<text>When this artifact enters, draw a card.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/205.png" num="408">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/205.png" num="407">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4092,7 +4092,7 @@ Alliance — Whenever another creature you control enters, this creature gets +1
 		<card>
 			<name>Perilous Myr</name>
 			<text>When this creature dies, it deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png" num="407">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png" num="406">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4139,7 +4139,7 @@ Basic landcycling {1} ({1}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Myr Enforcer</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png" num="404">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png" num="403">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4911,19 +4911,19 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Golem-Skin Gauntlets</name>
-			<text>Equipped creature gets +1/+0 for each Equipment attached to it.
-Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png" num="396">PBC</set>
+			<name>Servant of Precursors</name>
+			<text>When this creature enters, you gain 4 life and draw a card.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png" num="412">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact — Equipment</type>
-				<maintype>Artifact</maintype>
-				<manacost>1</manacost>
-				<cmc>1</cmc>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Viridian Longbow</name>
@@ -5386,7 +5386,7 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
 			<text>Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/316.png" num="410">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/316.png" num="409">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5437,7 +5437,7 @@ When this creature enters, draw a card.</text>
 			<name>Mana Potion</name>
 			<text>When Mana Potion enters, scry 1, then draw a card. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
 {2}, {T}, Sacrifice Mana Potion: Add two mana of any one color.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png" num="400">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png" num="399">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7449,7 +7449,7 @@ Trample (This creature can deal excess combat damage to the player or planeswalk
 			<name>Mishra&apos;s Siegebreaker</name>
 			<text>This creature attacks each combat if able.
 Whenever this creature attacks, defending player sacrifices two permanents of their choice.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/435.png" num="403">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/435.png" num="402">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7464,7 +7464,7 @@ Whenever this creature attacks, defending player sacrifices two permanents of th
 		<card>
 			<name>Ruin Guardian</name>
 			<text>As long as you control another artifact, this creature gets +1/+1.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/436.png" num="411">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/436.png" num="410">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "397",
+			"collector_number": "396",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "398",
+			"collector_number": "397",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "399",
+			"collector_number": "398",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "406",
+			"collector_number": "405",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "409",
+			"collector_number": "408",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "412",
+			"collector_number": "411",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/8.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "401",
+			"collector_number": "400",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "402",
+			"collector_number": "401",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/70.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "405",
+			"collector_number": "404",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/102.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "408",
+			"collector_number": "407",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/205.png"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Phyrexian Myr",
-			"collector_number": "407",
+			"collector_number": "406",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/240.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "404",
+			"collector_number": "403",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/243.png"
 			}
@@ -2881,11 +2881,11 @@
 			}
 		},
 		{
-			"name": "Golem-Skin Gauntlets",
+			"name": "Servant of Precursors",
 			"rarity": "special",
-			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
-			"collector_number": "396",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "412",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/288.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "410",
+			"collector_number": "409",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/316.png"
 			}
@@ -3195,7 +3195,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "400",
+			"collector_number": "399",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/319.png"
 			}
@@ -4355,7 +4355,7 @@
 			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "403",
+			"collector_number": "402",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/435.png"
 			}
@@ -4365,7 +4365,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "411",
+			"collector_number": "410",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/436.png"
 			}
@@ -4791,7 +4791,7 @@
 	1 Lightning Spear
 	1 Grisly Offering
 	1 Mirran Banesplitter
-	1 Golem-Skin Gauntlets
+	1 Servant of Precursors
 	1 Viridian Longbow
 	1 Explorer's Scope
 	1 Cliffhaven Kitesail

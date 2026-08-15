@@ -3201,16 +3201,8 @@
         "position": "357"
     },
     {
-        "card_name": "Golem-Skin Gauntlets",
-        "number": 396,
-        "shape": "normal",
-        "set": "PBC",
-        "rotated": false,
-        "position": "288"
-    },
-    {
         "card_name": "Golgari Signet",
-        "number": 397,
+        "number": 396,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3218,7 +3210,7 @@
     },
     {
         "card_name": "Gruul Signet",
-        "number": 398,
+        "number": 397,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3226,7 +3218,7 @@
     },
     {
         "card_name": "Izzet Signet",
-        "number": 399,
+        "number": 398,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3234,7 +3226,7 @@
     },
     {
         "card_name": "Mana Potion",
-        "number": 400,
+        "number": 399,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3242,7 +3234,7 @@
     },
     {
         "card_name": "Memnite",
-        "number": 401,
+        "number": 400,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3250,7 +3242,7 @@
     },
     {
         "card_name": "Meteor Golem",
-        "number": 402,
+        "number": 401,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3258,7 +3250,7 @@
     },
     {
         "card_name": "Mishra's Siegebreaker",
-        "number": 403,
+        "number": 402,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3266,7 +3258,7 @@
     },
     {
         "card_name": "Myr Enforcer",
-        "number": 404,
+        "number": 403,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3274,7 +3266,7 @@
     },
     {
         "card_name": "Ornithopter of Paradise",
-        "number": 405,
+        "number": 404,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3282,7 +3274,7 @@
     },
     {
         "card_name": "Orzhov Signet",
-        "number": 406,
+        "number": 405,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3290,7 +3282,7 @@
     },
     {
         "card_name": "Perilous Myr",
-        "number": 407,
+        "number": 406,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3298,7 +3290,7 @@
     },
     {
         "card_name": "Prophetic Prism",
-        "number": 408,
+        "number": 407,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3306,7 +3298,7 @@
     },
     {
         "card_name": "Rakdos Signet",
-        "number": 409,
+        "number": 408,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3314,7 +3306,7 @@
     },
     {
         "card_name": "Relic Shortsword",
-        "number": 410,
+        "number": 409,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3322,7 +3314,7 @@
     },
     {
         "card_name": "Ruin Guardian",
-        "number": 411,
+        "number": 410,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3330,11 +3322,19 @@
     },
     {
         "card_name": "Selesnya Signet",
-        "number": 412,
+        "number": 411,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "8"
+    },
+    {
+        "card_name": "Servant of Precursors",
+        "number": 412,
+        "shape": "normal",
+        "set": "PBC",
+        "rotated": false,
+        "position": "288"
     },
     {
         "card_name": "Shambling Suit",

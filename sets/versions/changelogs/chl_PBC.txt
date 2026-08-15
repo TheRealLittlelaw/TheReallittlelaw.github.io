@@ -1,4 +1,16 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Servant of Precursors added.
+
+Golem-Skin Gauntlets removed.
+
+Dawnhoof Behemoth
+
+Existential Paradox
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
