@@ -2342,19 +2342,19 @@
     },
     {
         "card_name": "Cunning Plan",
-        "number": 324,
+        "number": 325,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "429"
     },
     {
-        "card_name": "Footlight Fiend",
-        "number": 331,
+        "card_name": "Charnel Chorister",
+        "number": 323,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "32"
+        "position": "432"
     },
     {
         "card_name": "Burning-Tree Emissary",
@@ -2382,23 +2382,23 @@
     },
     {
         "card_name": "Deep Secrets",
-        "number": 325,
+        "number": 326,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "107"
     },
     {
-        "card_name": "Knife Trick",
-        "number": 345,
+        "card_name": "Footlight Fiend",
+        "number": 332,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "29"
+        "position": "32"
     },
     {
         "card_name": "Cicatrice Hellion",
-        "number": 323,
+        "number": 324,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2406,7 +2406,7 @@
     },
     {
         "card_name": "Gallant Citizen",
-        "number": 333,
+        "number": 334,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2414,7 +2414,7 @@
     },
     {
         "card_name": "Diligent Archeologist",
-        "number": 326,
+        "number": 327,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2422,23 +2422,23 @@
     },
     {
         "card_name": "Mischievous Sneakling",
-        "number": 352,
+        "number": 353,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "43"
     },
     {
-        "card_name": "Rix Maadi Ripper",
-        "number": 363,
+        "card_name": "Knife Trick",
+        "number": 346,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "48"
+        "position": "29"
     },
     {
         "card_name": "Gangly Stomper",
-        "number": 334,
+        "number": 335,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2446,7 +2446,7 @@
     },
     {
         "card_name": "Guardian's Embrace",
-        "number": 337,
+        "number": 338,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2454,7 +2454,7 @@
     },
     {
         "card_name": "Harrier Corps",
-        "number": 339,
+        "number": 340,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2462,23 +2462,23 @@
     },
     {
         "card_name": "Oracle's Vision",
-        "number": 355,
+        "number": 356,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "213"
     },
     {
-        "card_name": "Scions of War",
+        "card_name": "Rix Maadi Ripper",
         "number": 364,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "432"
+        "position": "48"
     },
     {
         "card_name": "Leyline Weaver",
-        "number": 348,
+        "number": 349,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2486,7 +2486,7 @@
     },
     {
         "card_name": "Kindred Leadership",
-        "number": 344,
+        "number": 345,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2494,7 +2494,7 @@
     },
     {
         "card_name": "Invalidate",
-        "number": 342,
+        "number": 343,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2502,7 +2502,7 @@
     },
     {
         "card_name": "Patient Surveilance",
-        "number": 357,
+        "number": 358,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2518,7 +2518,7 @@
     },
     {
         "card_name": "Marketplace Brawl",
-        "number": 350,
+        "number": 351,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2526,7 +2526,7 @@
     },
     {
         "card_name": "Knight of the Orchards",
-        "number": 346,
+        "number": 347,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2542,7 +2542,7 @@
     },
     {
         "card_name": "Reliquary Lich",
-        "number": 361,
+        "number": 362,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2558,7 +2558,7 @@
     },
     {
         "card_name": "Rhino's Rampage",
-        "number": 362,
+        "number": 363,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2566,7 +2566,7 @@
     },
     {
         "card_name": "Lost in the Fog",
-        "number": 349,
+        "number": 350,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2606,7 +2606,7 @@
     },
     {
         "card_name": "Nature's Chant",
-        "number": 354,
+        "number": 355,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2821,7 +2821,7 @@
     },
     {
         "card_name": "Fountainport Elder",
-        "number": 332,
+        "number": 333,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2829,7 +2829,7 @@
     },
     {
         "card_name": "Gift of Orzhova",
-        "number": 335,
+        "number": 336,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2845,7 +2845,7 @@
     },
     {
         "card_name": "Innocence Lost",
-        "number": 340,
+        "number": 341,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2861,7 +2861,7 @@
     },
     {
         "card_name": "Glinthide Hero",
-        "number": 336,
+        "number": 337,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2869,7 +2869,7 @@
     },
     {
         "card_name": "Ketramose's Ferryman",
-        "number": 343,
+        "number": 344,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2877,7 +2877,7 @@
     },
     {
         "card_name": "Flaring Cinder",
-        "number": 330,
+        "number": 331,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2885,7 +2885,7 @@
     },
     {
         "card_name": "Laiyru Lumberjacks",
-        "number": 347,
+        "number": 348,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2893,7 +2893,7 @@
     },
     {
         "card_name": "Double Cleave",
-        "number": 327,
+        "number": 328,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2901,7 +2901,7 @@
     },
     {
         "card_name": "Inquisitive Nature",
-        "number": 341,
+        "number": 342,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2909,7 +2909,7 @@
     },
     {
         "card_name": "Moment of Eternity",
-        "number": 353,
+        "number": 354,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2917,7 +2917,7 @@
     },
     {
         "card_name": "Mesmage",
-        "number": 351,
+        "number": 352,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2925,7 +2925,7 @@
     },
     {
         "card_name": "Ravenous Daemogoth",
-        "number": 360,
+        "number": 361,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2933,7 +2933,7 @@
     },
     {
         "card_name": "Fiesty Spikeling",
-        "number": 328,
+        "number": 329,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2941,7 +2941,7 @@
     },
     {
         "card_name": "Outland Alchemist",
-        "number": 356,
+        "number": 357,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2949,7 +2949,7 @@
     },
     {
         "card_name": "Prideful Changeling",
-        "number": 359,
+        "number": 360,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2957,7 +2957,7 @@
     },
     {
         "card_name": "Political Opportunist",
-        "number": 358,
+        "number": 359,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2973,7 +2973,7 @@
     },
     {
         "card_name": "Fireborn Knight",
-        "number": 329,
+        "number": 330,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3013,7 +3013,7 @@
     },
     {
         "card_name": "Harl's Hornblower",
-        "number": 338,
+        "number": 339,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,

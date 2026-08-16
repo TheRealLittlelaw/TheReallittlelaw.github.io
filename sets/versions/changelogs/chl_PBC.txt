@@ -1,4 +1,12 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Charnel Chorister added.
+
+Scions of War removed.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Servant of Precursors added.
