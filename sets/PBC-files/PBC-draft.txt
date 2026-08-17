@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/13.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/20.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
-			"collector_number": "355",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/33.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/75.png"
 			}
@@ -884,7 +884,7 @@
 			"name": "Nivix Cyclops",
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Cylcops",
+			"type": "Creature — Cyclops",
 			"collector_number": "295",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/88.png"
@@ -995,7 +995,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/99.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/128.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/134.png"
 			}
@@ -1505,7 +1505,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Sliver",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/150.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/167.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}",
 			"type": "Sorcery",
-			"collector_number": "356",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/213.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/249.png"
 			}
@@ -2741,11 +2741,11 @@
 			}
 		},
 		{
-			"name": "Moment of Eternity",
+			"name": "Order of the Rose",
 			"rarity": "special",
-			"mana_cost": "{W/B}",
-			"type": "Instant",
-			"collector_number": "354",
+			"mana_cost": "{4}{W/B}",
+			"type": "Creature — Vampire Knight",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/274.png"
 			}
@@ -2975,7 +2975,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/297.png"
 			}
@@ -2995,7 +2995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/299.png"
 			}
@@ -3455,7 +3455,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/345.png"
 			}
@@ -3631,11 +3631,11 @@
 			}
 		},
 		{
-			"name": "Mournwraith",
+			"name": "Stalwart Valkyrie",
 			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit",
-			"collector_number": "26",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/363.png"
 			}
@@ -3655,7 +3655,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/365.png"
 			}
@@ -3685,7 +3685,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/368.png"
 			}
@@ -3695,7 +3695,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/369.png"
 			}
@@ -4777,7 +4777,7 @@
 	1 Torpid Colossus
 	1 Scorching Blood
 	1 Stripped of Standing
-	1 Moment of Eternity
+	1 Order of the Rose
 	1 Bond of Honour
 	1 Kindred Leadership
 	1 Reliquary Lich
@@ -4866,7 +4866,7 @@
 	1 Tyranny of Trax
 	1 Untested Recruit
 	1 Warsong's Envoy
-	1 Mournwraith
+	1 Stalwart Valkyrie
 	1 Valiant Changeling
 	1 Squad Rallier
 	1 Make Your Move

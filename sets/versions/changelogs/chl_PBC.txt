@@ -1,4 +1,17 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Order of the Rose added.
+Stalwart Valkyrie added.
+
+Moment of Eternity removed.
+Mournwraith removed.
+
+Nivix Cyclops
+type: Creature — Cylcops => Creature — Cyclops
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Charnel Chorister added.
