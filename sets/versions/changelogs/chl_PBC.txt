@@ -1,4 +1,15 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+Nimble Elemental
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Nimble Elemental deals combat damage to a player, you may draw a card. If you do, discard a card. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Goliath Sphinx added.

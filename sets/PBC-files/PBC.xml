@@ -7191,7 +7191,7 @@ Sacrifice this creature: Search your library for a basic land card, put that car
 		<card>
 			<name>Nimble Elemental</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever Nimble Elemental deals combat damage to a player, you may draw a card. If you do, discard a card.</text>
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/420.png" num="294">PBC</set>
 			<prop>
 				<layout>normal</layout>

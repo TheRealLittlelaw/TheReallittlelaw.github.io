@@ -9668,7 +9668,7 @@
             "number": 294,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever Nimble Elemental deals combat damage to a player, you may draw a card. If you do, discard a card.",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
