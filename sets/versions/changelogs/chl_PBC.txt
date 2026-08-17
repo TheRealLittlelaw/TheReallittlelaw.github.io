@@ -1,4 +1,28 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Goliath Sphinx added.
+
+Bubble Snare removed.
+
+Spy Thopter
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+When this creature dies, draw a card. => Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+When this creature leaves the battlefield, draw a card.
+
+Symbol of Tranquility
+pt:  => 1/1
+
+Phantasmal Dreadmaw
+pt:  => 6/6
+
+Axgard Cavalry
+pt:  => 2/2
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Order of the Rose added.

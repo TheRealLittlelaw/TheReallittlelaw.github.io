@@ -395,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/40.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/72.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/74.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/124.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/127.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/133.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/170.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/174.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/193.png"
 			}
@@ -2211,11 +2211,11 @@
 			}
 		},
 		{
-			"name": "Bubble Snare",
+			"name": "Goliath Sphinx",
 			"rarity": "special",
-			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "62",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/221.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/250.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Bird Horror",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/252.png"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/255.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/263.png"
 			}
@@ -3265,7 +3265,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/326.png"
 			}
@@ -3555,7 +3555,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/355.png"
 			}
@@ -3715,7 +3715,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/371.png"
 			}
@@ -3785,7 +3785,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/378.png"
 			}
@@ -4724,7 +4724,7 @@
 	1 Of One Mind
 	1 Duress
 	1 Blink of an Eye
-	1 Bubble Snare
+	1 Goliath Sphinx
 	1 Merciless Executioner
 	1 Sanguine Syphoner
 	1 Bone Picker
