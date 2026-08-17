@@ -9004,7 +9004,7 @@
             "color_identity": "WG",
             "cost": "{2}{GW}",
             "rules_text": "Tap another untapped creature you control: This creature gets +1/+1 until end of turn.",
-            "flavor_text": "[i]In Spring, she is a gardener.\nBy Autumn, a guardian.[/i]",
+            "flavor_text": "[i]In Spring, she is a gardener.\nBy Autumn, a guardian. [/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -9458,5 +9458,5 @@
             "notes": ""
         }
     ],
-    "version": 25
+    "version": 26
 }

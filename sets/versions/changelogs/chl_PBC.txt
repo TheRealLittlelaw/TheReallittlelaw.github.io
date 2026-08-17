@@ -1,4 +1,12 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Knight of the Orchards
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Adorned Paladin added.
