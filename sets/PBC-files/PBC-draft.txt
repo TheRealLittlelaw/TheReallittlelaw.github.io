@@ -4171,7 +4171,7 @@
 			}
 		},
 		{
-			"name": "Adorned Champion",
+			"name": "Adorned Paladin",
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Knight",
@@ -4920,7 +4920,7 @@
 	1 Benthic Sheepo
 	1 Sighted-Caste Knight
 	1 Final Payment
-	1 Adorned Champion
+	1 Adorned Paladin
 	1 Assailed Farmer
 	1 Fracture Psyche
 	1 Nimble Elemental

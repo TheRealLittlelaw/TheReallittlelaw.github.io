@@ -1,4 +1,19 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Adorned Paladin added.
+
+Adorned Champion removed.
+
+Lost in the Fog
+
+Duskwood Vanguard
+
+Knight of the Orchards
+rules_text: Tap another untapped creature you control: Knight of the Orchards gets +1/+1 until end of turn. => Tap another untapped creature you control: This creature gets +1/+1 until end of turn.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

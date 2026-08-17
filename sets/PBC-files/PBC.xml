@@ -7138,7 +7138,7 @@ Destroy target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Adorned Champion</name>
+			<name>Adorned Paladin</name>
 			<text>When this creature enters, you may attach target Aura or Equipment you control to it.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/417.png" num="273">PBC</set>
 			<prop>
@@ -7331,7 +7331,7 @@ When this creature enters, mill four cards. Put a creature card with power 2 or 
 		</card>
 		<card>
 			<name>Knight of the Orchards</name>
-			<text>Tap another untapped creature you control: Knight of the Orchards gets +1/+1 until end of turn.</text>
+			<text>Tap another untapped creature you control: This creature gets +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/428.png" num="347">PBC</set>
 			<prop>
 				<layout>normal</layout>
