@@ -4716,7 +4716,7 @@ Enchanted creature gets +2/+2 for each other creature you control that shares a 
 		</card>
 		<card>
 			<name>Reliquary Lich</name>
-			<text>You may pay {UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell&apos;s mana cost.
+			<text>You may pay {1}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell&apos;s mana cost.
 Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/277.png" num="362">PBC</set>
 			<prop>
@@ -6176,7 +6176,7 @@ This creature gets +1/+0 for each creature type among other non-Actor creatures 
 		</card>
 		<card>
 			<name>Warsong&apos;s Envoy</name>
-			<text>Whenever you cast a spell during combat, this creature gains first strike and lifelink until end of turn. (This creature deals combat damage before creatures without first strike. Damage dealt by this creature also causes you to gain that much life.)</text>
+			<text>Whenever you cast a spell during combat, this creature gains first strike and lifelink until end of turn. (It deals combat damage before creatures without first strike. Damage dealt by it creature also causes you to gain that much life.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/362.png" num="56">PBC</set>
 			<prop>
 				<layout>normal</layout>
@@ -6597,7 +6597,7 @@ Flashback {4}{B} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>Maven of Fear</name>
 			<text>When this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)
-This creature gets +2/+1 and menace as long as there are six or more cards in your graveyard. (This creature can&apos;t be blocked except by two or more creatures.)</text>
+This creature gets +2/+1 and menace as long as there are six or more cards in your graveyard. (It can&apos;t be blocked except by two or more creatures.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/386.png" num="132">PBC</set>
 			<prop>
 				<layout>normal</layout>

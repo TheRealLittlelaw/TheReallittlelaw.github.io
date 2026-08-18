@@ -1,4 +1,27 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Reliquary Lich
+rules_text: You may pay {UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell's mana cost.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => You may pay {1}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell's mana cost.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+
+Political Opportunist
+
+Warsong's Envoy
+rules_text: Whenever you cast a spell during combat, this creature gains first strike and lifelink until end of turn. [i](This creature deals combat damage before creatures without first strike. Damage dealt by this creature also causes you to gain that much life.)[/i] => Whenever you cast a spell during combat, this creature gains first strike and lifelink until end of turn. [i](It deals combat damage before creatures without first strike. Damage dealt by it creature also causes you to gain that much life.)[/i]
+
+Maven of Fear
+rules_text: When this creature enters, mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+This creature gets +2/+1 and menace as long as there are six or more cards in your graveyard. [i](This creature can't be blocked except by two or more creatures.)[/i] => When this creature enters, mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+This creature gets +2/+1 and menace as long as there are six or more cards in your graveyard. [i](It can't be blocked except by two or more creatures.)[/i]
+
+Knight of the Orchards
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
