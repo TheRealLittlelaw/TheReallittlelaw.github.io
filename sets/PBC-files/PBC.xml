@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-17</releasedate>
+			<releasedate>2026-08-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -7003,7 +7003,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Rosethorn Halberd</name>
 			<text>When this Equipment enters, attach it to target non-Human creature you control.
 Equipped creature gets +2/+1.
-Equip {5}} ({5}: Attach to target creature you control. Equip only as a sorcery.)</text>
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/409.png" num="261">PBC</set>
 			<prop>
 				<layout>normal</layout>

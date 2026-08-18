@@ -5860,7 +5860,7 @@
             "shape": "normal",
             "set": "PBC",
             "loyalty": "",
-            "artist": "Irina Nordsol Kuzmina",
+            "artist": "Kevin Zamir Goeke",
             "alias": "",
             "position": "278",
             "rotated": false,
@@ -8604,7 +8604,7 @@
             "number": 261,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When this Equipment enters, attach it to target non-Human creature you control.\nEquipped creature gets +2/+1.\nEquip {5}} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "When this Equipment enters, attach it to target non-Human creature you control.\nEquipped creature gets +2/+1.\nEquip {5} [i]({5}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -9458,5 +9458,5 @@
             "notes": ""
         }
     ],
-    "version": 26
+    "version": 27
 }
