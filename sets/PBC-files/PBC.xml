@@ -1291,16 +1291,16 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 		</card>
 		<card>
 			<name>Tolarian Scholarship</name>
-			<text>Draw four cards. Untap up to three lands.
+			<text>Draw four cards, then discard two cards.
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/76.png" num="105">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>4UUU</manacost>
-				<cmc>7</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>

@@ -763,8 +763,8 @@
 		{
 			"name": "Tolarian Scholarship",
 			"rarity": "special",
-			"mana_cost": "{4}{U}{U}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/76.png"

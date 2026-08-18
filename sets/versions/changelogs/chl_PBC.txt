@@ -1,4 +1,17 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+
+Tolarian Scholarship
+type: Sorcery => Instant
+cost: {4}{U}{U}{U} => {4}{U}{U}
+rules_text: Draw four cards. Untap up to three lands.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Draw four cards, then discard two cards.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
