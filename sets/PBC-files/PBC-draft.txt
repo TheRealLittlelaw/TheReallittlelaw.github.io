@@ -2813,7 +2813,7 @@
 		{
 			"name": "Cicatrice Hellion",
 			"rarity": "special",
-			"mana_cost": "{4}{R/G}",
+			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Creature — Hellion",
 			"collector_number": "324",
 			"image_uris": {

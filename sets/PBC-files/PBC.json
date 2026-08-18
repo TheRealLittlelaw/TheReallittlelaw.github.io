@@ -5915,7 +5915,7 @@
             "type": "Creature \u2014 Hellion",
             "number": 324,
             "color_identity": "RG",
-            "cost": "{4}{RG}",
+            "cost": "{3}{RG}{RG}",
             "rules_text": "This creature must be blocked if able.\nCycling {2} [i]({2}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i]Jund is a land of volcanic peaks, tangled jungles, and endless hunger. Where only those strong enough to survive earn the right to thrive.[/i]",
             "pt": "5/4",
@@ -7204,7 +7204,7 @@
             "shape": "normal",
             "set": "PBC",
             "loyalty": "",
-            "artist": "Rai Souza",
+            "artist": "Midjourney AI",
             "alias": "",
             "position": "342",
             "rotated": false,
@@ -9458,5 +9458,5 @@
             "notes": ""
         }
     ],
-    "version": 28
+    "version": 29
 }

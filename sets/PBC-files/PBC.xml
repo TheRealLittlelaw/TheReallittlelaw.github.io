@@ -4794,7 +4794,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<side>front</side>
 				<type>Creature — Hellion</type>
 				<maintype>Creature</maintype>
-				<manacost>4R/G</manacost>
+				<manacost>3R/GR/G</manacost>
 				<cmc>5</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>

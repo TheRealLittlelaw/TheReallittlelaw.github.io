@@ -1,4 +1,15 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Cicatrice Hellion
+cost: {4}{RG} => {3}{RG}{RG}
+
+Fountainport Elder
+
+
+VERSION 28 CHANGELOG
 ====================
 
 
