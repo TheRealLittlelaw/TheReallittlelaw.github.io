@@ -2342,7 +2342,7 @@
     },
     {
         "card_name": "Cunning Plan",
-        "number": 325,
+        "number": 324,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2350,7 +2350,7 @@
     },
     {
         "card_name": "Charnel Chorister",
-        "number": 323,
+        "number": 322,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2358,23 +2358,23 @@
     },
     {
         "card_name": "Burning-Tree Emissary",
-        "number": 322,
+        "number": 321,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "50"
     },
     {
-        "card_name": "Anima Warden",
-        "number": 316,
+        "card_name": "Gallant Citizen",
+        "number": 333,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "15"
+        "position": "31"
     },
     {
         "card_name": "Astral Flicker",
-        "number": 318,
+        "number": 317,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2382,7 +2382,7 @@
     },
     {
         "card_name": "Deep Secrets",
-        "number": 326,
+        "number": 325,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2390,7 +2390,7 @@
     },
     {
         "card_name": "Footlight Fiend",
-        "number": 332,
+        "number": 331,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2398,23 +2398,23 @@
     },
     {
         "card_name": "Cicatrice Hellion",
-        "number": 324,
+        "number": 323,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "281"
     },
     {
-        "card_name": "Gallant Citizen",
-        "number": 334,
+        "card_name": "Guardian's Embrace",
+        "number": 337,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "31"
+        "position": "237"
     },
     {
         "card_name": "Diligent Archeologist",
-        "number": 327,
+        "number": 326,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2430,7 +2430,7 @@
     },
     {
         "card_name": "Knife Trick",
-        "number": 346,
+        "number": 345,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2438,23 +2438,23 @@
     },
     {
         "card_name": "Gangly Stomper",
-        "number": 335,
+        "number": 334,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "434"
     },
     {
-        "card_name": "Guardian's Embrace",
-        "number": 338,
+        "card_name": "Kindred Leadership",
+        "number": 344,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "237"
+        "position": "276"
     },
     {
         "card_name": "Harrier Corps",
-        "number": 340,
+        "number": 339,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2470,7 +2470,7 @@
     },
     {
         "card_name": "Rix Maadi Ripper",
-        "number": 364,
+        "number": 365,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2485,16 +2485,16 @@
         "position": "25"
     },
     {
-        "card_name": "Kindred Leadership",
-        "number": 345,
+        "card_name": "Knight of the Orchards",
+        "number": 346,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "276"
+        "position": "428"
     },
     {
         "card_name": "Invalidate",
-        "number": 343,
+        "number": 342,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2510,7 +2510,7 @@
     },
     {
         "card_name": "Scorching Blood",
-        "number": 365,
+        "number": 366,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2525,16 +2525,16 @@
         "position": "111"
     },
     {
-        "card_name": "Knight of the Orchards",
+        "card_name": "Lacufae Pastor",
         "number": 347,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "428"
+        "position": "15"
     },
     {
         "card_name": "Skytalon Cavalier",
-        "number": 370,
+        "number": 371,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2542,7 +2542,7 @@
     },
     {
         "card_name": "Reliquary Lich",
-        "number": 362,
+        "number": 363,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2550,7 +2550,7 @@
     },
     {
         "card_name": "Screamreach Goblin",
-        "number": 366,
+        "number": 367,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2558,7 +2558,7 @@
     },
     {
         "card_name": "Rhino's Rampage",
-        "number": 363,
+        "number": 364,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2574,7 +2574,7 @@
     },
     {
         "card_name": "Stripped of Standing",
-        "number": 373,
+        "number": 374,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2590,7 +2590,7 @@
     },
     {
         "card_name": "Skophos Conqueror",
-        "number": 368,
+        "number": 369,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2598,7 +2598,7 @@
     },
     {
         "card_name": "Tear Through",
-        "number": 376,
+        "number": 377,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2805,7 +2805,7 @@
     },
     {
         "card_name": "Awakened Hunger",
-        "number": 319,
+        "number": 318,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2813,7 +2813,7 @@
     },
     {
         "card_name": "Bond of Honour",
-        "number": 320,
+        "number": 319,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2821,7 +2821,7 @@
     },
     {
         "card_name": "Fountainport Elder",
-        "number": 333,
+        "number": 332,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2829,7 +2829,7 @@
     },
     {
         "card_name": "Gift of Orzhova",
-        "number": 336,
+        "number": 335,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2837,7 +2837,7 @@
     },
     {
         "card_name": "Arcane Oracle",
-        "number": 317,
+        "number": 316,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2845,7 +2845,7 @@
     },
     {
         "card_name": "Innocence Lost",
-        "number": 341,
+        "number": 340,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2853,7 +2853,7 @@
     },
     {
         "card_name": "Breath of Thunder",
-        "number": 321,
+        "number": 320,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2861,7 +2861,7 @@
     },
     {
         "card_name": "Glinthide Hero",
-        "number": 337,
+        "number": 336,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2869,7 +2869,7 @@
     },
     {
         "card_name": "Ketramose's Ferryman",
-        "number": 344,
+        "number": 343,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2877,7 +2877,7 @@
     },
     {
         "card_name": "Flaring Cinder",
-        "number": 331,
+        "number": 330,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2893,7 +2893,7 @@
     },
     {
         "card_name": "Double Cleave",
-        "number": 328,
+        "number": 327,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2901,7 +2901,7 @@
     },
     {
         "card_name": "Inquisitive Nature",
-        "number": 342,
+        "number": 341,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2925,7 +2925,7 @@
     },
     {
         "card_name": "Ravenous Daemogoth",
-        "number": 361,
+        "number": 362,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2933,7 +2933,7 @@
     },
     {
         "card_name": "Fiesty Spikeling",
-        "number": 329,
+        "number": 328,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2965,7 +2965,7 @@
     },
     {
         "card_name": "Sibsig Heirophant",
-        "number": 367,
+        "number": 368,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2973,7 +2973,7 @@
     },
     {
         "card_name": "Fireborn Knight",
-        "number": 330,
+        "number": 329,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2981,7 +2981,7 @@
     },
     {
         "card_name": "Slippery Boggle",
-        "number": 371,
+        "number": 372,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2989,7 +2989,7 @@
     },
     {
         "card_name": "Toil Beyond Death",
-        "number": 378,
+        "number": 379,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2997,7 +2997,7 @@
     },
     {
         "card_name": "Skyclave Infiltrator",
-        "number": 369,
+        "number": 370,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3005,7 +3005,7 @@
     },
     {
         "card_name": "Survival Instinct",
-        "number": 374,
+        "number": 375,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3013,7 +3013,7 @@
     },
     {
         "card_name": "Harl's Hornblower",
-        "number": 339,
+        "number": 338,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3021,7 +3021,7 @@
     },
     {
         "card_name": "Snakeform",
-        "number": 372,
+        "number": 373,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3029,7 +3029,7 @@
     },
     {
         "card_name": "Unmake",
-        "number": 380,
+        "number": 381,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3037,7 +3037,7 @@
     },
     {
         "card_name": "Teach by Example",
-        "number": 375,
+        "number": 376,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3045,15 +3045,15 @@
     },
     {
         "card_name": "Thorn of Lys Alana",
-        "number": 377,
+        "number": 378,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "270"
     },
     {
-        "card_name": "Valley Warden",
-        "number": 381,
+        "card_name": "Protector of Valley",
+        "number": 361,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -3061,7 +3061,7 @@
     },
     {
         "card_name": "Torpid Colossus",
-        "number": 379,
+        "number": 380,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,

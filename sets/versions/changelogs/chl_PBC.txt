@@ -1,4 +1,14 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Lacufae Pastor added.
+Protector of Valley added.
+
+Anima Warden removed.
+Valley Warden removed.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 
