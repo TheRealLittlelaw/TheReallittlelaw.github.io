@@ -390,7 +390,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Human Soldier",
-            "number": 14,
+            "number": 13,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{W}, {T}: Tap target creature.",
@@ -495,7 +495,7 @@
             "color": "UG",
             "rarity": "cube",
             "type": "Creature \u2014 Beast",
-            "number": 372,
+            "number": 371,
             "color_identity": "UG",
             "cost": "{GU}",
             "rules_text": "Hexproof [i](This creature can't be the target of spells or abilities your opponents control.)[/i]",
@@ -558,7 +558,7 @@
             "color": "RG",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 364,
+            "number": 363,
             "color_identity": "RG",
             "cost": "{RG}",
             "rules_text": "Target creature you control gets +1/+0 until end of turn. It fights target creature an opponent controls. When excess damage is dealt to the creature an opponent controls this way, destroy up to one target noncreature artifact with mana value 3 or less. [i](Each deals damage equal to its power to the other.)[/i]",
@@ -600,7 +600,7 @@
             "color": "WB",
             "rarity": "cube",
             "type": "Instant",
-            "number": 381,
+            "number": 380,
             "color_identity": "WB",
             "cost": "{WB}{WB}{WB}",
             "rules_text": "Exile target creature.",
@@ -747,7 +747,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Instant",
-            "number": 376,
+            "number": 375,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
             "rules_text": "When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
@@ -768,7 +768,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Creature \u2014 Zombie Druid",
-            "number": 368,
+            "number": 367,
             "color_identity": "BG",
             "cost": "{2}{BG}{BG}",
             "rules_text": "When this creature enters, you may return target creature card from your graveyard to your hand.",
@@ -894,7 +894,7 @@
             "color": "WU",
             "rarity": "cube",
             "type": "Creature \u2014 Human Knight",
-            "number": 371,
+            "number": 370,
             "color_identity": "WU",
             "cost": "{2}{WU}",
             "rules_text": "Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nWhenever this creature attacks, another target attacking creature gains flying until end of turn.",
@@ -999,7 +999,7 @@
             "color": "UG",
             "rarity": "cube",
             "type": "Instant",
-            "number": 373,
+            "number": 372,
             "color_identity": "UG",
             "cost": "{2}{GU}",
             "rules_text": "Until end of turn, target creature loses all abilities and becomes a green Snake with base power and toughness 1/1.\nDraw a card.",
@@ -1020,7 +1020,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Creature \u2014 Devil",
-            "number": 365,
+            "number": 364,
             "color_identity": "BR",
             "cost": "{2}{BR}",
             "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\n{BR}, Exile this card from your graveyard: Draw a card, then discard a card at random. Activate only as a sorcery.",
@@ -1041,7 +1041,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Instant",
-            "number": 375,
+            "number": 374,
             "color_identity": "BG",
             "cost": "{1}{BG}",
             "rules_text": "Target creature gains deathtouch and indestructible until end of turn. [i](Any amount of damage that creature deals to another creature is enough to destroy it. Damage and effects that say \u201cdestroy\u201d [/i]\n[i]don't destroy it.)[/i]",
@@ -2196,7 +2196,7 @@
             "color": "WB",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 379,
+            "number": 378,
             "color_identity": "WB",
             "cost": "{2}{WB}{WB}",
             "rules_text": "Return target creature card from your graveyard to the battlefield.",
@@ -2280,7 +2280,7 @@
             "color": "UR",
             "rarity": "cube",
             "type": "Creature \u2014 Kor Rogue",
-            "number": 370,
+            "number": 369,
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "Reach [i](This creature can block creatures with flying.)[/i]\n{T}: Target creature with power 2 or less can't be blocked this turn.",
@@ -2469,7 +2469,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 49,
+            "number": 48,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Target creature gets +2/+2 and gains first strike until end of turn. If it's equipped or enchanted, it also gains hexproof until end of turn. [i](That creature deals combat damage before creatures without first strike, and can't be the target of spells or abilities your opponents control.)[/i]",
@@ -2889,7 +2889,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Creature \u2014 Minotaur Warrior",
-            "number": 369,
+            "number": 368,
             "color_identity": "BR",
             "cost": "{2}{BR}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nWhen this creature enters, draw a card. This creature deals 2 damage to each opponent.",
@@ -3456,7 +3456,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Unicorn",
-            "number": 44,
+            "number": 43,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{3}{W}: Creatures you control get\n+1/+1 and gain vigilance until end of turn. Activate only during your turn.\n[i](Attacking doesn't cause them to tap.)[/i]",
@@ -3603,7 +3603,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Human Cleric",
-            "number": 12,
+            "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When this creature enters, choose one \u2014\n\u2022 You gain 2 life.\n\u2022 Destroy target enchantment.\n\u2022 Exile target card from a graveyard.",
@@ -4254,7 +4254,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Dinosaur",
-            "number": 48,
+            "number": 47,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever this creature attacks, tap target creature an opponent controls.",
@@ -4334,27 +4334,6 @@
             "notes": ""
         },
         {
-            "card_name": "Standard Bearer",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Creature \u2014 Human Flagbearer",
-            "number": 42,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.",
-            "flavor_text": "[i]The standard was a rallying point for the army and a target for the enemy.[/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "normal",
-            "set": "PBC",
-            "loyalty": "",
-            "artist": "Ron Spencer",
-            "alias": "",
-            "position": "206",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "Lone Missionary",
             "color": "W",
             "rarity": "cube",
@@ -4371,7 +4350,7 @@
             "loyalty": "",
             "artist": "Svetlin Velinov",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "rotated": false,
             "notes": ""
         },
@@ -4380,7 +4359,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 50,
+            "number": 49,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Choose one \u2014\n\u2022 Thraben Charm deals damage equal to twice the number of creatures you control to target creature.\n\u2022 Destroy target enchantment.\n\u2022 Exile any number of target players' graveyards.",
@@ -4392,7 +4371,7 @@
             "loyalty": "",
             "artist": "Carlos Palma Cruchaga",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "rotated": false,
             "notes": ""
         },
@@ -4401,7 +4380,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Rhino Soldier",
-            "number": 45,
+            "number": 44,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When this creature enters, target opponent skips their next combat phase.",
@@ -4413,7 +4392,7 @@
             "loyalty": "",
             "artist": "Dave Kendall",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "rotated": false,
             "notes": ""
         },
@@ -4434,7 +4413,7 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4455,19 +4434,19 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Protector of Valley",
+            "card_name": "Valley Protector",
             "color": "WR",
             "rarity": "cube",
             "type": "Creature \u2014 Mouse Warrior",
-            "number": 361,
+            "number": 381,
             "color_identity": "WR",
             "cost": "{2}{RW}",
-            "rules_text": "Valley Warden's power and toughness are each equal to the number of creatures you control.",
+            "rules_text": "Valley Protector's power and toughness are each equal to the number of creatures you control.",
             "flavor_text": "[i]Her shield was carved from an old root, her armor stitched from fallen leaves, and her courage drawn from everyone she swore to protect.[/i]",
             "pt": "*/*",
             "special_text": "",
@@ -4476,7 +4455,7 @@
             "loyalty": "",
             "artist": "Margaux Penhoat",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4497,7 +4476,7 @@
             "loyalty": "",
             "artist": "Aimee Lynette",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4518,7 +4497,7 @@
             "loyalty": "",
             "artist": "Daniel Correia",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4539,7 +4518,7 @@
             "loyalty": "",
             "artist": "Michael Faers",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4548,7 +4527,7 @@
             "color": "RG",
             "rarity": "cube",
             "type": "Instant",
-            "number": 377,
+            "number": 376,
             "color_identity": "RG",
             "cost": "{RG}",
             "rules_text": "Target creature gets +3/+1 and gains trample until end of turn. [i](That creature can deal excess combat damage to the player it's attacking.)[/i]",
@@ -4560,7 +4539,7 @@
             "loyalty": "",
             "artist": "Irina Kuzmina",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "rotated": false,
             "notes": ""
         },
@@ -4581,7 +4560,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "rotated": false,
             "notes": ""
         },
@@ -4602,7 +4581,7 @@
             "loyalty": "",
             "artist": "Matt Stewart",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4623,7 +4602,7 @@
             "loyalty": "",
             "artist": "Michael Komarck",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "rotated": false,
             "notes": ""
         },
@@ -4644,7 +4623,7 @@
             "loyalty": "",
             "artist": "Igor Kieryluk",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4665,7 +4644,7 @@
             "loyalty": "",
             "artist": "Greg Staples",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4686,7 +4665,7 @@
             "loyalty": "",
             "artist": "David Palumbo",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4686,7 @@
             "loyalty": "",
             "artist": "Irina Nordsol",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "rotated": false,
             "notes": ""
         },
@@ -4728,7 +4707,7 @@
             "loyalty": "",
             "artist": "Yeong-Hao Han",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "rotated": false,
             "notes": ""
         },
@@ -4749,7 +4728,7 @@
             "loyalty": "",
             "artist": "Stephan Martiniere",
             "alias": "",
-            "position": "225",
+            "position": "224",
             "rotated": false,
             "notes": ""
         },
@@ -4770,7 +4749,7 @@
             "loyalty": "",
             "artist": "Alex Konstad",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4791,7 +4770,7 @@
             "loyalty": "",
             "artist": "Joe Slucher",
             "alias": "",
-            "position": "227",
+            "position": "226",
             "rotated": false,
             "notes": ""
         },
@@ -4812,7 +4791,7 @@
             "loyalty": "",
             "artist": "Dermot Power",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "rotated": false,
             "notes": ""
         },
@@ -4833,7 +4812,7 @@
             "loyalty": "",
             "artist": "Kev Walker",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "rotated": false,
             "notes": ""
         },
@@ -4854,7 +4833,7 @@
             "loyalty": "",
             "artist": "Eric Velhagen",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "rotated": false,
             "notes": ""
         },
@@ -4875,7 +4854,7 @@
             "loyalty": "",
             "artist": "Jason A. Engle",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "rotated": false,
             "notes": ""
         },
@@ -4896,7 +4875,7 @@
             "loyalty": "",
             "artist": "Eric Wilkerson",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "rotated": false,
             "notes": ""
         },
@@ -4917,7 +4896,7 @@
             "loyalty": "",
             "artist": "Oriana Menendez",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "rotated": false,
             "notes": ""
         },
@@ -4938,7 +4917,7 @@
             "loyalty": "",
             "artist": "Alexander Mokhov",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "rotated": false,
             "notes": ""
         },
@@ -4959,7 +4938,7 @@
             "loyalty": "",
             "artist": "Cristi Balanescu",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "rotated": false,
             "notes": ""
         },
@@ -4980,7 +4959,7 @@
             "loyalty": "",
             "artist": "Serena Malyon",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5001,7 +4980,7 @@
             "loyalty": "",
             "artist": "Aurora Folney",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "rotated": false,
             "notes": ""
         },
@@ -5022,7 +5001,7 @@
             "loyalty": "",
             "artist": "Zoltan Boros",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5043,7 +5022,7 @@
             "loyalty": "",
             "artist": "Adam Paquette",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "rotated": false,
             "notes": ""
         },
@@ -5064,7 +5043,7 @@
             "loyalty": "",
             "artist": "Jason Felix",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "rotated": false,
             "notes": ""
         },
@@ -5085,7 +5064,7 @@
             "loyalty": "",
             "artist": "Bryan Sola",
             "alias": "",
-            "position": "241",
+            "position": "240",
             "rotated": false,
             "notes": ""
         },
@@ -5106,7 +5085,7 @@
             "loyalty": "",
             "artist": "Rockey Chen",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "rotated": false,
             "notes": ""
         },
@@ -5127,7 +5106,7 @@
             "loyalty": "",
             "artist": "Jim Murray",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "rotated": false,
             "notes": ""
         },
@@ -5148,7 +5127,7 @@
             "loyalty": "",
             "artist": "Lucie Louxor",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "rotated": false,
             "notes": ""
         },
@@ -5169,7 +5148,7 @@
             "loyalty": "",
             "artist": "Filip Burburan",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "rotated": false,
             "notes": ""
         },
@@ -5190,7 +5169,7 @@
             "loyalty": "",
             "artist": "Allen Williams",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "rotated": false,
             "notes": ""
         },
@@ -5211,28 +5190,7 @@
             "loyalty": "",
             "artist": "Micah Epstein",
             "alias": "",
-            "position": "247",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "Coalition Honor Guard",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Creature \u2014 Human Flagbearer",
-            "number": 11,
-            "color_identity": "W",
-            "cost": "{3}{W}",
-            "rules_text": "While an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.",
-            "flavor_text": "[i]Giving little thought to their own defense, they carried the flag that united their army.[/i]",
-            "pt": "2/4",
-            "special_text": "",
-            "shape": "normal",
-            "set": "PBC",
-            "loyalty": "",
-            "artist": "Eric Peterson",
-            "alias": "",
-            "position": "248",
+            "position": "246",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5211,7 @@
             "loyalty": "",
             "artist": "Samuel Araya",
             "alias": "",
-            "position": "249",
+            "position": "247",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5232,7 @@
             "loyalty": "",
             "artist": "Nils Hamm",
             "alias": "",
-            "position": "250",
+            "position": "248",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5253,7 @@
             "loyalty": "",
             "artist": "Jana Schirmer",
             "alias": "",
-            "position": "251",
+            "position": "249",
             "rotated": false,
             "notes": ""
         },
@@ -5316,7 +5274,7 @@
             "loyalty": "",
             "artist": "Vincent Proce",
             "alias": "",
-            "position": "252",
+            "position": "250",
             "rotated": false,
             "notes": ""
         },
@@ -5337,7 +5295,7 @@
             "loyalty": "",
             "artist": "Warren Mahy",
             "alias": "",
-            "position": "253",
+            "position": "251",
             "rotated": false,
             "notes": ""
         },
@@ -5358,7 +5316,7 @@
             "loyalty": "",
             "artist": "Mike Bierek",
             "alias": "",
-            "position": "254",
+            "position": "252",
             "rotated": false,
             "notes": ""
         },
@@ -5379,7 +5337,7 @@
             "loyalty": "",
             "artist": "Kieran Yanner",
             "alias": "",
-            "position": "255",
+            "position": "253",
             "rotated": false,
             "notes": ""
         },
@@ -5400,7 +5358,7 @@
             "loyalty": "",
             "artist": "Daarken",
             "alias": "",
-            "position": "256",
+            "position": "254",
             "rotated": false,
             "notes": ""
         },
@@ -5421,7 +5379,7 @@
             "loyalty": "",
             "artist": "Slawomir Maniak",
             "alias": "",
-            "position": "257",
+            "position": "255",
             "rotated": false,
             "notes": ""
         },
@@ -5442,7 +5400,7 @@
             "loyalty": "",
             "artist": "Steve Argyle",
             "alias": "",
-            "position": "258",
+            "position": "256",
             "rotated": false,
             "notes": ""
         },
@@ -5451,7 +5409,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Creature \u2014 Goblin Warrior",
-            "number": 367,
+            "number": 366,
             "color_identity": "BR",
             "cost": "{2}{BR}",
             "rules_text": "Whenever this creature or another creature you control dies, this creature deals 1 damage to each opponent.",
@@ -5463,7 +5421,7 @@
             "loyalty": "",
             "artist": "Karl Thiart",
             "alias": "",
-            "position": "259",
+            "position": "257",
             "rotated": false,
             "notes": ""
         },
@@ -5484,7 +5442,7 @@
             "loyalty": "",
             "artist": "Marta Nael",
             "alias": "",
-            "position": "260",
+            "position": "258",
             "rotated": false,
             "notes": ""
         },
@@ -5505,7 +5463,7 @@
             "loyalty": "",
             "artist": "Josiah \"Jo\" Cameron",
             "alias": "",
-            "position": "261",
+            "position": "259",
             "rotated": false,
             "notes": ""
         },
@@ -5526,7 +5484,7 @@
             "loyalty": "",
             "artist": "Timothy Stanford",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "rotated": false,
             "notes": ""
         },
@@ -5547,7 +5505,7 @@
             "loyalty": "",
             "artist": "Clint Cearley",
             "alias": "",
-            "position": "263",
+            "position": "261",
             "rotated": false,
             "notes": ""
         },
@@ -5568,7 +5526,7 @@
             "loyalty": "",
             "artist": "Daarken",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "rotated": false,
             "notes": ""
         },
@@ -5589,7 +5547,7 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "position": "265",
+            "position": "263",
             "rotated": false,
             "notes": ""
         },
@@ -5610,7 +5568,7 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "rotated": false,
             "notes": ""
         },
@@ -5631,7 +5589,7 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "position": "267",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
@@ -5652,7 +5610,7 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "position": "268",
+            "position": "266",
             "rotated": false,
             "notes": ""
         },
@@ -5673,7 +5631,7 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "position": "269",
+            "position": "267",
             "rotated": false,
             "notes": ""
         },
@@ -5682,7 +5640,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Archer",
-            "number": 378,
+            "number": 377,
             "color_identity": "BG",
             "cost": "{BG}",
             "rules_text": "Reach [i](This creature can block creatures with flying.)[/i]\nDeathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]",
@@ -5694,7 +5652,7 @@
             "loyalty": "",
             "artist": "TheRollingMan",
             "alias": "",
-            "position": "270",
+            "position": "268",
             "rotated": false,
             "notes": "Deathtouch Saboteurs"
         },
@@ -5703,7 +5661,7 @@
             "color": "UG",
             "rarity": "cube",
             "type": "Creature \u2014 Turtle",
-            "number": 380,
+            "number": 379,
             "color_identity": "UG",
             "cost": "{5}{GU}{GU}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nCycling {GU} [i]({GU}, Discard this card: Draw a card.)[/i]",
@@ -5715,7 +5673,7 @@
             "loyalty": "",
             "artist": "Kim Jaehyun",
             "alias": "",
-            "position": "271",
+            "position": "269",
             "rotated": false,
             "notes": ""
         },
@@ -5724,7 +5682,7 @@
             "color": "BR",
             "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
-            "number": 366,
+            "number": 365,
             "color_identity": "BR",
             "cost": "{BR}",
             "rules_text": "Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]\nEnchanted creature gets +2/-2.",
@@ -5736,7 +5694,7 @@
             "loyalty": "",
             "artist": "Bryan Sola",
             "alias": "",
-            "position": "272",
+            "position": "270",
             "rotated": false,
             "notes": ""
         },
@@ -5745,7 +5703,7 @@
             "color": "WU",
             "rarity": "cube",
             "type": "Instant",
-            "number": 374,
+            "number": 373,
             "color_identity": "WU",
             "cost": "{WU}{WU}",
             "rules_text": "Target attacking or blocking creature's owner puts it on their choice of the top or bottom of their library. Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]",
@@ -5757,7 +5715,7 @@
             "loyalty": "",
             "artist": "Juhyung Kang",
             "alias": "",
-            "position": "273",
+            "position": "271",
             "rotated": false,
             "notes": ""
         },
@@ -5778,7 +5736,7 @@
             "loyalty": "",
             "artist": "Gweon Jun Young",
             "alias": "",
-            "position": "274",
+            "position": "272",
             "rotated": false,
             "notes": ""
         },
@@ -5799,7 +5757,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "275",
+            "position": "273",
             "rotated": false,
             "notes": ""
         },
@@ -5820,7 +5778,7 @@
             "loyalty": "",
             "artist": "Gustavo Pelissari",
             "alias": "",
-            "position": "276",
+            "position": "274",
             "rotated": false,
             "notes": ""
         },
@@ -5829,7 +5787,7 @@
             "color": "UB",
             "rarity": "cube",
             "type": "Creature \u2014 Skeleton Wizard",
-            "number": 363,
+            "number": 362,
             "color_identity": "UB",
             "cost": "{5}{UB}{UB}",
             "rules_text": "You may pay {1}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell's mana cost.\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]",
@@ -5841,7 +5799,7 @@
             "loyalty": "",
             "artist": "Lerastislav",
             "alias": "",
-            "position": "277",
+            "position": "275",
             "rotated": false,
             "notes": ""
         },
@@ -5862,7 +5820,7 @@
             "loyalty": "",
             "artist": "Diego Cunha",
             "alias": "",
-            "position": "278",
+            "position": "276",
             "rotated": false,
             "notes": ""
         },
@@ -5883,7 +5841,7 @@
             "loyalty": "",
             "artist": "Grafit Art",
             "alias": "",
-            "position": "279",
+            "position": "277",
             "rotated": false,
             "notes": ""
         },
@@ -5892,7 +5850,7 @@
             "color": "BG",
             "rarity": "cube",
             "type": "Creature \u2014 Demon",
-            "number": 362,
+            "number": 361,
             "color_identity": "BG",
             "cost": "{1}{BG}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or pay {3}.",
@@ -5904,7 +5862,7 @@
             "loyalty": "",
             "artist": "Maxime Minard",
             "alias": "",
-            "position": "280",
+            "position": "278",
             "rotated": false,
             "notes": ""
         },
@@ -5925,7 +5883,7 @@
             "loyalty": "",
             "artist": "Vadim Simanin",
             "alias": "",
-            "position": "281",
+            "position": "279",
             "rotated": false,
             "notes": ""
         },
@@ -5946,7 +5904,7 @@
             "loyalty": "",
             "artist": "Quintin Gleim",
             "alias": "",
-            "position": "282",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5967,7 +5925,7 @@
             "loyalty": "",
             "artist": "Micah Epstein",
             "alias": "",
-            "position": "283",
+            "position": "281",
             "rotated": false,
             "notes": ""
         },
@@ -5988,7 +5946,7 @@
             "loyalty": "",
             "artist": "Jeff Laubenstein",
             "alias": "",
-            "position": "284",
+            "position": "282",
             "rotated": false,
             "notes": ""
         },
@@ -6009,7 +5967,7 @@
             "loyalty": "",
             "artist": "Steven Belledin",
             "alias": "",
-            "position": "285",
+            "position": "283",
             "rotated": false,
             "notes": ""
         },
@@ -6030,7 +5988,7 @@
             "loyalty": "",
             "artist": "Aldo Katayanagi",
             "alias": "",
-            "position": "286",
+            "position": "284",
             "rotated": false,
             "notes": ""
         },
@@ -6051,7 +6009,7 @@
             "loyalty": "",
             "artist": "Chris Seaman",
             "alias": "",
-            "position": "287",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6072,7 +6030,7 @@
             "loyalty": "",
             "artist": "cobaltplasma",
             "alias": "",
-            "position": "288",
+            "position": "286",
             "rotated": false,
             "notes": ""
         },
@@ -6093,7 +6051,7 @@
             "loyalty": "",
             "artist": "Jeremy Jarvis",
             "alias": "",
-            "position": "289",
+            "position": "287",
             "rotated": false,
             "notes": ""
         },
@@ -6114,7 +6072,7 @@
             "loyalty": "",
             "artist": "Vincent Proce",
             "alias": "",
-            "position": "290",
+            "position": "288",
             "rotated": false,
             "notes": ""
         },
@@ -6135,7 +6093,7 @@
             "loyalty": "",
             "artist": "Caroline Gariba",
             "alias": "",
-            "position": "291",
+            "position": "289",
             "rotated": false,
             "notes": ""
         },
@@ -6156,7 +6114,7 @@
             "loyalty": "",
             "artist": "Gina Matarazzo",
             "alias": "",
-            "position": "292",
+            "position": "290",
             "rotated": false,
             "notes": ""
         },
@@ -6177,7 +6135,7 @@
             "loyalty": "",
             "artist": "Nicholas Gregory",
             "alias": "",
-            "position": "293",
+            "position": "291",
             "rotated": false,
             "notes": ""
         },
@@ -6198,7 +6156,7 @@
             "loyalty": "",
             "artist": "Rudy Siswanto",
             "alias": "",
-            "position": "294",
+            "position": "292",
             "rotated": false,
             "notes": ""
         },
@@ -6219,7 +6177,7 @@
             "loyalty": "",
             "artist": "Helena Nikulina",
             "alias": "",
-            "position": "295",
+            "position": "293",
             "rotated": false,
             "notes": ""
         },
@@ -6240,7 +6198,7 @@
             "loyalty": "",
             "artist": "Viktor Titov",
             "alias": "",
-            "position": "296",
+            "position": "294",
             "rotated": false,
             "notes": ""
         },
@@ -6261,7 +6219,7 @@
             "loyalty": "",
             "artist": "Yongjae Choi",
             "alias": "",
-            "position": "297",
+            "position": "295",
             "rotated": false,
             "notes": ""
         },
@@ -6270,7 +6228,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Artifact \u2014 Equipment",
-            "number": 51,
+            "number": 50,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, tap target creature defending player controls.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -6282,7 +6240,7 @@
             "loyalty": "",
             "artist": "Camille Alquier",
             "alias": "",
-            "position": "298",
+            "position": "296",
             "rotated": false,
             "notes": ""
         },
@@ -6303,7 +6261,7 @@
             "loyalty": "",
             "artist": "Greg Manchess",
             "alias": "",
-            "position": "299",
+            "position": "297",
             "rotated": false,
             "notes": ""
         },
@@ -6324,7 +6282,7 @@
             "loyalty": "",
             "artist": "Ryan Pancoast",
             "alias": "",
-            "position": "300",
+            "position": "298",
             "rotated": false,
             "notes": ""
         },
@@ -6345,7 +6303,7 @@
             "loyalty": "",
             "artist": "Sebastian Barth",
             "alias": "",
-            "position": "301",
+            "position": "299",
             "rotated": false,
             "notes": ""
         },
@@ -6366,7 +6324,7 @@
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
             "alias": "",
-            "position": "302",
+            "position": "300",
             "rotated": false,
             "notes": ""
         },
@@ -6387,7 +6345,7 @@
             "loyalty": "",
             "artist": "Caio Monteiro",
             "alias": "",
-            "position": "303",
+            "position": "301",
             "rotated": false,
             "notes": ""
         },
@@ -6408,7 +6366,7 @@
             "loyalty": "",
             "artist": "Willian Murai",
             "alias": "",
-            "position": "304",
+            "position": "302",
             "rotated": false,
             "notes": ""
         },
@@ -6429,7 +6387,7 @@
             "loyalty": "",
             "artist": "Wudi Ding",
             "alias": "",
-            "position": "305",
+            "position": "303",
             "rotated": false,
             "notes": "Spirit Mantle"
         },
@@ -6450,7 +6408,7 @@
             "loyalty": "",
             "artist": "Justin Sweet",
             "alias": "",
-            "position": "306",
+            "position": "304",
             "rotated": false,
             "notes": ""
         },
@@ -6471,7 +6429,7 @@
             "loyalty": "",
             "artist": "Arankin",
             "alias": "",
-            "position": "307",
+            "position": "305",
             "rotated": false,
             "notes": ""
         },
@@ -6492,7 +6450,7 @@
             "loyalty": "",
             "artist": "Jason Felix",
             "alias": "",
-            "position": "308",
+            "position": "306",
             "rotated": false,
             "notes": ""
         },
@@ -6513,7 +6471,7 @@
             "loyalty": "",
             "artist": "Ryan Pancoast",
             "alias": "",
-            "position": "309",
+            "position": "307",
             "rotated": false,
             "notes": ""
         },
@@ -6534,7 +6492,7 @@
             "loyalty": "",
             "artist": "Manuel Casta\u00f1\u00f3n",
             "alias": "",
-            "position": "310",
+            "position": "308",
             "rotated": false,
             "notes": ""
         },
@@ -6555,7 +6513,7 @@
             "loyalty": "",
             "artist": "Faraz Shanyar",
             "alias": "",
-            "position": "311",
+            "position": "309",
             "rotated": false,
             "notes": ""
         },
@@ -6576,7 +6534,7 @@
             "loyalty": "",
             "artist": "Alan Pollack",
             "alias": "",
-            "position": "312",
+            "position": "310",
             "rotated": false,
             "notes": ""
         },
@@ -6597,7 +6555,7 @@
             "loyalty": "",
             "artist": "Hoken4500",
             "alias": "",
-            "position": "313",
+            "position": "311",
             "rotated": false,
             "notes": ""
         },
@@ -6618,7 +6576,7 @@
             "loyalty": "",
             "artist": "Wylie Beckert",
             "alias": "",
-            "position": "314",
+            "position": "312",
             "rotated": false,
             "notes": ""
         },
@@ -6639,7 +6597,7 @@
             "loyalty": "",
             "artist": "Jelena Kevic-Djurdjevic",
             "alias": "",
-            "position": "315",
+            "position": "313",
             "rotated": false,
             "notes": ""
         },
@@ -6660,7 +6618,7 @@
             "loyalty": "",
             "artist": "Lucas Durham",
             "alias": "",
-            "position": "316",
+            "position": "314",
             "rotated": false,
             "notes": ""
         },
@@ -6681,7 +6639,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "317",
+            "position": "315",
             "rotated": false,
             "notes": ""
         },
@@ -6702,7 +6660,7 @@
             "loyalty": "",
             "artist": "Dao Trong Le",
             "alias": "",
-            "position": "318",
+            "position": "316",
             "rotated": false,
             "notes": ""
         },
@@ -6723,7 +6681,7 @@
             "loyalty": "",
             "artist": "Anna Podedworna",
             "alias": "",
-            "position": "319",
+            "position": "317",
             "rotated": false,
             "notes": ""
         },
@@ -6744,7 +6702,7 @@
             "loyalty": "",
             "artist": "Julie Dillon",
             "alias": "",
-            "position": "320",
+            "position": "318",
             "rotated": false,
             "notes": ""
         },
@@ -6753,7 +6711,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 53,
+            "number": 52,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Return up to two target creature cards with total mana value 4 or less from your graveyard to the battlefield.",
@@ -6765,7 +6723,7 @@
             "loyalty": "",
             "artist": "Andy Lamarca",
             "alias": "",
-            "position": "321",
+            "position": "319",
             "rotated": false,
             "notes": ""
         },
@@ -6786,7 +6744,7 @@
             "loyalty": "",
             "artist": "\u4fca\u8d85 \u6768",
             "alias": "",
-            "position": "322",
+            "position": "320",
             "rotated": false,
             "notes": ""
         },
@@ -6807,7 +6765,7 @@
             "loyalty": "",
             "artist": "Jason Juta",
             "alias": "",
-            "position": "323",
+            "position": "321",
             "rotated": false,
             "notes": ""
         },
@@ -6828,7 +6786,7 @@
             "loyalty": "",
             "artist": "Cygames",
             "alias": "",
-            "position": "324",
+            "position": "322",
             "rotated": false,
             "notes": ""
         },
@@ -6849,7 +6807,7 @@
             "loyalty": "",
             "artist": "Kim Sung Hwan",
             "alias": "",
-            "position": "325",
+            "position": "323",
             "rotated": false,
             "notes": ""
         },
@@ -6870,7 +6828,7 @@
             "loyalty": "",
             "artist": "Vilhelmas Banys\u0117",
             "alias": "",
-            "position": "326",
+            "position": "324",
             "rotated": false,
             "notes": ""
         },
@@ -6891,7 +6849,7 @@
             "loyalty": "",
             "artist": "Dominic Barrios",
             "alias": "",
-            "position": "327",
+            "position": "325",
             "rotated": false,
             "notes": ""
         },
@@ -6912,7 +6870,7 @@
             "loyalty": "",
             "artist": "Vasilyna Holod",
             "alias": "",
-            "position": "328",
+            "position": "326",
             "rotated": false,
             "notes": ""
         },
@@ -6933,7 +6891,7 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "position": "329",
+            "position": "327",
             "rotated": false,
             "notes": ""
         },
@@ -6954,7 +6912,7 @@
             "loyalty": "",
             "artist": "John Avon",
             "alias": "",
-            "position": "330",
+            "position": "328",
             "rotated": false,
             "notes": ""
         },
@@ -6975,7 +6933,7 @@
             "loyalty": "",
             "artist": "Carlos Palma Cruchaga",
             "alias": "",
-            "position": "331",
+            "position": "329",
             "rotated": false,
             "notes": ""
         },
@@ -6996,7 +6954,7 @@
             "loyalty": "",
             "artist": "o-Sehaliah-o",
             "alias": "",
-            "position": "332",
+            "position": "330",
             "rotated": false,
             "notes": ""
         },
@@ -7017,7 +6975,7 @@
             "loyalty": "",
             "artist": "Simon Danckeart",
             "alias": "",
-            "position": "333",
+            "position": "331",
             "rotated": false,
             "notes": ""
         },
@@ -7038,7 +6996,7 @@
             "loyalty": "",
             "artist": "Andreia Ugrai",
             "alias": "",
-            "position": "334",
+            "position": "332",
             "rotated": false,
             "notes": ""
         },
@@ -7047,7 +7005,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Human Soldier",
-            "number": 47,
+            "number": 46,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\nWhenever this creature attacks, untap another target creature you control.",
@@ -7059,7 +7017,7 @@
             "loyalty": "",
             "artist": "Volkan Baga",
             "alias": "",
-            "position": "335",
+            "position": "333",
             "rotated": false,
             "notes": ""
         },
@@ -7080,7 +7038,7 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
-            "position": "336",
+            "position": "334",
             "rotated": false,
             "notes": ""
         },
@@ -7101,7 +7059,7 @@
             "loyalty": "",
             "artist": "Lius Lasahido",
             "alias": "",
-            "position": "337",
+            "position": "335",
             "rotated": false,
             "notes": ""
         },
@@ -7122,7 +7080,7 @@
             "loyalty": "",
             "artist": "Brent Hollowell",
             "alias": "",
-            "position": "338",
+            "position": "336",
             "rotated": false,
             "notes": ""
         },
@@ -7143,7 +7101,7 @@
             "loyalty": "",
             "artist": "Johann Bodin",
             "alias": "",
-            "position": "339",
+            "position": "337",
             "rotated": false,
             "notes": ""
         },
@@ -7164,7 +7122,7 @@
             "loyalty": "",
             "artist": "Uriah Voth",
             "alias": "",
-            "position": "340",
+            "position": "338",
             "rotated": false,
             "notes": ""
         },
@@ -7173,7 +7131,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 15,
+            "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Creatures you control get +1/+1.",
@@ -7185,7 +7143,7 @@
             "loyalty": "",
             "artist": "Raymond Swanland",
             "alias": "",
-            "position": "341",
+            "position": "339",
             "rotated": false,
             "notes": ""
         },
@@ -7206,7 +7164,7 @@
             "loyalty": "",
             "artist": "Midjourney AI",
             "alias": "",
-            "position": "342",
+            "position": "340",
             "rotated": false,
             "notes": ""
         },
@@ -7227,7 +7185,7 @@
             "loyalty": "",
             "artist": "Nicholas Gregory",
             "alias": "",
-            "position": "343",
+            "position": "341",
             "rotated": false,
             "notes": ""
         },
@@ -7248,7 +7206,7 @@
             "loyalty": "",
             "artist": "Hugh Pindur",
             "alias": "",
-            "position": "344",
+            "position": "342",
             "rotated": false,
             "notes": ""
         },
@@ -7269,7 +7227,7 @@
             "loyalty": "",
             "artist": "Simon Dominic",
             "alias": "",
-            "position": "345",
+            "position": "343",
             "rotated": false,
             "notes": ""
         },
@@ -7278,7 +7236,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Pegasus",
-            "number": 43,
+            "number": 42,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nArtifact and enchantment spells you cast cost {1} less to cast.",
@@ -7290,7 +7248,7 @@
             "loyalty": "",
             "artist": "Andrew Mar",
             "alias": "",
-            "position": "346",
+            "position": "344",
             "rotated": false,
             "notes": ""
         },
@@ -7311,7 +7269,7 @@
             "loyalty": "",
             "artist": "Mila Pesic",
             "alias": "",
-            "position": "347",
+            "position": "345",
             "rotated": false,
             "notes": ""
         },
@@ -7332,7 +7290,7 @@
             "loyalty": "",
             "artist": "Aaron B. Miller",
             "alias": "",
-            "position": "348",
+            "position": "346",
             "rotated": false,
             "notes": ""
         },
@@ -7353,7 +7311,7 @@
             "loyalty": "",
             "artist": "Jodie Muir",
             "alias": "",
-            "position": "349",
+            "position": "347",
             "rotated": false,
             "notes": ""
         },
@@ -7374,7 +7332,7 @@
             "loyalty": "",
             "artist": "Adrian de",
             "alias": "",
-            "position": "350",
+            "position": "348",
             "rotated": false,
             "notes": ""
         },
@@ -7395,7 +7353,7 @@
             "loyalty": "",
             "artist": "Maciej Laszkiewicz",
             "alias": "",
-            "position": "351",
+            "position": "349",
             "rotated": false,
             "notes": ""
         },
@@ -7416,7 +7374,7 @@
             "loyalty": "",
             "artist": "Martin Roca",
             "alias": "",
-            "position": "352",
+            "position": "350",
             "rotated": false,
             "notes": ""
         },
@@ -7437,7 +7395,7 @@
             "loyalty": "",
             "artist": "Nikolas Gekko",
             "alias": "",
-            "position": "353",
+            "position": "351",
             "rotated": false,
             "notes": ""
         },
@@ -7458,7 +7416,7 @@
             "loyalty": "",
             "artist": "Chris Rahn",
             "alias": "",
-            "position": "354",
+            "position": "352",
             "rotated": false,
             "notes": ""
         },
@@ -7479,7 +7437,7 @@
             "loyalty": "",
             "artist": "Kev Walker",
             "alias": "",
-            "position": "355",
+            "position": "353",
             "rotated": false,
             "notes": ""
         },
@@ -7500,7 +7458,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
-            "position": "356",
+            "position": "354",
             "rotated": false,
             "notes": ""
         },
@@ -7521,7 +7479,7 @@
             "loyalty": "",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "position": "357",
+            "position": "355",
             "rotated": false,
             "notes": ""
         },
@@ -7542,7 +7500,7 @@
             "loyalty": "",
             "artist": "Ilya Ozornin",
             "alias": "",
-            "position": "358",
+            "position": "356",
             "rotated": false,
             "notes": ""
         },
@@ -7563,7 +7521,7 @@
             "loyalty": "",
             "artist": "Francis Brunet",
             "alias": "",
-            "position": "359",
+            "position": "357",
             "rotated": false,
             "notes": ""
         },
@@ -7572,7 +7530,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Instant",
-            "number": 52,
+            "number": 51,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target creature if it's tapped or if it has toughness 4 or greater.",
@@ -7584,7 +7542,7 @@
             "loyalty": "",
             "artist": "Lie Setiawan",
             "alias": "",
-            "position": "360",
+            "position": "358",
             "rotated": false,
             "notes": ""
         },
@@ -7593,7 +7551,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Human Soldier",
-            "number": 54,
+            "number": 53,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{T}: Target attacking or blocking creature gets +1/+1 until end of turn.",
@@ -7605,7 +7563,7 @@
             "loyalty": "",
             "artist": "Sean Kyle Manaloto",
             "alias": "",
-            "position": "361",
+            "position": "359",
             "rotated": false,
             "notes": ""
         },
@@ -7614,7 +7572,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Elf Soldier",
-            "number": 56,
+            "number": 55,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever you cast a spell during combat, this creature gains first strike and lifelink until end of turn. [i](It deals combat damage before creatures without first strike. Damage dealt by it creature also causes you to gain that much life.)[/i]",
@@ -7626,7 +7584,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "position": "362",
+            "position": "360",
             "rotated": false,
             "notes": ""
         },
@@ -7647,7 +7605,7 @@
             "loyalty": "",
             "artist": "Jason Rainville",
             "alias": "",
-            "position": "363",
+            "position": "361",
             "rotated": false,
             "notes": ""
         },
@@ -7656,7 +7614,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Shapeshifter",
-            "number": 55,
+            "number": 54,
             "color_identity": "W",
             "cost": "{5}{W}{W}",
             "rules_text": "This spell costs {1} less to cast for each creature type among creatures you control. This effect can't reduce the amount of mana this spell costs by more than {5}.\nChangeling [i](This card is every creature type.)[/i]\nDouble strike [i](This creature deals both first-strike and regular combat damage.)[/i]",
@@ -7668,7 +7626,7 @@
             "loyalty": "",
             "artist": "Gabor Szikszai",
             "alias": "",
-            "position": "364",
+            "position": "362",
             "rotated": false,
             "notes": ""
         },
@@ -7689,7 +7647,7 @@
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
             "alias": "",
-            "position": "365",
+            "position": "363",
             "rotated": false,
             "notes": ""
         },
@@ -7710,7 +7668,7 @@
             "loyalty": "",
             "artist": "Xabi Gaztelua",
             "alias": "",
-            "position": "366",
+            "position": "364",
             "rotated": false,
             "notes": ""
         },
@@ -7719,7 +7677,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 13,
+            "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Exile target nonland permanent.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
@@ -7731,7 +7689,7 @@
             "loyalty": "",
             "artist": "Joseph Ventura",
             "alias": "",
-            "position": "367",
+            "position": "365",
             "rotated": false,
             "notes": ""
         },
@@ -7752,7 +7710,7 @@
             "loyalty": "",
             "artist": "Mia Bai",
             "alias": "",
-            "position": "368",
+            "position": "366",
             "rotated": false,
             "notes": ""
         },
@@ -7773,7 +7731,7 @@
             "loyalty": "",
             "artist": "BLAKE (wblake)",
             "alias": "",
-            "position": "369",
+            "position": "367",
             "rotated": false,
             "notes": ""
         },
@@ -7782,7 +7740,7 @@
             "color": "W",
             "rarity": "cube",
             "type": "Creature \u2014 Bird",
-            "number": 46,
+            "number": 45,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nFlying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]\nWhen this creature enters, you gain 3 life.",
@@ -7794,7 +7752,7 @@
             "loyalty": "",
             "artist": "Britta Jacobs",
             "alias": "",
-            "position": "370",
+            "position": "368",
             "rotated": false,
             "notes": ""
         },
@@ -7815,7 +7773,7 @@
             "loyalty": "",
             "artist": "Ihor Reshetnikov",
             "alias": "",
-            "position": "371",
+            "position": "369",
             "rotated": false,
             "notes": ""
         },
@@ -7836,7 +7794,7 @@
             "loyalty": "",
             "artist": "Grace Liu",
             "alias": "",
-            "position": "372",
+            "position": "370",
             "rotated": false,
             "notes": ""
         },
@@ -7857,7 +7815,7 @@
             "loyalty": "",
             "artist": "Margot Zussy",
             "alias": "",
-            "position": "373",
+            "position": "371",
             "rotated": false,
             "notes": ""
         },
@@ -7878,7 +7836,7 @@
             "loyalty": "",
             "artist": "Julie Sakai",
             "alias": "",
-            "position": "374",
+            "position": "372",
             "rotated": false,
             "notes": ""
         },
@@ -7899,7 +7857,7 @@
             "loyalty": "",
             "artist": "Alessandro \"Talexi\" Taini",
             "alias": "",
-            "position": "375",
+            "position": "373",
             "rotated": false,
             "notes": ""
         },
@@ -7920,7 +7878,7 @@
             "loyalty": "",
             "artist": "Bagriel Grey",
             "alias": "",
-            "position": "376",
+            "position": "374",
             "rotated": false,
             "notes": ""
         },
@@ -7941,7 +7899,7 @@
             "loyalty": "",
             "artist": "Lie Setiawan",
             "alias": "",
-            "position": "377",
+            "position": "375",
             "rotated": false,
             "notes": ""
         },
@@ -7962,7 +7920,7 @@
             "loyalty": "",
             "artist": "Van Ong",
             "alias": "",
-            "position": "378",
+            "position": "376",
             "rotated": false,
             "notes": ""
         },
@@ -7983,7 +7941,7 @@
             "loyalty": "",
             "artist": "Jesper Ejsing",
             "alias": "",
-            "position": "379",
+            "position": "377",
             "rotated": false,
             "notes": ""
         },
@@ -8004,7 +7962,7 @@
             "loyalty": "",
             "artist": "John Avon",
             "alias": "",
-            "position": "380",
+            "position": "378",
             "rotated": false,
             "notes": ""
         },
@@ -8025,7 +7983,7 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "position": "381",
+            "position": "379",
             "rotated": false,
             "notes": ""
         },
@@ -8046,7 +8004,7 @@
             "loyalty": "",
             "artist": "darius Zkieliszek",
             "alias": "",
-            "position": "382",
+            "position": "380",
             "rotated": false,
             "notes": ""
         },
@@ -8067,7 +8025,7 @@
             "loyalty": "",
             "artist": "David Levesque",
             "alias": "",
-            "position": "383",
+            "position": "381",
             "rotated": false,
             "notes": ""
         },
@@ -8088,7 +8046,7 @@
             "loyalty": "",
             "artist": "Patricia Gutierrez",
             "alias": "",
-            "position": "384",
+            "position": "382",
             "rotated": false,
             "notes": ""
         },
@@ -8109,7 +8067,7 @@
             "loyalty": "",
             "artist": "Justin Sweet",
             "alias": "",
-            "position": "385",
+            "position": "383",
             "rotated": false,
             "notes": ""
         },
@@ -8130,7 +8088,7 @@
             "loyalty": "",
             "artist": "darius Zkieliszek",
             "alias": "",
-            "position": "386",
+            "position": "384",
             "rotated": false,
             "notes": ""
         },
@@ -8151,7 +8109,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "387",
+            "position": "385",
             "rotated": false,
             "notes": ""
         },
@@ -8172,7 +8130,7 @@
             "loyalty": "",
             "artist": "zix72",
             "alias": "",
-            "position": "388",
+            "position": "386",
             "rotated": false,
             "notes": ""
         },
@@ -8193,7 +8151,7 @@
             "loyalty": "",
             "artist": "Huang Guangjian",
             "alias": "",
-            "position": "389",
+            "position": "387",
             "rotated": false,
             "notes": ""
         },
@@ -8214,7 +8172,7 @@
             "loyalty": "",
             "artist": "Pierre Vanderweerd",
             "alias": "",
-            "position": "390",
+            "position": "388",
             "rotated": false,
             "notes": ""
         },
@@ -8235,7 +8193,7 @@
             "loyalty": "",
             "artist": "Fajareka Setiawan",
             "alias": "",
-            "position": "391",
+            "position": "389",
             "rotated": false,
             "notes": ""
         },
@@ -8256,7 +8214,7 @@
             "loyalty": "",
             "artist": "Yevhen Bodrenko",
             "alias": "",
-            "position": "392",
+            "position": "390",
             "rotated": false,
             "notes": ""
         },
@@ -8277,7 +8235,7 @@
             "loyalty": "",
             "artist": "Tyler Walpole",
             "alias": "",
-            "position": "393",
+            "position": "391",
             "rotated": false,
             "notes": ""
         },
@@ -8298,7 +8256,7 @@
             "loyalty": "",
             "artist": "Jen Santos",
             "alias": "",
-            "position": "394",
+            "position": "392",
             "rotated": false,
             "notes": ""
         },
@@ -8319,7 +8277,7 @@
             "loyalty": "",
             "artist": "Agatzia",
             "alias": "",
-            "position": "395",
+            "position": "393",
             "rotated": false,
             "notes": ""
         },
@@ -8340,7 +8298,7 @@
             "loyalty": "",
             "artist": "Midjourney AI",
             "alias": "",
-            "position": "396",
+            "position": "394",
             "rotated": false,
             "notes": ""
         },
@@ -8361,7 +8319,7 @@
             "loyalty": "",
             "artist": "Chris Seaman",
             "alias": "",
-            "position": "397",
+            "position": "395",
             "rotated": false,
             "notes": ""
         },
@@ -8382,7 +8340,7 @@
             "loyalty": "",
             "artist": "Madeline Boni",
             "alias": "",
-            "position": "398",
+            "position": "396",
             "rotated": false,
             "notes": ""
         },
@@ -8403,7 +8361,7 @@
             "loyalty": "",
             "artist": "Evyn Fong",
             "alias": "",
-            "position": "399",
+            "position": "397",
             "rotated": false,
             "notes": ""
         },
@@ -8424,7 +8382,7 @@
             "loyalty": "",
             "artist": "Zhuopeng Zhu",
             "alias": "",
-            "position": "400",
+            "position": "398",
             "rotated": false,
             "notes": ""
         },
@@ -8445,7 +8403,7 @@
             "loyalty": "",
             "artist": "Ben Wootten",
             "alias": "",
-            "position": "401",
+            "position": "399",
             "rotated": false,
             "notes": ""
         },
@@ -8466,7 +8424,7 @@
             "loyalty": "",
             "artist": "Zoltan Boros",
             "alias": "",
-            "position": "402",
+            "position": "400",
             "rotated": false,
             "notes": ""
         },
@@ -8487,7 +8445,7 @@
             "loyalty": "",
             "artist": "Pauliina Linjama",
             "alias": "",
-            "position": "403",
+            "position": "401",
             "rotated": false,
             "notes": ""
         },
@@ -8508,7 +8466,7 @@
             "loyalty": "",
             "artist": "fang xinyu",
             "alias": "",
-            "position": "404",
+            "position": "402",
             "rotated": false,
             "notes": ""
         },
@@ -8529,7 +8487,7 @@
             "loyalty": "",
             "artist": "Natalia Bokova",
             "alias": "",
-            "position": "405",
+            "position": "403",
             "rotated": false,
             "notes": ""
         },
@@ -8550,7 +8508,7 @@
             "loyalty": "",
             "artist": "Iwo Widuli\u0144ski",
             "alias": "",
-            "position": "406",
+            "position": "404",
             "rotated": false,
             "notes": ""
         },
@@ -8571,7 +8529,7 @@
             "loyalty": "",
             "artist": "Wolf Luke",
             "alias": "",
-            "position": "407",
+            "position": "405",
             "rotated": false,
             "notes": ""
         },
@@ -8592,7 +8550,7 @@
             "loyalty": "",
             "artist": "PinSheng Chung",
             "alias": "",
-            "position": "408",
+            "position": "406",
             "rotated": false,
             "notes": ""
         },
@@ -8613,7 +8571,7 @@
             "loyalty": "",
             "artist": "Kari Christensen",
             "alias": "",
-            "position": "409",
+            "position": "407",
             "rotated": false,
             "notes": ""
         },
@@ -8634,7 +8592,7 @@
             "loyalty": "",
             "artist": "Pablo Dominguez",
             "alias": "",
-            "position": "410",
+            "position": "408",
             "rotated": false,
             "notes": ""
         },
@@ -8655,7 +8613,7 @@
             "loyalty": "",
             "artist": "Thomas Wievegg",
             "alias": "",
-            "position": "411",
+            "position": "409",
             "rotated": false,
             "notes": ""
         },
@@ -8676,7 +8634,7 @@
             "loyalty": "",
             "artist": "kunkka",
             "alias": "",
-            "position": "412",
+            "position": "410",
             "rotated": false,
             "notes": ""
         },
@@ -8697,7 +8655,7 @@
             "loyalty": "",
             "artist": "Mehmet Ozon",
             "alias": "",
-            "position": "413",
+            "position": "411",
             "rotated": false,
             "notes": ""
         },
@@ -8718,7 +8676,7 @@
             "loyalty": "",
             "artist": "Tom Lopez",
             "alias": "",
-            "position": "414",
+            "position": "412",
             "rotated": false,
             "notes": ""
         },
@@ -8739,7 +8697,7 @@
             "loyalty": "",
             "artist": "Linggar Bramanty",
             "alias": "",
-            "position": "415",
+            "position": "413",
             "rotated": false,
             "notes": ""
         },
@@ -8760,7 +8718,7 @@
             "loyalty": "",
             "artist": "Victor Adame Minguez",
             "alias": "",
-            "position": "416",
+            "position": "414",
             "rotated": false,
             "notes": ""
         },
@@ -8781,7 +8739,7 @@
             "loyalty": "",
             "artist": "jdtmart",
             "alias": "",
-            "position": "417",
+            "position": "415",
             "rotated": false,
             "notes": ""
         },
@@ -8802,7 +8760,7 @@
             "loyalty": "",
             "artist": "CD Projeckt RED",
             "alias": "",
-            "position": "418",
+            "position": "416",
             "rotated": false,
             "notes": ""
         },
@@ -8823,7 +8781,7 @@
             "loyalty": "",
             "artist": "Anastasya Zakharova",
             "alias": "",
-            "position": "419",
+            "position": "417",
             "rotated": false,
             "notes": ""
         },
@@ -8844,7 +8802,7 @@
             "loyalty": "",
             "artist": "Ishton",
             "alias": "",
-            "position": "420",
+            "position": "418",
             "rotated": false,
             "notes": ""
         },
@@ -8865,7 +8823,7 @@
             "loyalty": "",
             "artist": "Wizards of the Coast",
             "alias": "",
-            "position": "421",
+            "position": "419",
             "rotated": false,
             "notes": ""
         },
@@ -8886,7 +8844,7 @@
             "loyalty": "",
             "artist": "Rovina Cai",
             "alias": "",
-            "position": "422",
+            "position": "420",
             "rotated": false,
             "notes": ""
         },
@@ -8907,7 +8865,7 @@
             "loyalty": "",
             "artist": "Nils Hamm",
             "alias": "",
-            "position": "423",
+            "position": "421",
             "rotated": false,
             "notes": ""
         },
@@ -8928,7 +8886,7 @@
             "loyalty": "",
             "artist": "Dave Kendall",
             "alias": "",
-            "position": "424",
+            "position": "422",
             "rotated": false,
             "notes": ""
         },
@@ -8949,7 +8907,7 @@
             "loyalty": "",
             "artist": "antonio-j-manzanedo",
             "alias": "",
-            "position": "425",
+            "position": "423",
             "rotated": false,
             "notes": ""
         },
@@ -8970,7 +8928,7 @@
             "loyalty": "",
             "artist": "Johannes Voss",
             "alias": "",
-            "position": "426",
+            "position": "424",
             "rotated": false,
             "notes": ""
         },
@@ -8991,7 +8949,7 @@
             "loyalty": "",
             "artist": "Vladimir Kafanov",
             "alias": "",
-            "position": "427",
+            "position": "425",
             "rotated": false,
             "notes": ""
         },
@@ -9012,7 +8970,7 @@
             "loyalty": "",
             "artist": "Dmitry Skvortsov",
             "alias": "",
-            "position": "428",
+            "position": "426",
             "rotated": false,
             "notes": ""
         },
@@ -9033,7 +8991,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "429",
+            "position": "427",
             "rotated": false,
             "notes": ""
         },
@@ -9054,7 +9012,7 @@
             "loyalty": "",
             "artist": "Ari Targownik",
             "alias": "",
-            "position": "430",
+            "position": "428",
             "rotated": false,
             "notes": ""
         },
@@ -9075,7 +9033,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "431",
+            "position": "429",
             "rotated": false,
             "notes": ""
         },
@@ -9096,7 +9054,7 @@
             "loyalty": "",
             "artist": "Ian Llanas",
             "alias": "",
-            "position": "432",
+            "position": "430",
             "rotated": false,
             "notes": ""
         },
@@ -9117,7 +9075,7 @@
             "loyalty": "",
             "artist": "Ryan Moulton",
             "alias": "",
-            "position": "433",
+            "position": "431",
             "rotated": false,
             "notes": ""
         },
@@ -9138,7 +9096,7 @@
             "loyalty": "",
             "artist": "Scott Murphy",
             "alias": "",
-            "position": "434",
+            "position": "432",
             "rotated": false,
             "notes": ""
         },
@@ -9159,7 +9117,7 @@
             "loyalty": "",
             "artist": "Yevhen Bodrenko",
             "alias": "",
-            "position": "435",
+            "position": "433",
             "rotated": false,
             "notes": ""
         },
@@ -9180,7 +9138,7 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "position": "436",
+            "position": "434",
             "rotated": false,
             "notes": ""
         },
@@ -9201,7 +9159,7 @@
             "loyalty": "",
             "artist": "Panjoool",
             "alias": "",
-            "position": "437",
+            "position": "435",
             "rotated": false,
             "notes": ""
         },
@@ -9222,7 +9180,7 @@
             "loyalty": "",
             "artist": "Vimart",
             "alias": "",
-            "position": "438",
+            "position": "436",
             "rotated": false,
             "notes": ""
         },
@@ -9243,7 +9201,7 @@
             "loyalty": "",
             "artist": "Julian Kok Joon Wen",
             "alias": "",
-            "position": "439",
+            "position": "437",
             "rotated": false,
             "notes": ""
         },
@@ -9264,7 +9222,7 @@
             "loyalty": "",
             "artist": "Petros Stefanidis",
             "alias": "",
-            "position": "440",
+            "position": "438",
             "rotated": false,
             "notes": ""
         },
@@ -9285,7 +9243,7 @@
             "loyalty": "",
             "artist": "Pengzhen Zhang",
             "alias": "",
-            "position": "441",
+            "position": "439",
             "rotated": false,
             "notes": ""
         },
@@ -9306,7 +9264,7 @@
             "loyalty": "",
             "artist": "Pavel Starikov",
             "alias": "",
-            "position": "442",
+            "position": "440",
             "rotated": false,
             "notes": ""
         },
@@ -9327,7 +9285,7 @@
             "loyalty": "",
             "artist": "Josh Norman",
             "alias": "",
-            "position": "443",
+            "position": "441",
             "rotated": false,
             "notes": ""
         },
@@ -9348,7 +9306,7 @@
             "loyalty": "",
             "artist": "Illia Tsiushkevich",
             "alias": "",
-            "position": "444",
+            "position": "442",
             "rotated": false,
             "notes": ""
         },
@@ -9369,7 +9327,7 @@
             "loyalty": "",
             "artist": "Wenge Cai",
             "alias": "",
-            "position": "445",
+            "position": "443",
             "rotated": false,
             "notes": ""
         },
@@ -9390,7 +9348,7 @@
             "loyalty": "",
             "artist": "Stephen Philpott",
             "alias": "",
-            "position": "446",
+            "position": "444",
             "rotated": false,
             "notes": ""
         },
@@ -9411,7 +9369,7 @@
             "loyalty": "",
             "artist": "Shen Fei",
             "alias": "",
-            "position": "447",
+            "position": "445",
             "rotated": false,
             "notes": ""
         },
@@ -9432,7 +9390,7 @@
             "loyalty": "",
             "artist": "Josh Norman",
             "alias": "",
-            "position": "448",
+            "position": "446",
             "rotated": false,
             "notes": ""
         },
@@ -9453,10 +9411,52 @@
             "loyalty": "",
             "artist": "G xy",
             "alias": "",
+            "position": "447",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Golden Touch",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Enchantment \u2014 Aura",
+            "number": 15,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]\nEnchanted creature has lifelink and gets +1/+1 for each color among permanents you control and cards in your graveyard. [i](Damage dealt by it also causes its controller to gain that much life.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "PBC",
+            "loyalty": "",
+            "artist": "Matteo Marjoram",
+            "alias": "",
+            "position": "448",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Winterholm Healer",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Creature \u2014 Dwarf Soldier Cleric",
+            "number": 56,
+            "color_identity": "W",
+            "cost": "{W}",
+            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\n[i]Alliance[/i] \u2014 Whenever another creature you control enters, you\ngain 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "PBC",
+            "loyalty": "",
+            "artist": "Grafit Studio",
+            "alias": "",
             "position": "449",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 31
+    "version": 32
 }

@@ -1,4 +1,498 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Valley Protector added.
+Golden Touch added.
+Winterholm Healer added.
+
+Standard Bearer removed.
+Protector of Valley removed.
+Coalition Honor Guard removed.
+
+Lone Missionary
+
+Thraben Charm
+
+Stonehorn Dignitary
+
+Invalidate
+
+Accursed Ancestor
+
+Oracle's Vision
+
+Arcane Oracle
+
+Laiyru Lumberjacks
+
+Tear Through
+
+Harrier Strix
+
+Of One Mind
+
+Duress
+
+Blink of an Eye
+
+Goliath Sphinx
+
+Merciless Executioner
+
+Sanguine Syphoner
+
+Bone Picker
+
+Phyrexian Rager
+
+Dross Hunter
+
+Defile
+
+Chainer's Edict
+
+Frenzied Goblin
+
+Monastery Swiftspear
+
+Keldon Overseer
+
+Llanowar Elves
+
+Malamet Brawler
+
+Beast-Kin Ranger
+
+Llanowar Visionary
+
+Go Forth
+
+Guardian's Embrace
+
+Ram Through
+
+Winding Way
+
+Perilous Myr
+
+Deadly Percision
+
+Ash Barrens
+
+Myr Enforcer
+
+Thoughtcast
+
+Makeshift Munitions
+
+Murder
+
+Heliod's Pilgrim
+
+Petrify
+
+Deranged Assistant
+
+Zephyr Winder
+
+Cruel Witness
+
+Serum Visionary
+
+Peregrine Drake
+
+Condescend
+
+Ravenous Chupacabra
+
+Chitin Gravestalker
+
+Fireslinger
+
+Screamreach Goblin
+
+Lightning Strike
+
+Sieze Opportunity
+
+Rolling Thunder
+
+Displace
+
+Heron of Hope
+
+Secluded Steppe
+
+Lonely Sandbar
+
+Barren Moor
+
+Forgotten Cave
+
+Tranquil Thicket
+
+Thorn of Lys Alana
+
+Torpid Colossus
+
+Scorching Blood
+
+Stripped of Standing
+
+Order of the Rose
+
+Bond of Honour
+
+Kindred Leadership
+
+Reliquary Lich
+
+Political Opportunist
+
+Outland Alchemist
+
+Ravenous Daemogoth
+
+Cicatrice Hellion
+
+Changeling Wayfinder
+
+Changeling Outcast
+
+Chomping Changeling
+
+Lightning Spear
+
+Grisly Offering
+
+Mirran Banesplitter
+
+Servant of Precursors
+
+Viridian Longbow
+
+Explorer's Scope
+
+Cliffhaven Kitesail
+
+Three Tree Mascot
+
+Shambling Suit
+
+Audacity
+
+Kernon's Consecration
+
+Cinderheart Giant
+
+Novice Knight
+
+Thunder Lasso
+
+Plate Armor
+
+Mind Control
+
+Seeker of Mysteries
+
+Lofty Denial
+
+Marauding Blight-Priest
+
+Triskaidekaphobia
+
+Blade of Greatoak
+
+Slagwurm Armor
+
+Death Pits Trophy
+
+Demonmail Hauberk
+
+Ironclad Slayer
+
+Molten Monstrosity
+
+Atashvar Bowguard
+
+Ambush Viper
+
+Dredge the Graves
+
+Go Blank
+
+Set Ablaze
+
+Relic Shortsword
+
+Parasitic Aetherborn
+
+Suncolored Dreamer
+
+Mana Potion
+
+Goliath Tamer
+
+Undying Bond
+
+Magmatic Cache
+
+Filial Piety
+
+Loresprout
+
+Unleash the Dragon
+
+Cadalon Outfitter
+
+Thievery
+
+Spy Thopter
+
+Springleaf Drum
+
+Cultivate
+
+Escape Tunnel
+
+Groundswell
+
+Skeletal Mycoid
+
+Dedicated Bushwacker
+
+Tenth District Veteran
+
+Tidehollow Gargoyle
+
+Bonescythe Sliver
+
+Slippery Sliver
+
+Syphon Sliver
+
+Venom Sliver
+
+Glorious Anthem
+
+Fountainport Elder
+
+Webweaver Changeling
+
+Sabotage
+
+Rumor Gatherer
+
+Starnheim Courser
+
+Herald of the Legion
+
+Attercop
+
+Boughside Wanderers
+
+Dawnhoof Behemoth
+
+Gitrog's Spawn
+
+Sahra's Brute
+
+Primordeal Pachyderm
+
+Goldnight Commander
+
+Clone
+
+Wanderer of the Wilds
+
+Giant's Boulder
+
+Mezzio Thespian
+
+Eager Scavenger
+
+Tyranny of Trax
+
+Untested Recruit
+
+Warsong's Envoy
+
+Stalwart Valkyrie
+
+Valiant Changeling
+
+Squad Rallier
+
+Make Your Move
+
+Existential Paradox
+
+Searing Sands
+
+Peacock of Good Omens
+
+Symbol of Tranquility
+
+Claim of the Deep
+
+Brinechurn
+
+Slumberzoa
+
+Intangibility
+
+Shifting Terrain
+
+Relearn History
+
+Mantle of Tides
+
+Frozen in Ice
+
+Phantasmal Dreadmaw
+
+Witching Well
+
+Beseech the Waves
+
+Spiraling Agony
+
+Protean Twins
+
+Forbidden Knowledge
+
+Morgue Theft
+
+Maven of Fear
+
+Bokor's Recuitment
+
+Thunderscorn
+
+Tip the Scales
+
+Homingbird
+
+Reckoner Shinobi
+
+Vithian Specter
+
+Lava Dart
+
+Impassioned Craze
+
+Bloodthirsty Jaws
+
+Forgeborn Juggernaut
+
+Sizzling Changeling
+
+Magmakin Artillerist
+
+Axgard Cavalry
+
+Serpent of the Shabnam Sea
+
+Courageous Goblin
+
+Tormentor's Helm
+
+Thunderwolf
+
+Voice of the Roil
+
+Watch the Wildlife
+
+Restless Wanderer
+
+Axe of the Crann
+
+Airship Crash
+
+Rosethorn Halberd
+
+Duskwood Vanguard
+
+Strange Discovery
+
+Blissful Lull
+
+Bloodleaf Warcry
+
+Benthic Sheepo
+
+Sighted-Caste Knight
+
+Final Payment
+
+Adorned Paladin
+
+Assailed Farmer
+
+Fracture Psyche
+
+Nimble Elemental
+
+Kaleidomorph
+
+Fire Covenant
+
+Skull Prophet
+
+Gruul War Chant
+
+Harrier Corps
+
+Gift of Orzhova
+
+Harl's Hornblower
+
+Knight of the Orchards
+
+Cunning Plan
+
+Mesmage
+
+Glinthide Hero
+
+Charnel Chorister
+
+Innocence Lost
+
+Gangly Stomper
+
+Mishra's Siegebreaker
+
+Ruin Guardian
+
+Transcendent Effigy
+
+Giant Hewn Toad
+
+Containment Construct
+
+Civic Concord
+
+Sepulchral Quarter
+
+Sunlit District
+
+Verdant Commons
+
+Veiled Ruins
+
+Restless Port
+
+Ancient Enclave
+
+Rugged Village
+
+Forsaken Garden
+
+Brazen Hideout
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Lacufae Pastor added.
