@@ -1,4 +1,842 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Fencing Ace added.
+Boreal Wanderer added.
+Merchant Galleon added.
+Midnight Mangler added.
+Dark Covenant added.
+Graverot Soothsayer added.
+Hound of Rounded Corners added.
+Boots of Speed added.
+Erupt added.
+Threaten added.
+Unruly Catapult added.
+Sylvan Majesty added.
+Veloheart Bike added.
+Verdant Faith added.
+Warden of Tartok Valley added.
+Mana Harvesters added.
+Reclamation Sage added.
+Brush Sniper added.
+Deep-Sea Drowner added.
+Reckless Cultivator added.
+Defiant Shieldmaiden added.
+Fresh-Faced Recruit added.
+Othersea Submersible added.
+Skittering Surveyor added.
+Aradara Express added.
+Precursor Filtercruiser added.
+Scrap Buggy added.
+Adventurer's Airship added.
+Nimble Caravel added.
+
+Prideful Changeling removed.
+Mischievous Sneakling removed.
+Fiesty Spikeling removed.
+Sentinel Sliver removed.
+Blur Sliver removed.
+Cleaving Sliver removed.
+Striking Sliver removed.
+Ambuscade Sliver removed.
+Manaweft Sliver removed.
+Predatory Sliver removed.
+Groundshaker Sliver removed.
+Universal Automaton removed.
+Changeling Wayfinder removed.
+Changeling Outcast removed.
+Chomping Changeling removed.
+Three Tree Mascot removed.
+Bonescythe Sliver removed.
+Slippery Sliver removed.
+Syphon Sliver removed.
+Venom Sliver removed.
+Webweaver Changeling removed.
+Mezzio Thespian removed.
+Valiant Changeling removed.
+Protean Twins removed.
+Sizzling Changeling removed.
+Axgard Cavalry removed.
+Kaleidomorph removed.
+Gangly Stomper removed.
+Giant Hewn Toad removed.
+
+Teach by Example
+
+Sibsig Heirophant
+
+Voracious Tome-Skimmer
+
+Patient Surveilance
+
+Elementalist Adept
+
+Faerie Duelist
+
+Repulsor Mage
+
+Skytalon Cavalier
+
+Ketramose's Ferryman
+
+Fireborn Knight
+
+Flaring Cinder
+
+Snakeform
+
+Rix Maadi Ripper
+
+Survival Instinct
+
+Burning-Tree Emissary
+
+Hindering Light
+
+Fading Words
+
+Nebula's Majesty
+
+Castigate
+
+Pillory of the Sleepless
+
+Pursue the Past
+
+Boisterous Battle-Skald
+
+Smiting Helix
+
+Skyknight Legionnaire
+
+Satyr Enchanter
+
+Unflinching Courage
+
+Watchwolf
+
+Nova Cinder
+
+Memnite
+
+Child of Gaea
+
+Rending Raptor
+
+Abjuration Turtle
+
+Reassembling Skeleton
+
+Corpse Knight
+
+Meteor Golem
+
+Tolarian Terror
+
+Consider
+
+Negate
+
+Essence Scatter
+
+Shepherding Spirits
+
+Tolarian Scholarship
+
+Hand of Night's Reach
+
+Seismic Monstrosaur
+
+Titania's Avenger
+
+Unsummon
+
+Burst Lightning
+
+Kessig Flamebreather
+
+Recoil
+
+Goblin Electromancer
+
+Lava Spill
+
+Coiling Oracle
+
+Stitched Raven
+
+Nivix Cyclops
+
+Growth Spiral
+
+Spinebreak
+
+Magmatic Violator
+
+Deathreap Ritual
+
+Bahet's Wink
+
+Revivified Wrath
+
+Champion of the Flame
+
+Reborn from the Ashes
+
+Zhur-Taa Druid
+
+Zendikar Incarnate
+
+Serra Angel
+
+Shivan Dragon
+
+Abrade
+
+Ornithopter of Paradise
+
+Diligent Archeologist
+
+Toil Beyond Death
+
+Lost in the Fog
+
+Deep Secrets
+
+Skyclave Infiltrator
+
+Inquisitive Nature
+
+Awakened Hunger
+
+Marketplace Brawl
+
+Chandra's Inferno
+
+Leonin Revivalist
+
+Lys Alana Informant
+
+Excavation Engine
+
+Into the Woods
+
+Thalia's Skill
+
+Primal Resurgence
+
+Exeunt
+
+Left on the Wayside
+
+Terraformer's Globe
+
+Pestilent Scavenger
+
+Writheling
+
+Deeptreader Arcanist
+
+Visitarium Smuggler
+
+Sacrifical Lamb
+
+Deft Deflection
+
+Sealing Strike
+
+Twilight Ambush
+
+Igneous Visions
+
+All That Remains
+
+Discern
+
+Filigree Attendant
+
+Redeploy
+
+A Journey Begins
+
+Pensive Caldera
+
+Skophos Conqueror
+
+Sabotage Skitterer
+
+Heretic Hunters
+
+Contaminated Aquifer
+
+Geothermal Bog
+
+Haunted Mire
+
+Idyllic Beachfront
+
+Molten Tributary
+
+Radiant Grove
+
+Sacred Peaks
+
+Sunlit Marsh
+
+Tangled Islet
+
+Wooded Ridgeline
+
+Virus Beetle
+
+Fling
+
+Might of Old Krosa
+
+Bramble Wurm
+
+Foundry Inspector
+
+Steadfast Unicorn
+
+Frogmite
+
+Beastrider Vanguard
+
+Salt Road Packbeast
+
+Crashing Drawbridge
+
+Impulse
+
+Distant Melody
+
+Dawnbringer Cleric
+
+Supernatural Stamina
+
+Augur of Bolas
+
+Deem Inferior
+
+Goblin Tomb Raider
+
+Haunted Fengraf
+
+Crystal Grotto
+
+Tocasia's Dig Site
+
+Warbriar's Blessing
+
+Gnarlback Rhino
+
+Impact Tremors
+
+Firebolt
+
+Fireblast
+
+Reply to the Call
+
+Famished Foragers
+
+Spelleater Wolverine
+
+Bogardan Dragonheart
+
+Revolutionary Throng
+
+Viscera Seer
+
+Dark-Dweller Oracle
+
+Fanatical Firebrand
+
+Night's Whisper
+
+Chart a Course
+
+Feed the Swarm
+
+Unearth
+
+Village Rites
+
+Sengir Epicure
+
+Phyrexian Ghoul
+
+Warden of Evos Isle
+
+Pestermite
+
+All That Glitters
+
+Territorial Hammerskull
+
+Inspiring Overseer
+
+Drown in Sorrow
+
+Prophetic Prism
+
+Lone Missionary
+
+Thraben Charm
+
+Stonehorn Dignitary
+
+Invalidate
+
+Accursed Ancestor
+
+Valley Protector
+
+Oracle's Vision
+
+Arcane Oracle
+
+Laiyru Lumberjacks
+
+Tear Through
+
+Harrier Strix
+
+Of One Mind
+
+Duress
+
+Blink of an Eye
+
+Goliath Sphinx
+
+Merciless Executioner
+
+Sanguine Syphoner
+
+Bone Picker
+
+Phyrexian Rager
+
+Dross Hunter
+
+Defile
+
+Chainer's Edict
+
+Frenzied Goblin
+
+Monastery Swiftspear
+
+Keldon Overseer
+
+Llanowar Elves
+
+Malamet Brawler
+
+Beast-Kin Ranger
+
+Llanowar Visionary
+
+Go Forth
+
+Guardian's Embrace
+
+Ram Through
+
+Winding Way
+
+Perilous Myr
+
+Deadly Percision
+
+Ash Barrens
+
+Myr Enforcer
+
+Thoughtcast
+
+Makeshift Munitions
+
+Murder
+
+Heliod's Pilgrim
+
+Petrify
+
+Deranged Assistant
+
+Zephyr Winder
+
+Cruel Witness
+
+Serum Visionary
+
+Peregrine Drake
+
+Condescend
+
+Ravenous Chupacabra
+
+Chitin Gravestalker
+
+Fireslinger
+
+Screamreach Goblin
+
+Lightning Strike
+
+Sieze Opportunity
+
+Rolling Thunder
+
+Displace
+
+Heron of Hope
+
+Secluded Steppe
+
+Lonely Sandbar
+
+Barren Moor
+
+Forgotten Cave
+
+Tranquil Thicket
+
+Thorn of Lys Alana
+
+Torpid Colossus
+
+Scorching Blood
+
+Stripped of Standing
+
+Order of the Rose
+
+Bond of Honour
+
+Kindred Leadership
+
+Reliquary Lich
+
+Political Opportunist
+
+Outland Alchemist
+
+Ravenous Daemogoth
+
+Cicatrice Hellion
+
+Lightning Spear
+
+Grisly Offering
+
+Mirran Banesplitter
+
+Servant of Precursors
+
+Viridian Longbow
+
+Explorer's Scope
+
+Cliffhaven Kitesail
+
+Shambling Suit
+
+Audacity
+
+Kernon's Consecration
+
+Cinderheart Giant
+
+Novice Knight
+
+Thunder Lasso
+
+Plate Armor
+
+Mind Control
+
+Seeker of Mysteries
+
+Lofty Denial
+
+Marauding Blight-Priest
+
+Triskaidekaphobia
+
+Blade of Greatoak
+
+Slagwurm Armor
+
+Death Pits Trophy
+
+Demonmail Hauberk
+
+Ironclad Slayer
+
+Molten Monstrosity
+
+Atashvar Bowguard
+
+Ambush Viper
+
+Dredge the Graves
+
+Go Blank
+
+Set Ablaze
+
+Relic Shortsword
+
+Parasitic Aetherborn
+
+Suncolored Dreamer
+
+Mana Potion
+
+Goliath Tamer
+
+Undying Bond
+
+Magmatic Cache
+
+Filial Piety
+
+Loresprout
+
+Unleash the Dragon
+
+Cadalon Outfitter
+
+Thievery
+
+Spy Thopter
+
+Springleaf Drum
+
+Cultivate
+
+Escape Tunnel
+
+Groundswell
+
+Skeletal Mycoid
+
+Dedicated Bushwacker
+
+Tenth District Veteran
+
+Tidehollow Gargoyle
+
+Glorious Anthem
+
+Fountainport Elder
+
+Sabotage
+
+Rumor Gatherer
+
+Starnheim Courser
+
+Herald of the Legion
+
+Attercop
+
+Boughside Wanderers
+
+Dawnhoof Behemoth
+
+Gitrog's Spawn
+
+Sahra's Brute
+
+Primordeal Pachyderm
+
+Goldnight Commander
+
+Clone
+
+Wanderer of the Wilds
+
+Giant's Boulder
+
+Eager Scavenger
+
+Tyranny of Trax
+
+Untested Recruit
+
+Warsong's Envoy
+
+Stalwart Valkyrie
+
+Squad Rallier
+
+Make Your Move
+
+Existential Paradox
+
+Searing Sands
+
+Peacock of Good Omens
+
+Symbol of Tranquility
+
+Claim of the Deep
+
+Brinechurn
+
+Slumberzoa
+
+Intangibility
+
+Shifting Terrain
+
+Relearn History
+
+Mantle of Tides
+
+Frozen in Ice
+
+Phantasmal Dreadmaw
+
+Witching Well
+
+Beseech the Waves
+
+Spiraling Agony
+
+Forbidden Knowledge
+
+Morgue Theft
+
+Maven of Fear
+
+Bokor's Recuitment
+
+Thunderscorn
+
+Tip the Scales
+
+Homingbird
+
+Reckoner Shinobi
+
+Vithian Specter
+
+Lava Dart
+
+Impassioned Craze
+
+Bloodthirsty Jaws
+
+Forgeborn Juggernaut
+
+Magmakin Artillerist
+
+Serpent of the Shabnam Sea
+
+Courageous Goblin
+
+Tormentor's Helm
+
+Thunderwolf
+
+Voice of the Roil
+
+Watch the Wildlife
+
+Restless Wanderer
+
+Axe of the Crann
+
+Airship Crash
+
+Rosethorn Halberd
+
+Duskwood Vanguard
+
+Strange Discovery
+
+Blissful Lull
+
+Bloodleaf Warcry
+
+Benthic Sheepo
+
+Sighted-Caste Knight
+
+Final Payment
+
+Adorned Paladin
+
+Assailed Farmer
+
+Fracture Psyche
+
+Nimble Elemental
+
+Fire Covenant
+
+Skull Prophet
+
+Gruul War Chant
+
+Harrier Corps
+
+Gift of Orzhova
+
+Harl's Hornblower
+
+Knight of the Orchards
+
+Cunning Plan
+
+Mesmage
+
+Glinthide Hero
+
+Charnel Chorister
+
+Innocence Lost
+
+Mishra's Siegebreaker
+
+Ruin Guardian
+
+Transcendent Effigy
+
+Containment Construct
+
+Civic Concord
+
+Sepulchral Quarter
+
+Sunlit District
+
+Verdant Commons
+
+Veiled Ruins
+
+Restless Port
+
+Ancient Enclave
+
+Rugged Village
+
+Forsaken Garden
+
+Brazen Hideout
+
+Golden Touch
+
+Winterholm Healer
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Valley Protector added.
