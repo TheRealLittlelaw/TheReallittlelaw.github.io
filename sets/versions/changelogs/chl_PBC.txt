@@ -1,4 +1,720 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Embrace the Paradox added.
+Bonesplitter added.
+Square Up added.
+Voracious Daemogoth added.
+Trade Route Bandit added.
+Carrion Grub added.
+Bark of Doran added.
+Awakened Burnwillow added.
+Boreal Seer added.
+Steelfin Manta added.
+Refurbished Familiar added.
+
+Growth Spiral removed.
+Excavation Engine removed.
+Writheling removed.
+Pestermite removed.
+Torpid Colossus removed.
+Ravenous Daemogoth removed.
+Blade of Greatoak removed.
+Death Pits Trophy removed.
+Ironclad Slayer removed.
+Tormentor's Helm removed.
+Boreal Wanderer removed.
+
+Rix Maadi Ripper
+cost: {2}{BR} => {3}{BR}
+pt: 3/2 => 4/3
+
+Deeptreader Arcanist
+
+Visitarium Smuggler
+
+Sacrifical Lamb
+
+Deft Deflection
+
+Sealing Strike
+
+Twilight Ambush
+
+Igneous Visions
+
+All That Remains
+
+Discern
+
+Filigree Attendant
+
+Redeploy
+
+A Journey Begins
+
+Pensive Caldera
+
+Skophos Conqueror
+
+Sabotage Skitterer
+
+Heretic Hunters
+
+Contaminated Aquifer
+
+Geothermal Bog
+
+Haunted Mire
+
+Idyllic Beachfront
+
+Molten Tributary
+
+Radiant Grove
+
+Sacred Peaks
+
+Sunlit Marsh
+
+Tangled Islet
+
+Wooded Ridgeline
+
+Virus Beetle
+
+Fling
+
+Might of Old Krosa
+
+Bramble Wurm
+
+Foundry Inspector
+
+Steadfast Unicorn
+
+Frogmite
+
+Beastrider Vanguard
+
+Salt Road Packbeast
+
+Crashing Drawbridge
+
+Impulse
+
+Distant Melody
+
+Dawnbringer Cleric
+
+Supernatural Stamina
+
+Augur of Bolas
+
+Deem Inferior
+
+Goblin Tomb Raider
+
+Haunted Fengraf
+
+Crystal Grotto
+
+Tocasia's Dig Site
+
+Warbriar's Blessing
+
+Gnarlback Rhino
+
+Impact Tremors
+
+Firebolt
+
+Fireblast
+
+Reply to the Call
+
+Famished Foragers
+
+Spelleater Wolverine
+
+Bogardan Dragonheart
+
+Revolutionary Throng
+
+Viscera Seer
+
+Dark-Dweller Oracle
+
+Fanatical Firebrand
+
+Night's Whisper
+
+Chart a Course
+
+Feed the Swarm
+
+Unearth
+
+Village Rites
+
+Sengir Epicure
+
+Phyrexian Ghoul
+
+Warden of Evos Isle
+
+All That Glitters
+
+Territorial Hammerskull
+
+Inspiring Overseer
+
+Drown in Sorrow
+
+Prophetic Prism
+
+Lone Missionary
+
+Thraben Charm
+
+Stonehorn Dignitary
+
+Invalidate
+
+Accursed Ancestor
+
+Valley Protector
+
+Oracle's Vision
+
+Arcane Oracle
+
+Laiyru Lumberjacks
+
+Tear Through
+
+Harrier Strix
+
+Of One Mind
+
+Duress
+
+Blink of an Eye
+
+Goliath Sphinx
+
+Merciless Executioner
+
+Sanguine Syphoner
+
+Bone Picker
+
+Phyrexian Rager
+
+Dross Hunter
+
+Defile
+
+Chainer's Edict
+
+Frenzied Goblin
+
+Monastery Swiftspear
+
+Keldon Overseer
+
+Llanowar Elves
+
+Malamet Brawler
+
+Beast-Kin Ranger
+
+Llanowar Visionary
+
+Go Forth
+
+Guardian's Embrace
+
+Ram Through
+
+Winding Way
+
+Perilous Myr
+
+Deadly Percision
+
+Ash Barrens
+
+Myr Enforcer
+
+Thoughtcast
+
+Makeshift Munitions
+
+Murder
+
+Heliod's Pilgrim
+
+Petrify
+
+Deranged Assistant
+
+Zephyr Winder
+
+Cruel Witness
+
+Serum Visionary
+
+Peregrine Drake
+
+Condescend
+
+Ravenous Chupacabra
+
+Chitin Gravestalker
+
+Fireslinger
+
+Screamreach Goblin
+
+Lightning Strike
+
+Sieze Opportunity
+
+Rolling Thunder
+
+Displace
+
+Heron of Hope
+
+Secluded Steppe
+
+Lonely Sandbar
+
+Barren Moor
+
+Forgotten Cave
+
+Tranquil Thicket
+
+Thorn of Lys Alana
+
+Scorching Blood
+
+Stripped of Standing
+
+Order of the Rose
+
+Bond of Honour
+
+Kindred Leadership
+
+Reliquary Lich
+rules_text: You may pay {1}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell's mana cost.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i] => You may pay {UB}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell's mana cost.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+
+Political Opportunist
+
+Outland Alchemist
+
+Cicatrice Hellion
+
+Lightning Spear
+
+Grisly Offering
+
+Mirran Banesplitter
+
+Servant of Precursors
+
+Viridian Longbow
+
+Explorer's Scope
+
+Cliffhaven Kitesail
+
+Shambling Suit
+
+Audacity
+
+Kernon's Consecration
+
+Cinderheart Giant
+
+Novice Knight
+
+Thunder Lasso
+
+Plate Armor
+
+Mind Control
+
+Seeker of Mysteries
+
+Lofty Denial
+
+Marauding Blight-Priest
+
+Triskaidekaphobia
+
+Slagwurm Armor
+
+Demonmail Hauberk
+
+Molten Monstrosity
+
+Atashvar Bowguard
+
+Ambush Viper
+
+Dredge the Graves
+
+Go Blank
+
+Set Ablaze
+
+Relic Shortsword
+
+Parasitic Aetherborn
+
+Suncolored Dreamer
+
+Mana Potion
+
+Goliath Tamer
+
+Undying Bond
+
+Magmatic Cache
+
+Filial Piety
+
+Loresprout
+
+Unleash the Dragon
+
+Cadalon Outfitter
+
+Thievery
+
+Spy Thopter
+
+Springleaf Drum
+
+Cultivate
+
+Escape Tunnel
+
+Groundswell
+
+Skeletal Mycoid
+
+Dedicated Bushwacker
+
+Tenth District Veteran
+
+Tidehollow Gargoyle
+
+Glorious Anthem
+
+Fountainport Elder
+
+Sabotage
+
+Rumor Gatherer
+
+Starnheim Courser
+
+Herald of the Legion
+
+Attercop
+
+Boughside Wanderers
+
+Dawnhoof Behemoth
+
+Gitrog's Spawn
+
+Sahra's Brute
+
+Primordeal Pachyderm
+rules_text: Reach [i](This creature can block creatures with flying.)[/i]
+Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+When this creature enters, you gain 2 life. => Reach [i](This creature can block creatures with flying.)[/i]
+Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+When this creature enters, you gain 2 life.
+
+Goldnight Commander
+
+Clone
+
+Wanderer of the Wilds
+
+Giant's Boulder
+
+Eager Scavenger
+
+Tyranny of Trax
+
+Untested Recruit
+
+Warsong's Envoy
+
+Stalwart Valkyrie
+
+Squad Rallier
+
+Make Your Move
+
+Existential Paradox
+
+Searing Sands
+
+Peacock of Good Omens
+
+Symbol of Tranquility
+
+Claim of the Deep
+
+Brinechurn
+
+Slumberzoa
+
+Intangibility
+
+Shifting Terrain
+
+Relearn History
+
+Mantle of Tides
+
+Frozen in Ice
+
+Phantasmal Dreadmaw
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+When this creature becomes the target of a spell or ability, sacrifice it. => Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+When this creature becomes the target of a spell or ability, sacrifice it.
+
+Witching Well
+rules_text: When this artifact enters, scry 2. [i](To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+{3}{U}, Sacrifice this artifact: Draw two cards. => When this artifact enters, scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+{3}{U}, Sacrifice this artifact: Draw two cards.
+
+Beseech the Waves
+
+Spiraling Agony
+
+Forbidden Knowledge
+rules_text: Target player mills four cards, draw four cards, and loses 4 life. [i](To mill four cards, they put the top four cards of their library into their graveyard.)[/i]
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Target player mills four cards, draws four cards, and loses 4 life. [i](To mill four cards, they put the top four cards of their library into their graveyard.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Morgue Theft
+
+Maven of Fear
+
+Bokor's Recuitment
+
+Thunderscorn
+
+Tip the Scales
+
+Homingbird
+
+Reckoner Shinobi
+
+Vithian Specter
+
+Lava Dart
+
+Impassioned Craze
+
+Bloodthirsty Jaws
+
+Forgeborn Juggernaut
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+This creature attacks each combat if able.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+This creature attacks each combat if able.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Magmakin Artillerist
+
+Serpent of the Shabnam Sea
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+When Serpent of the Shabnam Sea enters, creatures you control get +1/+0 and gain trample until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+When this creature enters, creatures you control get +1/+0 and gain trample until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Courageous Goblin
+
+Thunderwolf
+
+Voice of the Roil
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+Whenever this creature deals combat damage to a player, you may put a land card from your hand or graveyard onto the battlefield. => Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+Whenever this creature deals combat damage to a player, you may put a land card from your hand or graveyard onto the battlefield.
+
+Watch the Wildlife
+
+Restless Wanderer
+
+Axe of the Crann
+
+Airship Crash
+
+Rosethorn Halberd
+
+Duskwood Vanguard
+
+Strange Discovery
+
+Blissful Lull
+
+Bloodleaf Warcry
+
+Benthic Sheepo
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+Other non-Human creatures you control have trample. => Trample [i](This creature can deal excess combat damage to the player it's attacking.)[/i]
+Other non-Human creatures you control have trample.
+
+Sighted-Caste Knight
+
+Final Payment
+
+Adorned Paladin
+
+Assailed Farmer
+
+Fracture Psyche
+
+Nimble Elemental
+
+Fire Covenant
+
+Skull Prophet
+
+Gruul War Chant
+
+Harrier Corps
+
+Gift of Orzhova
+
+Harl's Hornblower
+
+Knight of the Orchards
+
+Cunning Plan
+
+Mesmage
+
+Glinthide Hero
+
+Charnel Chorister
+
+Innocence Lost
+
+Mishra's Siegebreaker
+
+Ruin Guardian
+
+Transcendent Effigy
+
+Containment Construct
+
+Civic Concord
+
+Sepulchral Quarter
+
+Sunlit District
+
+Verdant Commons
+
+Veiled Ruins
+
+Restless Port
+
+Ancient Enclave
+
+Rugged Village
+
+Forsaken Garden
+
+Brazen Hideout
+
+Golden Touch
+
+Winterholm Healer
+
+Fencing Ace
+
+Merchant Galleon
+
+Midnight Mangler
+
+Dark Covenant
+
+Graverot Soothsayer
+
+Hound of Rounded Corners
+
+Boots of Speed
+
+Erupt
+rules_text: Target creature gets +X/+0 and gains trample until end of turn. [i](That creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+Draw a card. => Target creature gets +X/+0 and gains trample until end of turn. [i](That creature can deal excess combat damage to the player it's attacking.)[/i]
+Draw a card.
+
+Threaten
+
+Unruly Catapult
+
+Sylvan Majesty
+rules_text: Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]
+When Sylvan Majesty enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+Enchanted creature gets +3/+3. => Enchant creature [i](Target a creature as you cast this. This card enters attached to that creature.)[/i]
+When this Aura enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+Enchanted creature gets +3/+3.
+
+Veloheart Bike
+
+Verdant Faith
+
+Warden of Tartok Valley
+rules_text: [i]Alliance[/i] — Whenever another creature you control enters, surveil 1. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => [i]Alliance[/i] — Whenever another creature you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Mana Harvesters
+
+Reclamation Sage
+
+Brush Sniper
+
+Deep-Sea Drowner
+
+Reckless Cultivator
+
+Defiant Shieldmaiden
+
+Fresh-Faced Recruit
+
+Othersea Submersible
+
+Skittering Surveyor
+
+Aradara Express
+
+Precursor Filtercruiser
+
+Scrap Buggy
+
+Adventurer's Airship
+
+Nimble Caravel
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Fencing Ace added.
