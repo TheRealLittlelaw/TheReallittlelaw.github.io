@@ -1,4 +1,33 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Gigantosaurus added.
+Baleful Strix added.
+
+Child of Gaea removed.
+Fracture Psyche removed.
+
+Beloved Princess
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+This creature can't be blocked by creatures with power 3 or greater. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+This creature can't be blocked by creatures with power 3 or greater.
+
+Monastery Swiftspear
+
+Parasitic Aetherborn
+rules_text: Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i] => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+
+Winterholm Healer
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+[i]Alliance[/i] — Whenever another creature you control enters, you
+gain 1 life. => Lifelink [i](Damage dealt by this this creature also causes you to gain that much life.)[/i]
+[i]Alliance[/i] — Whenever another creature you control enters, you
+gain 1 life.
+
+
+VERSION 34 CHANGELOG
 ====================
 
 Embrace the Paradox added.

@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-03</releasedate>
+			<releasedate>2026-09-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -196,7 +196,7 @@ Enchanted creature has flying, first strike, and vigilance. (That creature can&a
 		</card>
 		<card>
 			<name>Beloved Princess</name>
-			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+			<text>Lifelink (Damage dealt by this this creature also causes you to gain that much life.)
 This creature can&apos;t be blocked by creatures with power 3 or greater.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/12.png" num="5">PBC</set>
 			<prop>
@@ -847,7 +847,7 @@ Draw a card.</text>
 		<card>
 			<name>Fading Words</name>
 			<text>Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom in any order. You gain 3 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/50.png" num="280">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/50.png" num="281">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -880,7 +880,7 @@ Exile target nonland permanent you control, then return it to the battlefield un
 		<card>
 			<name>Castigate</name>
 			<text>Target opponent reveals their hand. You choose a nonland card from it and exile that card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/52.png" num="275">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/52.png" num="276">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -934,7 +934,7 @@ Flashback {2}{R}{W} (You may cast this card from your graveyard for its flashbac
 			<name>Boisterous Battle-Skald</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 {T}: Target creature can&apos;t attack or block this turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/55.png" num="274">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/55.png" num="275">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,16 +1067,16 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Child of Gaea</name>
+			<name>Gigantosaurus</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/63.png" num="230">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/63.png" num="235">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental Giant</type>
+				<type>Creature — Dinosaur</type>
 				<maintype>Creature</maintype>
-				<manacost>5GGG</manacost>
-				<cmc>8</cmc>
+				<manacost>GGGGG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>10/10</pt>
@@ -1137,7 +1137,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Corpse Knight</name>
 			<text>Alliance — Whenever another creature you control enters, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/67.png" num="277">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/67.png" num="278">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1429,7 +1429,7 @@ Look at the top three cards of your library. Put one on top and the rest on the 
 		<card>
 			<name>Coiling Oracle</name>
 			<text>When this creature enters, reveal the top card of your library. If it&apos;s a land card, put it onto the battlefield. Otherwise, put that card into your hand.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/84.png" num="276">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/84.png" num="277">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,7 +1482,7 @@ Whenever you cast an instant or sorcery spell, this creature gets +3/+0 until en
 		<card>
 			<name>Embrace the Paradox</name>
 			<text>Draw three cards. You may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/87.png" num="279">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/87.png" num="280">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1533,7 +1533,7 @@ At the beginning of the end step, sacrifice this creature.</text>
 		<card>
 			<name>Deathreap Ritual</name>
 			<text>At the beginning of each end step, if a creature died this turn, you may draw a card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/90.png" num="278">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/90.png" num="279">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5054,7 +5054,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Parasitic Aetherborn</name>
 			<text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+Lifelink (Damage dealt by this this creature also causes you to gain that much life.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/297.png" num="138">PBC</set>
 			<prop>
 				<layout>normal</layout>
@@ -5157,7 +5157,7 @@ Draw three cards.</text>
 			<text>Choose one —
 • Return target permanent card from your graveyard to your hand.
 • Destroy target artifact or enchantment.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png" num="235">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png" num="234">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5273,7 +5273,7 @@ When this creature leaves the battlefield, draw a card.</text>
 		<card>
 			<name>Cultivate</name>
 			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/310.png" num="231">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/310.png" num="230">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5340,7 +5340,7 @@ Landfall — If you had a land you control enter this turn, that creature gets +
 			<name>Dedicated Bushwacker</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 When this creature enters, other creatures you control get +1/+0 and gain haste until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png" num="233">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png" num="232">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5538,7 +5538,7 @@ Landfall — Whenever a land you control enters, this creature gets +2/+2 until 
 			<text>This spell costs {2} less to cast if you&apos;ve cast another spell this turn.
 Vigilance (Attacking doesn&apos;t cause this creature to tap.)
 Reach (This creature can block creatures with flying.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/325.png" num="232">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/325.png" num="231">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6499,7 +6499,7 @@ Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Duskwood Vanguard</name>
 			<text>Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/380.png" num="234">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/380.png" num="233">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6603,7 +6603,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<name>Final Payment</name>
 			<text>As an additional cost to cast this spell, pay 5 life or sacrifice a creature or enchantment.
 Destroy target creature.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/386.png" num="281">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/386.png" num="282">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6652,20 +6652,23 @@ Sacrifice this creature: Search your library for a basic land card, put that car
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fracture Psyche</name>
-			<text>Target player mills three cards. Target creature gets -X/-X until end of turn, where X is the greatest number of cards in any graveyard. (To mill three cards, they put the top three cards of their library into their graveyard.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/389.png" num="283">PBC</set>
+			<name>Baleful Strix</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When this creature enters, draw a card.</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/389.png" num="274">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
 				<manacost>UB</manacost>
 				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Nimble Elemental</name>
@@ -6689,7 +6692,7 @@ Whenever this creature deals combat damage to a player, you may draw a card. If 
 			<name>Fire Covenant</name>
 			<text>As an additional cost to cast this spell, pay X life.
 Fire Covenant deals X damage divided as you choose among any number of target creatures.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/391.png" num="282">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/391.png" num="283">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7124,7 +7127,7 @@ Enchanted creature has lifelink and gets +1/+1 for each color among permanents y
 		</card>
 		<card>
 			<name>Winterholm Healer</name>
-			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+			<text>Lifelink (Damage dealt by this this creature also causes you to gain that much life.)
 Alliance — Whenever another creature you control enters, you
 gain 1 life.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/418.png" num="54">PBC</set>

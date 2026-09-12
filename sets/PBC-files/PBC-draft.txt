@@ -505,7 +505,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/50.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/52.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Dwarf Warrior Bard",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/55.png"
 			}
@@ -631,11 +631,11 @@
 			}
 		},
 		{
-			"name": "Child of Gaea",
+			"name": "Gigantosaurus",
 			"rarity": "special",
-			"mana_cost": "{5}{G}{G}{G}",
-			"type": "Creature — Elemental Giant",
-			"collector_number": "230",
+			"mana_cost": "{G}{G}{G}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/63.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Zombie Knight",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/67.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Snake Elf Druid",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/84.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Instant",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/87.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/90.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/303.png"
 			}
@@ -3105,7 +3105,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/310.png"
 			}
@@ -3145,7 +3145,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/314.png"
 			}
@@ -3255,7 +3255,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Ox",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/325.png"
 			}
@@ -3805,7 +3805,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/380.png"
 			}
@@ -3865,7 +3865,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/386.png"
 			}
@@ -3891,11 +3891,11 @@
 			}
 		},
 		{
-			"name": "Fracture Psyche",
+			"name": "Baleful Strix",
 			"rarity": "special",
 			"mana_cost": "{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "283",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/389.png"
 			}
@@ -3915,7 +3915,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/391.png"
 			}
@@ -4566,7 +4566,7 @@
 	1 Watchwolf
 	1 Nova Cinder
 	1 Memnite
-	1 Child of Gaea
+	1 Gigantosaurus
 	1 Rending Raptor
 	1 Abjuration Turtle
 	1 Reassembling Skeleton
@@ -4892,7 +4892,7 @@
 	1 Final Payment
 	1 Adorned Paladin
 	1 Assailed Farmer
-	1 Fracture Psyche
+	1 Baleful Strix
 	1 Nimble Elemental
 	1 Fire Covenant
 	1 Skull Prophet

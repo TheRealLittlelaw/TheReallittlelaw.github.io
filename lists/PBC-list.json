@@ -552,12 +552,12 @@
         "position": "172"
     },
     {
-        "card_name": "Child of Gaea",
+        "card_name": "Cultivate",
         "number": 230,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "63"
+        "position": "310"
     },
     {
         "card_name": "Goldnight Commander",
@@ -592,12 +592,12 @@
         "position": "178"
     },
     {
-        "card_name": "Cultivate",
+        "card_name": "Dawnhoof Behemoth",
         "number": 231,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "310"
+        "position": "325"
     },
     {
         "card_name": "Haunted Doll",
@@ -632,12 +632,12 @@
         "position": "170"
     },
     {
-        "card_name": "Dawnhoof Behemoth",
+        "card_name": "Dedicated Bushwacker",
         "number": 232,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "325"
+        "position": "314"
     },
     {
         "card_name": "Heliod's Pilgrim",
@@ -672,12 +672,12 @@
         "position": "169"
     },
     {
-        "card_name": "Dedicated Bushwacker",
+        "card_name": "Duskwood Vanguard",
         "number": 233,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "314"
+        "position": "380"
     },
     {
         "card_name": "Herald of the Legion",
@@ -712,12 +712,12 @@
         "position": "242"
     },
     {
-        "card_name": "Duskwood Vanguard",
+        "card_name": "Filial Piety",
         "number": 234,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "380"
+        "position": "303"
     },
     {
         "card_name": "Heron of Hope",
@@ -752,12 +752,12 @@
         "position": "147"
     },
     {
-        "card_name": "Filial Piety",
+        "card_name": "Gigantosaurus",
         "number": 235,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "303"
+        "position": "63"
     },
     {
         "card_name": "Inspiring Overseer",
@@ -2174,15 +2174,15 @@
     "a->gold",
     {
         "card_name": "Fading Words",
-        "number": 280,
+        "number": 281,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
         "position": "50"
     },
     {
-        "card_name": "Fracture Psyche",
-        "number": 283,
+        "card_name": "Baleful Strix",
+        "number": 274,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2190,7 +2190,7 @@
     },
     {
         "card_name": "Fire Covenant",
-        "number": 282,
+        "number": 283,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2629,7 +2629,7 @@
     },
     {
         "card_name": "Castigate",
-        "number": 275,
+        "number": 276,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2661,7 +2661,7 @@
     },
     {
         "card_name": "Coiling Oracle",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2669,7 +2669,7 @@
     },
     {
         "card_name": "Corpse Knight",
-        "number": 277,
+        "number": 278,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2685,7 +2685,7 @@
     },
     {
         "card_name": "Deathreap Ritual",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2693,7 +2693,7 @@
     },
     {
         "card_name": "Boisterous Battle-Skald",
-        "number": 274,
+        "number": 275,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2701,7 +2701,7 @@
     },
     {
         "card_name": "Embrace the Paradox",
-        "number": 279,
+        "number": 280,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
@@ -2709,7 +2709,7 @@
     },
     {
         "card_name": "Final Payment",
-        "number": 281,
+        "number": 282,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
