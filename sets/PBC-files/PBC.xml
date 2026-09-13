@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1272,7 +1272,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		</card>
 		<card>
 			<name>Hand of Night&apos;s Reach</name>
-			<text>{B}: Tap this creature. It gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)
+			<text>{B}, Pay 2 life: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/75.png" num="128">PBC</set>
 			<prop>

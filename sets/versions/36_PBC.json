@@ -1590,7 +1590,7 @@
             "number": 128,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "{B}: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say \u201cdestroy\u201d don't destroy it.)[/i]\nSwampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "{B}, Pay 2 life: This creature gains indestructible until end of turn. Tap it. [i](Damage and effects that say \u201cdestroy\u201d don't destroy it.)[/i]\nSwampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/3",
             "special_text": "",

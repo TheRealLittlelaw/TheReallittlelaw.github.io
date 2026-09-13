@@ -1,4 +1,15 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Hand of Night's Reach
+rules_text: {B}: Tap this creature. It gains indestructible until end of turn. [i](Damage and effects that say “destroy” don't destroy it.)[/i]
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => {B}, Pay 2 life: This creature gains indestructible until end of turn. Tap it. [i](Damage and effects that say “destroy” don't destroy it.)[/i]
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Gigantosaurus added.
