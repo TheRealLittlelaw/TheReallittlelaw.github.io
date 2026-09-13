@@ -1,4 +1,12 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+Ragged Shortspear added.
+
+Unruly Catapult removed.
+
+
+VERSION 36 CHANGELOG
 ====================
 
 

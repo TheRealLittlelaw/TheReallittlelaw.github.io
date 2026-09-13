@@ -1086,7 +1086,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink. (That creature can d
 		<card>
 			<name>Rending Raptor</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="203">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png" num="204">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1293,7 +1293,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<text>Trample (This creature can deal excess combat damage to the player it&apos;s attacking.)
 {2}{R}, Sacrifice a land: Draw a card.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/76.png" num="207">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/76.png" num="208">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1671,7 +1671,7 @@ Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
 			<name>Shivan Dragon</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 {R}: This creature gets +1/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/98.png" num="210">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/98.png" num="211">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2903,7 +2903,7 @@ Fireblast deals 4 damage to any target.</text>
 			<name>Reply to the Call</name>
 			<text>Target creature you control gets +1/+0 and gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)
 Draw a card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/171.png" num="204">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/171.png" num="205">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2937,7 +2937,7 @@ Draw a card.</text>
 		<card>
 			<name>Spelleater Wolverine</name>
 			<text>This creature has double strike as long as there are three or more instant and/or sorcery cards in your graveyard. (A creature with double strike deals both first-strike and regular combat damage.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/173.png" num="212">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/173.png" num="213">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2971,7 +2971,7 @@ Draw a card.</text>
 		<card>
 			<name>Revolutionary Throng</name>
 			<text>Whenever this creature attacks, if you control another creature with power 4 or greater, it gets +2/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/175.png" num="205">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/175.png" num="206">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4167,7 +4167,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>Choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/245.png" num="211">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/245.png" num="212">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4183,7 +4183,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Rolling Thunder</name>
 			<text>Rolling Thunder deals X damage divided as you choose among any number of targets.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png" num="206">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png" num="207">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5022,7 +5022,7 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
 		<card>
 			<name>Set Ablaze</name>
 			<text>Set Ablaze deals 2 damage to any target. You may discard up to two cards, then draw that many cards.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/295.png" num="209">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/295.png" num="210">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5190,7 +5190,7 @@ Draw three cards.</text>
 		<card>
 			<name>Unleash the Dragon</name>
 			<text>Unleash the Dragon deals 1 damage to any target for each spell cast this turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png" num="215">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png" num="216">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6326,7 +6326,7 @@ When you cycle this card, it deals 1 damage to each opponent.</text>
 			<text>Trample (This creature can deal excess combat damage to the player it&apos;s attacking.)
 When this creature enters, creatures you control get +1/+0 and gain trample until end of turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/370.png" num="208">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/370.png" num="209">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6378,7 +6378,7 @@ Landfall — Whenever a land you control enters, this creature deals 1 damage to
 		<card>
 			<name>Thunderwolf</name>
 			<text>Whenever this creature attacks, exile the top card of your library. You may play that card this turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/373.png" num="214">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/373.png" num="215">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7303,7 +7303,7 @@ Draw a card.</text>
 		<card>
 			<name>Threaten</name>
 			<text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/428.png" num="213">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/428.png" num="214">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7317,23 +7317,22 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Unruly Catapult</name>
-			<text>Defender (This creature can&apos;t attack.)
-{T}: This creature deals 1 damage to each opponent.
-Whenever you cast an instant or sorcery spell, untap this creature.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/429.png" num="216">PBC</set>
+			<name>Ragged Shortspear</name>
+			<text>When this Equipment enters, you may discard a card. If you do, draw two cards.
+Equipped creature gets +2/+0.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/429.png" num="203">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Construct</type>
-				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>0/4</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Sylvan Majesty</name>

@@ -645,7 +645,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/64.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/76.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/98.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/171.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Wolverine",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/173.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/175.png"
 			}
@@ -2455,7 +2455,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/245.png"
 			}
@@ -2465,7 +2465,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/246.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/295.png"
 			}
@@ -3055,7 +3055,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/305.png"
 			}
@@ -3705,7 +3705,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Serpent",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/370.png"
 			}
@@ -3735,7 +3735,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Wolf",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/373.png"
 			}
@@ -4285,17 +4285,17 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/428.png"
 			}
 		},
 		{
-			"name": "Unruly Catapult",
+			"name": "Ragged Shortspear",
 			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "216",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/429.png"
 			}
@@ -4932,7 +4932,7 @@
 	1 Boots of Speed
 	1 Erupt
 	1 Threaten
-	1 Unruly Catapult
+	1 Ragged Shortspear
 	1 Sylvan Majesty
 	1 Veloheart Bike
 	1 Verdant Faith

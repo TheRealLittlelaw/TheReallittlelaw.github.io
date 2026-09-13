@@ -1624,12 +1624,12 @@
         "position": "313"
     },
     {
-        "card_name": "Rending Raptor",
+        "card_name": "Ragged Shortspear",
         "number": 203,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "64"
+        "position": "429"
     },
     {
         "card_name": "Rosethorn Halberd",
@@ -1664,12 +1664,12 @@
         "position": "56"
     },
     {
-        "card_name": "Reply to the Call",
+        "card_name": "Rending Raptor",
         "number": 204,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "171"
+        "position": "64"
     },
     {
         "card_name": "Sabotage Skitterer",
@@ -1704,12 +1704,12 @@
         "position": "355"
     },
     {
-        "card_name": "Revolutionary Throng",
+        "card_name": "Reply to the Call",
         "number": 205,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "175"
+        "position": "171"
     },
     {
         "card_name": "Sahra's Brute",
@@ -1744,12 +1744,12 @@
         "position": "159"
     },
     {
-        "card_name": "Rolling Thunder",
+        "card_name": "Revolutionary Throng",
         "number": 206,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "246"
+        "position": "175"
     },
     {
         "card_name": "Strange Discovery",
@@ -1784,12 +1784,12 @@
         "position": "307"
     },
     {
-        "card_name": "Seismic Monstrosaur",
+        "card_name": "Rolling Thunder",
         "number": 207,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "76"
+        "position": "246"
     },
     {
         "card_name": "Sylvan Majesty",
@@ -1824,12 +1824,12 @@
         "position": "360"
     },
     {
-        "card_name": "Serpent of the Shabnam Sea",
+        "card_name": "Seismic Monstrosaur",
         "number": 208,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "370"
+        "position": "76"
     },
     {
         "card_name": "Titania's Avenger",
@@ -1864,12 +1864,12 @@
         "position": "361"
     },
     {
-        "card_name": "Set Ablaze",
+        "card_name": "Serpent of the Shabnam Sea",
         "number": 209,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "295"
+        "position": "370"
     },
     {
         "card_name": "Veloheart Bike",
@@ -1904,12 +1904,12 @@
         "position": "284"
     },
     {
-        "card_name": "Shivan Dragon",
+        "card_name": "Set Ablaze",
         "number": 210,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "98"
+        "position": "295"
     },
     {
         "card_name": "Verdant Faith",
@@ -1944,12 +1944,12 @@
         "position": "125"
     },
     {
-        "card_name": "Sieze Opportunity",
+        "card_name": "Shivan Dragon",
         "number": 211,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "245"
+        "position": "98"
     },
     {
         "card_name": "Voice of the Roil",
@@ -1984,12 +1984,12 @@
         "position": "182"
     },
     {
-        "card_name": "Spelleater Wolverine",
+        "card_name": "Sieze Opportunity",
         "number": 212,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "173"
+        "position": "245"
     },
     {
         "card_name": "Wanderer of the Wilds",
@@ -2024,12 +2024,12 @@
         "position": "183"
     },
     {
-        "card_name": "Threaten",
+        "card_name": "Spelleater Wolverine",
         "number": 213,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "428"
+        "position": "173"
     },
     {
         "card_name": "Warbriar's Blessing",
@@ -2064,12 +2064,12 @@
         "position": "146"
     },
     {
-        "card_name": "Thunderwolf",
+        "card_name": "Threaten",
         "number": 214,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "373"
+        "position": "428"
     },
     {
         "card_name": "Warden of Tartok Valley",
@@ -2104,12 +2104,12 @@
         "position": "176"
     },
     {
-        "card_name": "Unleash the Dragon",
+        "card_name": "Thunderwolf",
         "number": 215,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "305"
+        "position": "373"
     },
     {
         "card_name": "Watch the Wildlife",
@@ -2144,12 +2144,12 @@
         "position": "364"
     },
     {
-        "card_name": "Unruly Catapult",
+        "card_name": "Unleash the Dragon",
         "number": 216,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "429"
+        "position": "305"
     },
     {
         "card_name": "Winding Way",
