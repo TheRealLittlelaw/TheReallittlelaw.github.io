@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-13</releasedate>
+			<releasedate>2026-09-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4436,14 +4436,14 @@ Enchanted creature gets +2/+2 for each other creature you control that shares a 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Reliquary Lich</name>
+			<name>Reliquary Revenant</name>
 			<text>You may pay {UB}{UB}{UB} and sacrifice an artifact or enchantment rather than pay this spell&apos;s mana cost.
 Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png" num="359">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Skeleton Wizard</type>
+				<type>Creature — Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>5U/BU/B</manacost>
 				<cmc>7</cmc>

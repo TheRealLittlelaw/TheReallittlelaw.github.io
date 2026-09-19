@@ -5489,10 +5489,10 @@
             "notes": ""
         },
         {
-            "card_name": "Reliquary Lich",
+            "card_name": "Reliquary Revenant",
             "color": "UB",
             "rarity": "cube",
-            "type": "Creature \u2014 Skeleton Wizard",
+            "type": "Creature \u2014 Spirit",
             "number": 359,
             "color_identity": "UB",
             "cost": "{5}{UB}{UB}",
@@ -9458,5 +9458,5 @@
             "notes": ""
         }
     ],
-    "version": 37
+    "version": 38
 }

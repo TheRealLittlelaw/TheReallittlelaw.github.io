@@ -1,4 +1,12 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Reliquary Revenant added.
+
+Reliquary Lich removed.
+
+
+VERSION 37 CHANGELOG
 ====================
 
 Ragged Shortspear added.

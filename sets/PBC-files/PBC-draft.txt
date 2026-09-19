@@ -2611,10 +2611,10 @@
 			}
 		},
 		{
-			"name": "Reliquary Lich",
+			"name": "Reliquary Revenant",
 			"rarity": "special",
 			"mana_cost": "{5}{U/B}{U/B}",
-			"type": "Creature — Skeleton Wizard",
+			"type": "Creature — Spirit",
 			"collector_number": "359",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/261.png"
@@ -4764,7 +4764,7 @@
 	1 Order of the Rose
 	1 Bond of Honour
 	1 Kindred Leadership
-	1 Reliquary Lich
+	1 Reliquary Revenant
 	1 Political Opportunist
 	1 Outland Alchemist
 	1 Voracious Daemogoth

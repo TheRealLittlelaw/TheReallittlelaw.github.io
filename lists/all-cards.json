@@ -6004,10 +6004,10 @@
             "v_mana": ""
         },
         {
-            "card_name": "Reliquary Lich",
+            "card_name": "Reliquary Revenant",
             "color": "UB",
             "rarity": "cube",
-            "type": "Creature \u2013 Skeleton Wizard",
+            "type": "Creature \u2013 Spirit",
             "number": 359,
             "color_identity": "UB",
             "cost": "{5}{UB}{UB}",
