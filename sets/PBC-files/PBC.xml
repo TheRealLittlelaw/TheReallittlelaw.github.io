@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-19</releasedate>
+			<releasedate>2026-09-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1874,7 +1874,7 @@ Chandra&apos;s Inferno deals 2 damage to each creature. If this spell was kicked
 		<card>
 			<name>Leonin Revivalist</name>
 			<text>When this creature enters, you may put a basic land card from your hand or graveyard onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/110.png" num="244">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/110.png" num="245">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1891,7 +1891,7 @@ Chandra&apos;s Inferno deals 2 damage to each creature. If this spell was kicked
 		<card>
 			<name>Lys Alana Informant</name>
 			<text>When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/111.png" num="248">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/111.png" num="249">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,17 +1953,18 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Primal Resurgence</name>
-			<text>Enchant land (Target a land as you cast this. This card enters attached to that land.)
-Enchanted land has &quot;{T}: Add {G}{G}.&quot;</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/115.png" num="252">PBC</set>
+			<name>Kelp Garden</name>
+			<text>Enchant land you control (Target a land you control as you cast this. This card enters attached to that land you control.)
+When this Aura enters, mill three cards. (Put the top three cards of your library into your graveyard.)
+Whenever enchanted land is tapped for mana, add one mana of any color among cards in your graveyard. (Lands are colorless.)</text>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/115.png" num="243">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2511,7 +2512,7 @@ Fling deals damage equal to the sacrificed creature&apos;s power to any target.<
 		<card>
 			<name>Might of Old Krosa</name>
 			<text>Target creature gets +2/+2 until end of turn. If you cast this spell during your main phase, that creature gets +4/+4 until end of turn instead.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/148.png" num="251">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/148.png" num="252">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3694,7 +3695,7 @@ When this creature enters, if it was kicked, gain control of target creature unt
 		<card>
 			<name>Llanowar Elves</name>
 			<text>{T}: Add {G}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/217.png" num="245">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/217.png" num="246">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3711,7 +3712,7 @@ When this creature enters, if it was kicked, gain control of target creature unt
 		<card>
 			<name>Malamet Brawler</name>
 			<text>Whenever this creature attacks, target attacking creature gains trample until end of turn. (That creature can deal excess combat damage to the player it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/218.png" num="249">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/218.png" num="250">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3747,7 +3748,7 @@ Alliance — Whenever another creature you control enters, this creature gets +1
 			<name>Llanowar Visionary</name>
 			<text>When this creature enters, draw a card.
 {T}: Add {G}.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/220.png" num="246">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/220.png" num="247">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4678,7 +4679,7 @@ When this Aura is put into a graveyard from the battlefield, draw a card.</text>
 			<text>Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)
 Enchanted creature gets +2/+2.
 {4}{G}: Return Kernon&apos;s Consecration from your graveyard to the battlefield attached to target creature you control. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png" num="243">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png" num="244">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5173,7 +5174,7 @@ Draw three cards.</text>
 		<card>
 			<name>Loresprout</name>
 			<text>When this creature enters, if you control another creature, draw a card.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png" num="247">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png" num="248">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7409,7 +7410,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Mana Harvesters</name>
 			<text>{T}: Add one mana of any color.
 Whenever you cast a multicolored spell, untap this creature. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/434.png" num="250">PBC</set>
+			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/434.png" num="251">PBC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

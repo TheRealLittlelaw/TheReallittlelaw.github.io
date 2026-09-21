@@ -1072,12 +1072,12 @@
         "position": "216"
     },
     {
-        "card_name": "Kernon's Consecration",
+        "card_name": "Kelp Garden",
         "number": 243,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "275"
+        "position": "115"
     },
     {
         "card_name": "Plate Armor",
@@ -1112,12 +1112,12 @@
         "position": "80"
     },
     {
-        "card_name": "Leonin Revivalist",
+        "card_name": "Kernon's Consecration",
         "number": 244,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "110"
+        "position": "275"
     },
     {
         "card_name": "Redeploy",
@@ -1152,12 +1152,12 @@
         "position": "365"
     },
     {
-        "card_name": "Llanowar Elves",
+        "card_name": "Leonin Revivalist",
         "number": 245,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "217"
+        "position": "110"
     },
     {
         "card_name": "Rumor Gatherer",
@@ -1192,12 +1192,12 @@
         "position": "117"
     },
     {
-        "card_name": "Llanowar Visionary",
+        "card_name": "Llanowar Elves",
         "number": 246,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "220"
+        "position": "217"
     },
     {
         "card_name": "Salt Road Packbeast",
@@ -1232,12 +1232,12 @@
         "position": "266"
     },
     {
-        "card_name": "Loresprout",
+        "card_name": "Llanowar Visionary",
         "number": 247,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "304"
+        "position": "220"
     },
     {
         "card_name": "Savannah Lions",
@@ -1272,12 +1272,12 @@
         "position": "244"
     },
     {
-        "card_name": "Lys Alana Informant",
+        "card_name": "Loresprout",
         "number": 248,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "111"
+        "position": "304"
     },
     {
         "card_name": "Sealing Strike",
@@ -1312,12 +1312,12 @@
         "position": "369"
     },
     {
-        "card_name": "Malamet Brawler",
+        "card_name": "Lys Alana Informant",
         "number": 249,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "218"
+        "position": "111"
     },
     {
         "card_name": "Searing Sands",
@@ -1352,12 +1352,12 @@
         "position": "302"
     },
     {
-        "card_name": "Mana Harvesters",
+        "card_name": "Malamet Brawler",
         "number": 250,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "434"
+        "position": "218"
     },
     {
         "card_name": "Serra Angel",
@@ -1392,12 +1392,12 @@
         "position": "230"
     },
     {
-        "card_name": "Might of Old Krosa",
+        "card_name": "Mana Harvesters",
         "number": 251,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "148"
+        "position": "434"
     },
     {
         "card_name": "Settle Beyond Reality",
@@ -1432,12 +1432,12 @@
         "position": "268"
     },
     {
-        "card_name": "Primal Resurgence",
+        "card_name": "Might of Old Krosa",
         "number": 252,
         "shape": "normal",
         "set": "PBC",
         "rotated": false,
-        "position": "115"
+        "position": "148"
     },
     {
         "card_name": "Shepherding Spirits",

@@ -1105,7 +1105,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat Druid",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Rogue",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/111.png"
 			}
@@ -1151,11 +1151,11 @@
 			}
 		},
 		{
-			"name": "Primal Resurgence",
+			"name": "Kelp Garden",
 			"rarity": "special",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "252",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/115.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/148.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/217.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat Warrior",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/218.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/220.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/275.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/304.png"
 			}
@@ -4345,7 +4345,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://TheReallittlelaw.github.io/sets/PBC-files/img/434.png"
 			}
@@ -4618,7 +4618,7 @@
 	1 Bonesplitter
 	1 Into the Woods
 	1 Thalia's Skill
-	1 Primal Resurgence
+	1 Kelp Garden
 	1 Exeunt
 	1 Left on the Wayside
 	1 Terraformer's Globe

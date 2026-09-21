@@ -1,4 +1,14 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Kelp Garden added.
+
+Primal Resurgence removed.
+
+Duskwood Vanguard
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Reliquary Revenant added.
