@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "LUV",
+            "set_name": "Love Cube",
+            "formats": ""
+        },
+        {
             "set_code": "PBC",
             "set_name": "Peanut Bar Cube",
             "formats": ""
