@@ -1,4 +1,22 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+
+type: Instant => 
+cost: {3}{U}{U}{U} => {GW}
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+End the turn. [i](Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i] => 
+
+
+type: Instant => 
+cost: {3}{U}{U}{U} => {GW}
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+End the turn. [i](Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and “this turn” and “until end of turn” effects end.)[/i] => 
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Preparation added.
