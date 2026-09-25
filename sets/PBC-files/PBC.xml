@@ -5,7 +5,7 @@
 			<name>PBC</name>
 			<longname>Peanut Bar Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-21</releasedate>
+			<releasedate>2026-09-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -5090,7 +5090,7 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Mana Potion</name>
-			<text>When Mana Potion enters, scry 1, then draw a card. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
+			<text>When this artifact enters, scry 1, then draw a card. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
 {2}, {T}, Sacrifice Mana Potion: Add two mana of any one color.</text>
 			<set rarity="rare" picurl="https://TheReallittlelaw.github.io/sets/PBC-files/img/299.png" num="398">PBC</set>
 			<prop>

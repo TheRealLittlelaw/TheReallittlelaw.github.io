@@ -1,4 +1,15 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Mana Potion
+rules_text: When Mana Potion enters, scry 1, then draw a card. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+{2}, {T}, Sacrifice Mana Potion: Add two mana of any one color. => When this artifact enters, scry 1, then draw a card. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+{2}, {T}, Sacrifice Mana Potion: Add two mana of any one color.
+
+
+VERSION 39 CHANGELOG
 ====================
 
 Kelp Garden added.
