@@ -1,4 +1,1528 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Whispered Breath added.
+Soulblade added.
+Recurring Abomination added.
+Persevere added.
+Ambitious Necromancer added.
+Beyond the Veil added.
+Kai'Oro, Grave Betrayer added.
+Scythecat Cub added.
+The Creation of Avacyn added.
+Kernon, Primeval Ritualist added.
+Azamir, Wayward Titan added.
+Admonish added.
+Embodied Soul added.
+Envious Geist added.
+Etherium Abrogator added.
+Frontier Savior added.
+Lonesome Traveler added.
+Sandstreamer added.
+Master Negotiator added.
+The Path of Phenax added.
+Academic's Claymore added.
+Goblin War Chariot added.
+Seismic Colossus added.
+Rustshell Crustacean added.
+Tempered Ankulim added.
+Experimental Upgrades added.
+Intrepid added.
+Mana Potion added.
+Hexstone added.
+Enlightened Sigil added.
+Hellion Devastator added.
+Carnage Tyrant added.
+Moonshaker Cavalry added.
+Looming Cyhawk added.
+The Ruins Awaken added.
+
+Sun Titan removed.
+Operation removed.
+Fire removed.
+Unholy Annex removed.
+
+Jarad vod Savo
+rules_text: Deathtouch
+{BG}{BG}{BG}: Jarad becomes an Elf Zombie with base power and toughness 4/4 and gains lifelink.
+{BG}{BG}{BG}{BG}{BG}: If Jarad is a Zombie, put three +1/+1 counters on him and he gains “Creature cards in your graveyard have retrace.” [i](You may cast them from your graveyard by discarding a land card in addition to paying their other costs.)[/i] => Deathtouch
+{BG}{BG}{BG}: Jarad becomes an Elf Zombie with base power and toughness 4/4 and gains trample.
+{BG}{BG}{BG}{BG}{BG}: If Jarad is a Zombie, put three +1/+1 counters on him and he gains “Creature cards in your graveyard have retrace.” [i](You may cast them from your graveyard by discarding a land card in addition to paying their other costs.)[/i]
+
+Archmage's Tower
+
+Crazed Neonate
+
+Glamoursnipe
+
+Vengeful Bloodwitch
+
+Careless Violence
+
+Carrion Scythe
+
+Chigau, the Red Market
+
+Channeling Stone
+
+Daring Escapade
+
+Devotee of the Boar
+
+Enchanting Palace
+
+Bloodghast
+
+Sanguine Lunatic
+
+Gifted Aetherborn
+
+Count on Luck
+
+Triskaidekaphobia
+
+Phyrexian Obliterator
+
+Abyssal Harvester
+
+Molten Duplication
+
+The Lost and the Damned
+
+Ambling Safe
+
+Desiccate
+
+Ruin-Raid Skycraft
+
+The Regulator Orrery
+
+Duplicate
+
+Clone Legion
+
+Sire of Seven Deaths
+
+Serra's Grace
+
+Wall of Hedrons
+
+Apostle of Serra
+
+Auroric Iceblade
+
+Starsworn Canonist
+
+Supernova
+
+Arcane Encore
+
+Archivist's Armillary
+
+Consult the Runes
+
+Cthonic Arcana
+
+Mistify
+
+Screeching Delusions
+
+Shield Splicer
+
+Shipcrusher Serpent
+
+Sweet Dreams
+
+Talrand's Favored
+
+Three Card Bluff
+
+Avera, Duchess of the Dead
+
+Diabolic Primordial
+
+Forgotten Ritual
+
+Midnight Wish
+
+Murderous Intent
+
+Necrotic Dissolution
+
+Oversaturate
+
+Thrull Scamp
+
+Dragon-Tongue Technique
+
+Flameslash Rapier
+
+Fracturing Impact
+
+Goblin Stoneworker
+
+Seething Primordial
+
+Draconic Descent
+
+Barkheart Dryad
+
+Gaea's Emissary
+
+Harvest Moon
+
+Imaryll's Call
+
+Lurking Serpopard
+
+Primordial Rhythm
+
+Rootpath Wanderer
+
+Thieving Primates
+
+Tireless Pioneer
+
+Azorius Mandate
+
+Bird's Eye View
+
+Coral Witness
+
+Dear Departure
+
+Envoy of Nature
+
+Flight of the Weatherlight
+
+Miraculous Genesis
+
+Plumb the Mind
+
+Silent Rapture
+
+Soul Confidant
+
+Spontaneous Plasmosis
+
+Voracity Splicer
+
+Wealth Spiral
+
+Cloudform Snake
+
+Crematory Scamp
+
+Impulsive Outing
+
+Rites of Rebirth
+
+Arcane Tome
+
+Splitspeed Blitzboots
+
+Traveler's Lantern
+
+Amorphous Barrens
+
+Amorphous Coastline
+
+Amorphous Falls
+
+Amorphous Glade
+
+Amorphous Hellscape
+
+Amorphous Mesa
+
+Amorphous Riverside
+
+Amorphous Trail
+
+Amorphous Tundra
+
+Amorphous Vista
+
+Barren Pasture
+
+Battered Shipwreck
+
+Dormant Halls
+
+The Eternal Glade
+
+Forgotten Tomb
+
+Fractured Spire
+
+Hillside Wreckage
+
+Hollow Bulwark
+
+Limits of Imagination
+
+Reflective Matrix
+
+Silent Estuary
+
+Sundried Savannah
+
+Unkempt Farmland
+
+Wartorn Theater
+
+Mutable Explorer
+
+Taurean Mauler
+
+Realmwalker
+
+Shapesharer
+
+Amoeboid Changeling
+
+Deflecting Palm
+
+Skulldrifter
+
+Pathfinding
+
+Azusa, Lost but Seeking
+
+Anointed Cursebreaker
+
+Nebula of Empty Gold
+
+Transdimensional Visitor
+
+Void Portal
+
+Young Osteomancer
+
+Zadyk Ritualist
+
+Greedstoker Demon
+
+Hellkite Annihilator
+
+Inner Thoughts
+
+Firebelly Toad
+
+Gaoming, Foxes' Friend
+
+Merfolk Trickster
+
+Reef Worm
+
+Omniscience
+
+Zombie Hydra
+
+Necrodominance
+
+Goblin Diplomats
+
+Shivan Dragon Egg
+
+Fling
+
+Seismic Assault
+
+Primal Might
+
+Ghalta, Primal Hunger
+
+Pyromancer's Staff
+
+Rites of Urd
+
+Vesuvan Mirror
+
+Bloodthirsty Conqueror
+
+Demonic Pact
+
+Arlinn's Rage
+
+Kozilek, Butcher of Truth
+
+Ulamog, the Ceaseless Hunger
+
+Dryad Arbor
+
+Chronomancy
+
+Prismatic Spray
+
+Wake the Warrens
+
+Master of Mischief
+
+Toxic Deluge
+
+As Foretold
+
+Fathom the Unfathomable
+
+Blade of Saint Traft
+
+Helvault, Shard of the Moon
+
+Harness Nature
+
+Glutton of Zhava
+
+Dark Ascension
+
+Cathar's Armory
+
+Ghoulcaller's Graf
+
+Unethical Research
+
+Sinister Thicket
+
+Entropy's Descent
+
+Alchemist's Grimoire
+
+Arasta's Handmaiden
+
+Underworld Tormentor
+
+Trinity of Fates
+
+Ancesteral Theorem
+
+Zimone, All-Questioning
+
+Cathedral Acolyte
+
+Siege Bombardment
+
+Angel Umbra
+
+Blade of Greatoak
+
+Metamorphling
+
+Destined Nyxborn
+
+Drudge Champion
+
+Fate Reforged
+
+Marvelous Machine
+
+Mirari's Allure
+
+Pack Cat
+
+Rage
+
+Seal the Eldrazi
+
+Sisay, the Explorer
+
+Bloodbraid Shaman
+
+Mirewalla
+
+Vampiric Rites
+
+Transmogrant Altar
+
+Approach of the Second Sun
+
+Tidal Homarid
+
+Keeper of Trinkets
+
+Hollow One
+
+Xathrid Bonespinner
+
+Heartless Summoning
+
+Embrace the Unknown
+
+Wall of Magma
+
+Keldon Intimidator
+
+Changeling Doppelganger
+
+Colossus of Trax
+
+Agent of Deception
+
+Sludge-Gill Fox
+
+Relic of Bolas
+
+Solemn Simulacrum
+
+Surreal Garden
+
+Surreal Cove
+
+Surreal Morass
+
+Surreal Den
+
+Surreal Trail
+
+Lost in the Hauntwoods
+
+Fountainport
+
+Winds of Abandon
+
+Mantle of the Sun
+
+Glacial Fortress
+
+Clifftop Retreat
+
+Dragonskull Summit
+
+Drowned Catacomb
+
+Hinterland Harbor
+
+Isolated Chapel
+
+Rootbound Crag
+
+Sulfur Falls
+
+Sunpetal Grove
+
+Woodland Cemetery
+
+Valeron Estate
+
+Tidehollow Channel
+
+Sedraxis Ruins
+
+Cicatrice Ravine
+
+Qasali Valley
+
+Talon Gates of Madara
+
+Thriving Bluff
+
+Thriving Heath
+
+Thriving Grove
+
+Thriving Isle
+
+Thriving Moor
+
+Apocalypse Flock
+
+Feast of the Victorious Dead
+
+Ledgerdemangeling
+
+Blackblade Reforged
+
+Earthshaker Giant
+
+Treacherous Blessing
+
+Pact of Negation
+
+Deprive
+
+Tarmogoyf
+
+Wild Nacatl
+
+Savage Naga
+
+Tectonic Edge
+
+Grim Lavamancer
+
+Ghost Vacuum
+
+Territorial Kavu
+
+Lotus Cobra
+
+Hero of Bladehold
+
+Run Away Together
+
+Autumn Winds
+
+Rending Fangs
+
+Cuombajj Witches
+
+Sower of Temptation
+
+Promise of Tomorrow
+
+Aminatou's Augury
+
+Displacement Wave
+
+Temper the Mind
+
+Skybreath Stormsinger
+
+All That Glitters
+
+Basilisk Collar
+
+Bloodforged Battle-Axe
+
+Wayfarer's Bauble
+
+Everflowing Chalice
+
+Throne of Eldraine
+
+Through the Omenpath
+
+Timeless Lotus
+
+Aether Channeler
+
+Charming Prince
+
+Bitterbloom Bearer
+
+Archangel of Thune
+
+Aetherize
+
+Bitter Triumph
+
+Laboratory Maniac
+
+Memories Returning
+
+Thoughtseize
+
+Vexing Devil
+
+Hypnotic Specter
+
+Banefire
+
+Might of Old Krosa
+
+Thran Dynamo
+
+Door to Nothingness
+
+Late to Dinner
+
+Metastatic Evangel
+
+Reprobation
+
+Higure's Evasion
+
+Austere Command
+
+Lorescale Coatl
+
+Form of the Dragon
+
+Rise and Shine
+
+Suspend
+
+Chromanticore
+
+Twisted Reflection
+
+Feaster of Fools
+
+Greed
+
+Graveshifter
+
+Nadier's Nightblade
+
+Mind Rake
+
+Cleaving Sliver
+
+Hollowhead Sliver
+
+Mine Collapse
+
+Mogg Mob
+
+Spiteful Sliver
+
+Throes of Chaos
+
+Viashino Sandsprinter
+
+Ayula's Influence
+
+Birthing Ritual
+
+Blessed Respite
+
+Foundation Breaker
+
+Llanowar Tribe
+
+Nantuko Cultivator
+
+Springbloom Druid
+
+Tempered Sliver
+
+Trickster's Elk
+
+Moderation
+
+Horrid Shadowspinner
+
+Rakdos Headliner
+
+Ruination Rioter
+
+Good-Fortune Unicorn
+
+Collected Conjuring
+
+Invert Polarity
+
+Fodder Tosser
+
+Millikin
+
+Liquimetal Torque
+
+Myr Scrapling
+
+Tormod's Cryptkeeper
+
+Universal Automaton
+
+Barren Moor
+
+Secluded Steppe
+
+Lonely Sandbar
+
+Forgotten Cave
+
+Tranquil Thicket
+
+Nesting Grounds
+
+Urza's Gate
+
+Manaweft Sliver
+
+Galerider Sliver
+
+Sliver Hivelord
+
+Bonescythe Sliver
+
+Sentinel Sliver
+
+Syphon Sliver
+
+Venom Sliver
+
+Striking Sliver
+
+Megantic Sliver
+
+Blur Sliver
+
+Capricious Sliver
+
+Tear Asunder
+
+Etched Golem
+
+Nightveil Thief
+
+Predatory Sliver
+
+Slippery Sliver
+
+Ambuscade Sliver
+
+Chameleon Sliver
+
+Mireborn Sliver
+
+Tombstalker
+
+Enter the Spirit World
+
+Hellkite Tormentor
+
+Ancient Response
+
+Thassa, Deep-Dwelling
+
+Mass Manipulation
+
+Risen Reed
+
+Abrupt Decay
+
+Vanishing Verse
+
+Edge of Autumn
+
+Collected Company
+
+Once Upon a Time
+
+Ripjaw Raptor
+
+Surrak, Elusive Hunter
+
+Quirion Beastcaller
+
+Jolrael, Mwonvuli Recluse
+
+Searslicer Goblin
+
+Inquisition of Kozilek
+
+Sheoldred's Edict
+
+Urborg Scavengers
+
+Misery's Shadow
+
+Archmage Emeritus
+
+Archmage's Charm
+
+Secrets of the Deep
+
+Spellstutter Sprite
+
+Faerie Vandal
+
+Faerie Mastermind
+
+Brago, King Eternal
+
+Flickerwisp
+
+Stock Up
+
+Elspeth's Smite
+
+Syncopate
+
+Underworld Dreams
+
+Pernicious Deed
+
+Progenitus
+
+Descendant's Path
+
+Harrow
+
+Warleader's Call
+
+Platinum Angel
+
+Feed the Swarm
+
+Portalmancy
+
+Lier, Disciple of the Drowned
+
+Ethereal Forager
+
+Vito, Thorn of the Dusk Rose
+
+Canyon Slough
+
+Festering Thicket
+
+Fetid Pools
+
+Glittering Massid
+
+Irrigated Farmland
+
+Scattered Groves
+
+Sheltered Thicket
+
+Dreary Township
+
+Boiling Ridge
+
+Rain-Slicked Copse
+
+Akroma, Sky Splitter
+
+Day of Black Sun
+
+Unstoppable Slasher
+
+Grim Flayer
+
+Quint's Insight
+
+Maarika, Brutal Gladiator
+
+Dream Trawler
+
+Phyrexian Portal Ship
+
+Ketramose's Ferryman
+
+Tectonic Hellion
+
+Liliana's Call
+
+Gray Merchant of Asphodel
+
+Psychic Torture
+
+Schemer of Eos
+
+The Truth of Names
+
+Dreamnap
+
+Electromancer Ascendant
+
+Cornelius, Storm Sage
+
+Mycosynth Orchard
+
+Excavate
+
+Consult the Star Charts
+
+Champion of the Parish
+
+Ardent Rise
+
+Forgotten Junkyard
+
+Faulty Server
+
+Regrowing Outlands
+
+Meteoric Facade
+
+Lost and Found
+
+Reified Borough
+
+Glittering Club
+
+Isolated Tower
+
+Silent Lakefront
+
+Moonrise Novitiate
+
+Selkie Umbra
+
+Hellfire Elemental
+
+Niko's Mastery
+
+Doomed Artificer
+
+Cloudborn Citadel
+
+Cityscape Terminus
+
+Harrowing Quag
+
+Loathsome Redoubt
+
+Luminous Fissure
+
+Noble Steppeland
+
+Rumbling Road
+
+Sanctified Vale
+
+Sun-Blessed Waypoint
+
+Wayward Foundry
+
+Sodden Verdure
+
+Canopy Vista
+
+Cinder Glade
+
+Prarie Stream
+
+Radiant Summit
+
+Smoldering Marsh
+
+Sunken Hollow
+
+Vernal Fen
+
+Torrid Geysers
+
+Deserted Steppe
+
+Blackcleave Cliffs
+
+Blooming Marsh
+
+Botanical Sanctum
+
+Concealed Courtyard
+
+Copperline Gorge
+
+Darkslick Shores
+
+Inspiring Vantage
+
+Razorverge Thicket
+
+Seachrome Coast
+
+Spirebluff Canal
+
+Ashnod's Interrogator
+
+Tymaret's Standard-Bearer
+
+Daxos's Bane
+
+Slippery Bogbonder
+
+Amber Hills
+
+Barren Desolation
+
+Sunlit Highland
+
+Grim Bastion
+
+Floodwater Depths
+
+Magmatic Torrent
+
+Shardstone Rift
+
+Ocean Monastery
+
+Timber Range
+
+Umezawa's Nodachi
+
+Cruel Justice
+
+Abundant Countryside
+
+Multiversal Passage
+
+Ashling, Flame Dancer
+
+Ghostfire Meditation
+
+Flock Impostor
+
+Chomping Changeling
+
+Changeling Wayfinder
+
+Omni-Changeling
+
+Leyline Weaver
+
+Aven Vanguard
+
+Yavimaya Stalwart
+
+Rampaging Thundersnout
+
+Darkwater Brute
+
+Etherdrifter
+
+Path of Vengeance
+
+Realmwild Changeling
+
+Migration Path
+
+Cloud of Faeries
+
+Marauding Mako
+
+Scrounging Skyray
+
+Kiln Fiend
+
+Mezzio Thespian
+
+Existential Paradox
+
+Gideon's Lawkeeper
+
+Haunted Doll
+
+Sealing Strike
+
+Valiant Changeling
+
+Cadalon Outfitter
+
+Deeptreader Arcanist
+
+Deft Deflection
+
+Intangibility
+
+Sabotage
+
+Seeker of Mysteries
+
+Terraformer's Globe
+
+Nova Cinder
+
+Pestilent Scavenger
+
+Unearth
+
+Writheling
+
+Impact Tremors
+
+Igneous Visions
+
+Rolling Thunder
+
+Dedicated Bushwacker
+
+Duskwood Vanguard
+
+Gitrog's Spawn
+
+A Journey Begins
+
+Loresprout
+
+Stripped of Standing
+
+Containment Construct
+
+Civic Concord
+
+Sepulchral Quarter
+
+Sunlit District
+
+Verdant Commons
+
+Veiled Ruins
+
+Restless Port
+
+Ancient Enclave
+
+Rugged Village
+
+Forsaken Garden
+
+Brazen Hideout
+
+Champion of the Flame
+
+Blood Crypt
+
+Breeding Pool
+
+Godless Shrine
+
+Hallowed Fountain
+
+Overgrown Tomb
+
+Sacred Foundry
+
+Steam Vents
+
+Stomping Ground
+
+Temple Garden
+
+Watery Grave
+
+Kaalia, the Lost
+
+Fblthp, Errant Homunculus
+
+Order of Midnight
+
+Meteroic Vanguard
+
+Beanstalk Giant
+
+Liliana of the Veil
+
+Emrakul, the Promised End
+
+Ajani, Caller of the Hosts
+
+Auros, the Red King
+
+Frozen Over
+
+Mindbent Trance
+
+Eternal Sleep
+
+Ibligm, The Sporesage
+
+Wrenn's Recruiter
+
+Rogbin, Plucker of Wings
+
+Felise, Scion of Autumn
+
+Valakut Hellkite
+
+Valeri Kripac
+
+Irbek, Crocodile Hunter
+
+Heliod, the Ceaseless Dawn
+
+Krenko, Mob Boss
+
+Avacyn, the Savior
+
+Archdemon Shilgengar
+
+Olivia Voldaren, Progenitrix
+
+Tetsuko Umezawa, Fugitive
+
+Garruk, Savage Sevant
+
+Ragavan, Riches Plunderer
+
+Venser, Teleportationeer
+
+Wanderer of Eiganjo
+
+Taigam, Master Opportunist
+
+Lliona, Clique-Prime
+
+Inti, Seneschal of the Sun
+
+Urza's Saga
+
+Hazoret the Fervent
+
+Bontu the Betrayer
+
+Hazoret Lives
+
+Nissa, Who Shakes the World
+
+Chandra, Torch of Defiance
+
+The House Grows Hungry
+
+History of Benalia
+
+The Weatherlight Saga
+
+The Huntsman's Redemption
+
+The Eldest Reborn
+
+The Madness of Sarkhan
+
+Oath of the Gatewatch
+
+The Fifth Dawn
+
+Ashling's Pilgrimage
+
+Journey Into Nyx
+
+Night of the Crimson Vow
+
+The Ghirapur Grand Prix
+
+The Age of Trax
+
+The Neverending Act
+
+Katilda, Scion of Ghrin-Danu
+
+Morophon's Gift
+
+Mysterious Cataract
+
+Geier Reach Sanitarium
+
+Venerated Loxodon
+
+Cosmogrand Zenith
+
+Farewell
+
+Novice Inspector
+
+Portable Hole
+
+Geistwave
+
+Harmonized Crescendo
+
+Bedlam Reveler
+
+Monastery Swiftspear
+
+Questing Druid
+
+Ygra, Eater of All
+
+Three Tree City
+
+Valdez, Leafdown Vagabond
+
+Spiraling Hatred
+
+Enter the Infinite
+
+Etali, Primal Storm
+
+Chandra's Ignition
+
+Muldrotha, the Gravetide
+
+Rise of the Dark Realms
+
+Strionic Resonator
+
+Sculpting Steel
+
+Knight of the White Orchid
+
+Grim Tutor
+
+High Fae Trickster
+
+Vilis, Broker of Blood
+
+Primordial Hydra
+
+Dragon's Hoard
+
+Waste Not
+
+Sephara, Sky's Blade
+
+Thousand Year Storm
+
+Scavenging Ooze
+
+Homunculus Horde
+
+Stuffy Doll
+
+Raise the Past
+
+Pyromancer's Gauntlet
+
+Pyromancer's Goggles
+
+Preposterous Proportions
+
+Arcanis the Omnipotent
+
+Soul of New Phyrexia
+
+Occult Epiphany
+
+Cosmic Sinkhole
+
+Rakkiri Dissident
+
+Event Horizon
+
+Villainy
+
+Primal Resurgence
+
+Ferocious Flame
+
+Oriq Soulweaver
+
+Vithian Arcanist
+
+Tyrant of Tributes
+
+Tenuous Existence
+
+Powder Scatterer
+
+Scarlet Mist
+
+Nightmare Riders
+
+Face the Truth
+
+Elias il-kor, Sadistic Pilgrim
+
+Aesi, Tyrant of Gyre Strait
+
+Marvin, Murderous Mimic
+
+Marwyn, the Nurturer
+
+Teysa Karlov
+
+Atashvar Bowguard
+
+Azorius Signet
+
+Boros Signet
+
+Dimir Signet
+
+Golgari Signet
+
+Gruul Signet
+
+Izzet Signet
+
+Orzhov Signet
+
+Rakdos Signet
+
+Selesnya Signet
+
+Simic Signet
+
+Exeunt
+
+Rotting Regisaur
+
+Karina, Planar Tourist
+
+Okus, the Fabulous Hat
+
+Journey Beyond
+
+Nowhere to Run
+
+Soul-Scar Mage
+
+Goblin Electromancer
+
+Golden Touch
+
+Mind Control
+
+Prophetic Prism
+
+Scorching Blood
+
+Trade Route Bandit
+
+Crossing the Fog
+
+Past, Present, Future
+
+Scrapyard Sovereign
+
+Strike from the Shadows
+
+Rippling Curtain
+
+Fireheart Channeler
+
+Selfless Squire
+
+Lingering Souls
+
+Spellseeker
+
+Goblin Chainwhirler
+
+Morbid Opportunist
+
+Unnatural Growth
+
+Cryptolith Rite
+
+Metallic Mimic
+
+Patchwork Banner
+
+Crippling Fear
+
+Rallying Banners
+
+Race for the Glory
+
+The Unflappable Calamity Smith
+
+Ajani's Pridemate
+
+Divine Visitation
+
+Velir the Sunderer
+
+Profane Emissary
+
+Earthbreaker Behemoth
+
+Profound Introspection
+
+Orlesia, First of the Sen
+
+Turelion Justiciar
+
+Auroric Savior
+
+Rhys the Redeemed
+
+Torpor Harvester
+
+Eclipsed Stargazer
+
+Oracle's Vision
+
+Stolen Stratagem
+
+The Gitrog Monster
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
