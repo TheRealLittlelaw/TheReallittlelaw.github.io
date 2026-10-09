@@ -1,4 +1,293 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Malfunctioning Portal added.
+Archaic Obelisk added.
+
+Enlightened Sigil removed.
+
+Hellion Devastator
+
+Carnage Tyrant
+
+Moonshaker Cavalry
+
+Looming Cyhawk
+
+The Ruins Awaken
+
+Ambassador of Trest
+
+Heartflame Duelist
+
+Woodland Acolyte
+
+Dawn Hill Patriots
+
+Strict Tutor
+
+Twining Twins
+
+Thunderstride
+
+Frondpond Errand-Runner
+
+Return to Light
+
+Elusive Otter
+
+True Blood
+
+Guldul Jungle
+
+Goldengrave Plateau
+
+Qal Sisma Cascade
+
+Stormplains Boneyard
+
+Tiansun Summit
+
+Enter Ilysia
+
+Destined Pathfinder
+
+Dervish Dance
+
+Runeseeker's Sabre
+
+Moldwrought Terroriser
+
+Celestial Archivist
+
+Angelic Grovetender
+
+Solar Invocation
+
+Picnic Ruiner
+
+Salty Dog
+
+Decadent Dragon
+
+Scalding Viper
+
+Deadly Allure
+
+Cruel Somnophage
+
+Azun, Sheriff of Daisite
+
+Nicol Bolas, God-Pharaoh
+
+Xiong Mao, Survivalist
+
+Steel Leaf Champion
+
+Proud Wildbounder
+
+Embrace Perfection
+
+Dorebo, the Restless Visage
+
+Swordclaw's Fury
+
+Rite of the Old Ways
+
+Discern
+
+Magestrix Necromancer
+
+Celestial Concordance
+
+Ethereal Spellmaster
+
+Tomer, Figurehead President
+
+Kugaq's Brood
+
+Arcanist's Reaver
+
+As'Ahai, the Warsong
+
+Bant Command
+
+Rafiq the Magnanimous
+
+Wilderkin Behemoth
+
+Eo, the Great Equalizer
+
+Antali Archdruid
+
+Isshin, Two Heavens as One
+
+Lord Rickard Dawson
+
+Onya's Study
+
+Undue's Study
+
+The Mythical Zhiwu
+
+Skirmish Rhino
+
+Leyspark Wielder
+
+Totemic Kigatilik
+
+Call to Wander
+
+Éloi's Study
+
+Bright Future
+
+Prophet of the Veil
+
+Forsaken Gorgon
+
+Xirix, Time Reaver
+
+Assemble the Legion
+
+Liquidate
+
+Alehana the Persuader
+
+Ria-Demian Charm
+
+Nebula's Majesty
+
+Delve for Treasures
+
+Aether Pull
+
+Tyrant's Breath
+
+Ella's Agent
+
+Lucien, the Grifter
+
+Chained Ravager
+
+Invalidate
+
+Darklight Phoenix
+
+Tear Through
+
+Lumbering Ox
+
+Ragtag Squad
+
+Vukoroq Defector
+
+Ragecloak Shifter
+
+Vanguard Recruit
+
+Sharesh, Leader of the Lost
+
+Pyrewing Penancer
+
+Tocasia's Welcome
+
+Cavalier of Night
+
+Redemption Choir
+
+Woodland Bellower
+
+Ascendant Packleader
+
+Tanufel Rimespeaker
+
+Experiment Zero
+
+Tithe Official
+
+Goliath Tamer
+
+Fractured Prodigy
+
+The Fall of Trax
+
+Shroudwarder Phoenix
+
+Melodious Mallard
+
+Above Danawan
+
+Aspirant Peak
+
+Den of Sulfur
+
+Field of Rot
+
+Frigid Scrubland
+
+House of Long Shadows
+
+Plague-Ridden Alley
+
+Salt Road
+
+Streets of Worship
+
+Walls of Almgrove
+
+Bracing Crossroads
+
+Cruel Crossroads
+
+Hardened Crossroads
+
+Introspective Crossroads
+
+Turbulent Crossroads
+
+Rampant Consumption
+
+Remembering Devka
+
+Hayat, Whisper of Nightmares
+
+Tirenan Pyromancer
+
+Jara Champion
+
+Chi Lee of the Underworld
+
+Akoum Hellkite
+
+Empyrean Eagle
+
+Benthalos of Land and Sea
+
+Stoic Sentinel
+
+Hungry Blob
+
+Wildcourt Seeker
+
+New Growth
+
+Faithline Marshal
+
+Jade Champion
+
+Boundary Guardian
+
+Uncanny Woodghast
+
+Vow's Reflection
+
+Morbid Bloomer
+
+Bessie's Brood
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Guldul Jungle added.
