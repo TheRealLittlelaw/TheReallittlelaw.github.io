@@ -1,4 +1,58 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Dreamsight Well added.
+Glinthide Hero added.
+Anuran Encounters added.
+Cryptolabe added.
+Blinded Visionary added.
+Slippery Boggle added.
+
+
+Paradise Umbra
+rules_text: Enchant creature or land
+Enchanted permanent has “{T}: Add one mana of any color”.
+Umbra armor [i](If enchanted creature or land would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature or land
+Enchanted permanent has “{T}: Add one mana of any color”.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Scute Umbra
+rules_text: Enchant creature you control
+[i]Landfall[/i] — Whenever a land you control enters, create a green 1/1 Insect creature token. If you control six or more lands, create a token that's a copy of enchanted creature instead.
+Umbra armor [i](If enchanted creature you control would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature you control
+[i]Landfall[/i] — Whenever a land you control enters, create a green 1/1 Insect creature token. If you control six or more lands, create a token that's a copy of enchanted creature instead.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Angel Umbra
+rules_text: Enchant creature
+Enchanted creature gets +3/+3 and has flying and “All damage that would be dealt to you is dealt to this creature instead.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Enchanted creature gets +3/+3 and has flying and “All damage that would be dealt to you is dealt to this creature instead.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Selkie Umbra
+rules_text: Enchant creature
+Whenever enchanted creature deals combat damage to a player, you may 
+draw a card.
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Whenever enchanted creature deals combat damage to a player, you may 
+draw a card.
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Abyssal Burrower
+
+Ascended Zealot
+
+Spiteful Visions
+
+Strike of the Faceless
+
+Offering to the Div
+
+Knife Trick
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Burning-Tree Emissary added.
